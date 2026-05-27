@@ -8,6 +8,7 @@
 | [Project Gutenberg](https://www.gutenberg.org/) | 公版英文书库，适合高阶泛读 |
 | [Breaking News English](https://breakingnewsenglish.com/) | 同一新闻多难度版本，适合精读和听读结合 |
 | [Engoo Daily News](https://engoo.com/app/daily-news) | 新闻短文和讨论问题，适合中级学习 |
+| [protogenesis/New-Concept-English](https://github.com/protogenesis/New-Concept-English) | 新概念英语课文笔记，适合基础精读 |
 
 ## 新闻和长文
 
@@ -15,8 +16,8 @@
 | --- | --- |
 | [The Guardian](https://www.theguardian.com/international) | 英式新闻和评论 |
 | [NPR](https://www.npr.org/) | 美式新闻、文化和音频文本 |
-| [Aeon](https://aeon.co/) | 高质量长文，适合进阶阅读 |
 | [Quanta Magazine](https://www.quantamagazine.org/) | 科学类文章，适合专业英语输入 |
+| [MDN Web Docs](https://developer.mozilla.org/) | 程序员可用技术文档做英文阅读 |
 
 ## 练习方法
 

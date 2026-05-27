@@ -8,6 +8,7 @@
 | --- | --- |
 | 不知道怎么开始 | [30 天学习路线](docs/learning-path.md) |
 | 想找高质量 GitHub 英语资源 | [精选合集](docs/awesome-lists.md) |
+| 想直接用 GitHub 上的学习项目 | [GitHub 项目精选](docs/github-projects.md) |
 | 想每天打卡 | [学习打卡模板](templates/daily-check-in.md) |
 | 想按技能找资源 | 看下面的分类导航 |
 
@@ -20,6 +21,7 @@
 | [阅读](docs/reading.md) | 分级读物、新闻、泛读材料 |
 | [写作](docs/writing.md) | 语法检查、写作练习、学术/职场表达 |
 | [词汇与语法](docs/vocabulary-grammar.md) | 单词、Anki、语法系统学习 |
+| [GitHub 项目精选](docs/github-projects.md) | 开源英语学习项目、词汇库、程序员发音 |
 | [考试](docs/exams.md) | IELTS、TOEFL、四六级、综合测试 |
 | [程序员英语](docs/developer-english.md) | 技术文档、开源协作、工程师职场英语 |
 | [工具](docs/tools.md) | 字典、字幕、浏览器插件、AI 辅助工具 |

@@ -7,7 +7,7 @@
 | [BBC Learning English](https://www.bbc.co.uk/learningenglish) | 英式英语官方学习资源，节目短、主题清晰 |
 | [VOA Learning English](https://learningenglish.voanews.com/) | 美式慢速英语，适合练新闻听力和基础词汇 |
 | [6 Minute English](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english) | 每集约 6 分钟，适合每日固定听 |
-| [ESL Pod](https://www.eslpod.com/) | 慢速对话和讲解，适合初中级 |
+| [British Council LearnEnglish Listening](https://learnenglish.britishcouncil.org/skills/listening) | 按水平分级的听力练习，有题目和文本 |
 
 ## 中级和真实语料
 
@@ -16,7 +16,14 @@
 | [Luke's English Podcast](https://teacherluke.co.uk/) | 英语教师制作的长播客，适合中高级 |
 | [All Ears English](https://www.allearsenglish.com/) | 美式日常会话和表达 |
 | [Culips](https://esl.culips.com/) | ESL 播客，主题自然，讲解清楚 |
-| [English Learning for Curious Minds](https://www.leonardoenglish.com/podcasts) | 面向中高级学习者的知识类播客 |
+| [NPR Podcasts](https://www.npr.org/podcasts/) | 原速真实语料，适合中高级做泛听 |
+
+## GitHub 辅助资源
+
+| 资源 | 说明 |
+| --- | --- |
+| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 可参考其中朗读、精读和语音训练方法 |
+| [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) | 听完材料后，用连词成句方式练复述和输出 |
 
 ## 练习方法
 

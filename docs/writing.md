@@ -16,6 +16,7 @@
 | [Purdue OWL](https://owl.purdue.edu/) | 学术写作、引用格式、语法说明 |
 | [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/) | 学术写作常用表达 |
 | [Write & Improve](https://writeandimprove.com/) | Cambridge 提供的写作练习和反馈 |
+| [kodecocodes/english-style-guide](https://github.com/kodecocodes/english-style-guide) | 面向教程和技术文章的英文写作风格指南 |
 
 ## 练习方法
 
