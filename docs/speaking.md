@@ -18,6 +18,15 @@
 | [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 适合按朗读、复述、语音塑造建立训练流程 |
 | [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) | 用连词成句练口头造句，降低开口难度 |
 
+## 国内环境练口语
+
+| 方法 | 做法 |
+| --- | --- |
+| 单句循环跟读 | 用每日英语听力或可可英语选 5 句，逐句听、暂停、模仿、录音 |
+| 技术词发音 | 每天从程序员常见错误发音清单选 5 个词，查音标后跟读 |
+| 句子输出 | 用 earthworm 练连词成句，再把句子大声读出来 |
+| AI 对话 | 让 AI 一次只问一个问题，并要求它纠正最影响理解的 1-2 个错误 |
+
 ## 练习方法
 
 - 影子跟读：边听边模仿语音、节奏和停顿。

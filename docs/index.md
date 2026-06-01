@@ -7,6 +7,7 @@
 - [30 天学习路线](learning-path.md)
 - [精选 GitHub 合集](awesome-lists.md)
 - [GitHub 项目精选](github-projects.md)
+- [中国环境友好资源](china-friendly.md)
 - [学习打卡模板](../templates/daily-check-in.md)
 
 ## 按技能学习
@@ -19,6 +20,7 @@
 | 写作 | [writing.md](writing.md) |
 | 词汇与语法 | [vocabulary-grammar.md](vocabulary-grammar.md) |
 | GitHub 项目精选 | [github-projects.md](github-projects.md) |
+| 中国环境友好资源 | [china-friendly.md](china-friendly.md) |
 | 考试 | [exams.md](exams.md) |
 | 程序员英语 | [developer-english.md](developer-english.md) |
 | 工具 | [tools.md](tools.md) |

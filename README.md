@@ -9,6 +9,7 @@
 | 不知道怎么开始 | [30 天学习路线](docs/learning-path.md) |
 | 想找高质量 GitHub 英语资源 | [精选合集](docs/awesome-lists.md) |
 | 想直接用 GitHub 上的学习项目 | [GitHub 项目精选](docs/github-projects.md) |
+| 想在国内网络环境下稳定学习 | [中国环境友好资源](docs/china-friendly.md) |
 | 想每天打卡 | [学习打卡模板](templates/daily-check-in.md) |
 | 想按技能找资源 | 看下面的分类导航 |
 
@@ -22,6 +23,7 @@
 | [写作](docs/writing.md) | 语法检查、写作练习、学术/职场表达 |
 | [词汇与语法](docs/vocabulary-grammar.md) | 单词、Anki、语法系统学习 |
 | [GitHub 项目精选](docs/github-projects.md) | 开源英语学习项目、词汇库、程序员发音 |
+| [中国环境友好资源](docs/china-friendly.md) | 国内更稳定访问、可离线、适合通勤学习 |
 | [考试](docs/exams.md) | IELTS、TOEFL、四六级、综合测试 |
 | [程序员英语](docs/developer-english.md) | 技术文档、开源协作、工程师职场英语 |
 | [工具](docs/tools.md) | 字典、字幕、浏览器插件、AI 辅助工具 |
@@ -38,11 +40,11 @@
 
 | 技能 | 推荐组合 |
 | --- | --- |
-| 听力 | BBC Learning English + VOA Learning English |
-| 词汇 | Anki + 自己的例句卡片 |
-| 口语 | YouGlish 查发音 + 每天 10 分钟跟读 |
-| 阅读 | Engoo Daily News 或分级读物 |
-| 写作 | Grammarly / LanguageTool 辅助修改，再整理错句 |
+| 听力 | BBC Learning English 中国版 + 每日英语听力 / 可可英语 |
+| 词汇 | Anki / TypeWords + 自己的例句卡片 |
+| 口语 | YouGlish / 技术词发音清单 + 每天 10 分钟跟读 |
+| 阅读 | Engoo Daily News / 新概念英语 GitHub 笔记 / 技术文档 |
+| 写作 | LanguageTool / DeepL Write / AI 辅助修改，再整理错句 |
 
 ## 30 天路线
 
@@ -62,6 +64,7 @@
 - 能直接用于练习，而不只是方法论
 - 适合自学者长期重复使用
 - 优先选择开源、官方、社区口碑好的项目
+- 国内使用时优先选择可离线、有文本、有字幕、有替代入口的资源
 
 ## 如何继续维护
 

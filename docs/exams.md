@@ -24,6 +24,15 @@
 | [Cambridge English Test Your English](https://www.cambridgeenglish.org/test-your-english/) | 快速判断大致英语水平 |
 | [EF SET](https://www.efset.org/) | 免费英语水平测试 |
 
+## 国内备考辅助
+
+| 场景 | 推荐 |
+| --- | --- |
+| 四六级听力 | 每日英语听力 / 可可英语 / 听力课堂 |
+| 雅思托福精听 | 每日英语听力单句循环 + 官方样题 |
+| 背考试词汇 | Anki / TypeWords / 扇贝 / 欧路生词本 |
+| 写作批改 | Write & Improve / LanguageTool / AI 辅助复盘 |
+
 ## 备考建议
 
 1. 先做一次完整模拟，找出最弱项。
