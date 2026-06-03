@@ -7,6 +7,7 @@
 | 你现在想做什么 | 推荐入口 |
 | --- | --- |
 | 不知道怎么开始 | [30 天学习路线](docs/learning-path.md) |
+| 想按算法式计划自动安排任务 | [自适应学习计划](docs/adaptive-plan.md) |
 | 想找高质量 GitHub 英语资源 | [精选合集](docs/awesome-lists.md) |
 | 想直接用 GitHub 上的学习项目 | [GitHub 项目精选](docs/github-projects.md) |
 | 想在国内网络环境下稳定学习 | [中国环境友好资源](docs/china-friendly.md) |
@@ -18,6 +19,7 @@
 | 分类 | 内容 |
 | --- | --- |
 | [听力](docs/listening.md) | 播客、慢速英语、真实语料输入 |
+| [自适应学习计划](docs/adaptive-plan.md) | 诊断水平、生成每日任务、复盘弱项 |
 | [口语](docs/speaking.md) | 跟读、发音、影子训练、对话练习 |
 | [阅读](docs/reading.md) | 分级读物、新闻、泛读材料 |
 | [写作](docs/writing.md) | 语法检查、写作练习、学术/职场表达 |
@@ -35,6 +37,15 @@
 - 听 5 分钟英文
 - 复习 10 张单词卡
 - 跟读 3 句话
+
+## 自适应学习闭环
+
+这个仓库现在按“测评 -> 分级 -> 训练 -> 复盘 -> 调整”的方式使用：
+
+1. 用 [入学测评模板](templates/placement-test.md) 判断起点。
+2. 按 [自适应学习计划](docs/adaptive-plan.md) 生成每天 20-35 分钟任务。
+3. 用 [每日打卡模板](templates/daily-check-in.md) 记录完成度和错误。
+4. 每周用 [周复盘模板](templates/weekly-review.md) 调整下一周任务。
 
 ## 推荐起步组合
 

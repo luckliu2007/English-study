@@ -29,6 +29,16 @@
 3. 想背词：用 `Anki`，再参考 `google-10000-english` 或 `anki-english-60k-decks`。
 4. 是程序员：每天看 5 个 `chinese-programmer-wrong-pronunciation` 里的技术词。
 
+## 放进自适应计划
+
+| 项目 | 对应能力点 | 用法 |
+| --- | --- | --- |
+| TypeWords | V 词汇短语 | 到期复习和新词输入 |
+| earthworm | G 语法句型 / F 口语流利 | 句型补偿和输出前热身 |
+| everyone-can-use-english | P 发音准确 / F 口语流利 | 朗读、复述、语音训练框架 |
+| New-Concept-English | L 听力理解 / G 语法句型 | 基础精听、背诵、句型替换 |
+| chinese-programmer-wrong-pronunciation | P 发音准确 | 技术词错音复习 |
+
 ## 中国环境使用建议
 
 - GitHub 项目适合做“学习路线和素材库”，日常高频训练可以放到每日英语听力、可可英语、欧路词典、Anki 等工具里。
