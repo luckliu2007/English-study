@@ -1,0 +1,88 @@
+[
+  {
+    "id": "q-placement-b1",
+    "title": "入学测评 · B1 自检",
+    "skill": "quiz",
+    "level": "B1",
+    "questions": [
+      {
+        "q": "Which is correct? \"She ___ to the gym every morning.\"",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "gone"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "\"Comprehensible input\" means:",
+        "options": [
+          "memorizing lists",
+          "input slightly above your level",
+          "translating word by word",
+          "skipping grammar"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Choose the synonym of \"fluency\":",
+        "options": [
+          "hesitation",
+          "smoothness",
+          "confusion",
+          "silence"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "\"Shadowing\" is a training method for:",
+        "options": [
+          "vocabulary",
+          "speaking & pronunciation",
+          "grammar rules",
+          "reading speed"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "q-weekly-b2",
+    "title": "周复盘 · B2 巩固",
+    "skill": "quiz",
+    "level": "B2",
+    "questions": [
+      {
+        "q": "\"Deliberate practice\" emphasizes:",
+        "options": [
+          "long hours",
+          "targeting weak points",
+          "passive listening",
+          "memorizing rules"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Which improves long-term retention most?",
+        "options": [
+          "re-reading",
+          "active recall",
+          "highlighting",
+          "watching videos"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "\"Cohesion\" in writing refers to:",
+        "options": [
+          "word length",
+          "linking ideas smoothly",
+          "spelling",
+          "punctuation"
+        ],
+        "answer": 1
+      }
+    ]
+  }
+]
