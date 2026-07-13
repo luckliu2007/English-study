@@ -1,0 +1,170 @@
+[
+  {
+    "id": "v-spaced-repetition",
+    "word": "spaced repetition",
+    "phonetic": "/speɪst ˌrepəˈtɪʃn/",
+    "pos": "n.",
+    "meaning": "间隔重复（记忆法）",
+    "example": "Anki uses spaced repetition to fight forgetting.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "记忆法",
+      "高频"
+    ]
+  },
+  {
+    "id": "v-comprehensible-input",
+    "word": "comprehensible input",
+    "phonetic": "/ˌkɒmprɪˈhensəbl ˈɪnpʊt/",
+    "pos": "n.",
+    "meaning": "可理解输入（i+1 输入假说）",
+    "example": "Listen to lots of comprehensible input before speaking.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "方法论",
+      "听力"
+    ]
+  },
+  {
+    "id": "v-shadowing",
+    "word": "shadowing",
+    "phonetic": "/ˈʃædəʊɪŋ/",
+    "pos": "n.",
+    "meaning": "影子跟读（同步复述训练）",
+    "example": "Shadowing news audio improves fluency fast.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "口语",
+      "训练法"
+    ]
+  },
+  {
+    "id": "v-fluency",
+    "word": "fluency",
+    "phonetic": "/ˈfluːənsi/",
+    "pos": "n.",
+    "meaning": "流利度",
+    "example": "Daily reading builds both accuracy and fluency.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "口语",
+      "核心"
+    ]
+  },
+  {
+    "id": "v-mastery",
+    "word": "mastery",
+    "phonetic": "/ˈmɑːstəri/",
+    "pos": "n.",
+    "meaning": "精通；掌握",
+    "example": "Mastery comes from repeated, varied practice.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "学习",
+      "核心"
+    ]
+  },
+  {
+    "id": "v-consistency",
+    "word": "consistency",
+    "phonetic": "/kənˈsɪstənsi/",
+    "pos": "n.",
+    "meaning": "一致性；持续性",
+    "example": "Consistency beats intensity for language learning.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "习惯",
+      "核心"
+    ]
+  },
+  {
+    "id": "v-retention",
+    "word": "retention",
+    "phonetic": "/rɪˈtenʃn/",
+    "pos": "n.",
+    "meaning": " retention 记忆保持率",
+    "example": "Active recall improves long-term retention.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "记忆法",
+      "高频"
+    ]
+  },
+  {
+    "id": "v-deliberate-practice",
+    "word": "deliberate practice",
+    "phonetic": "/dɪˈlɪbərət ˈpræktɪs/",
+    "pos": "n.",
+    "meaning": "刻意练习",
+    "example": "Deliberate practice targets your weakest skill.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "方法论",
+      "高效"
+    ]
+  },
+  {
+    "id": "v-cohesion",
+    "word": "cohesion",
+    "phonetic": "/kəʊˈhiːʒn/",
+    "pos": "n.",
+    "meaning": "（语篇）衔接",
+    "example": "Use linking words for better cohesion in writing.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "写作",
+      "高频"
+    ]
+  },
+  {
+    "id": "v-pragmatic",
+    "word": "pragmatic",
+    "phonetic": "/præɡˈmætɪk/",
+    "pos": "adj.",
+    "meaning": "务实的；语用（学）的",
+    "example": "A pragmatic study plan fits your real schedule.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "方法论",
+      "高效"
+    ]
+  },
+  {
+    "id": "v-cadence",
+    "word": "cadence",
+    "phonetic": "/ˈkeɪdns/",
+    "pos": "n.",
+    "meaning": "节奏；语调起伏",
+    "example": "Match the speaker's cadence when shadowing.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "口语",
+      "发音"
+    ]
+  },
+  {
+    "id": "v-corpus",
+    "word": "corpus",
+    "phonetic": "/ˈkɔːpərəs/",
+    "pos": "n.",
+    "meaning": "语料库",
+    "example": "A frequency corpus helps you pick high-value words.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "词汇",
+      "工具"
+    ]
+  }
+]
