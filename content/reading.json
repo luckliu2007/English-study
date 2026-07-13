@@ -1,0 +1,152 @@
+[
+  {
+    "id": "r-index",
+    "title": "English Study 导航",
+    "skill": "reading",
+    "level": "A1",
+    "source": "github:luckliu2007/English-study",
+    "url": "https://github.com/luckliu2007/English-study/blob/main/docs/index.md",
+    "summary": "仓库总导航，按技能与场景快速进入对应学习入口。",
+    "body": "仓库总导航，按技能与场景快速进入对应学习入口。 本文来自 luckliu2007/English-study 仓库，作为应用内「阅读」材料随仓库同步更新。"
+  },
+  {
+    "id": "r-learning-path",
+    "title": "30 天学习路线",
+    "skill": "reading",
+    "level": "A2",
+    "source": "github:luckliu2007/English-study",
+    "url": "https://github.com/luckliu2007/English-study/blob/main/docs/learning-path.md",
+    "summary": "入门/中级/进阶三档 30 天计划，含每日时长与国内工具推荐。",
+    "body": "入门/中级/进阶三档 30 天计划，含每日时长与国内工具推荐。 本文来自 luckliu2007/English-study 仓库，作为应用内「阅读」材料随仓库同步更新。"
+  },
+  {
+    "id": "r-adaptive",
+    "title": "自适应学习计划",
+    "skill": "reading",
+    "level": "B1",
+    "source": "github:luckliu2007/English-study",
+    "url": "https://github.com/luckliu2007/English-study/blob/main/docs/adaptive-plan.md",
+    "summary": "测评→分级→训练→复盘→调整的闭环，可生成每日 20–35 分钟任务。",
+    "body": "测评→分级→训练→复盘→调整的闭环，可生成每日 20–35 分钟任务。 本文来自 luckliu2007/English-study 仓库，作为应用内「阅读」材料随仓库同步更新。"
+  },
+  {
+    "id": "r-ai-english",
+    "title": "用 AI 学英语",
+    "skill": "reading",
+    "level": "B1",
+    "source": "github:luckliu2007/English-study",
+    "url": "https://github.com/luckliu2007/English-study/blob/main/docs/ai-english.md",
+    "summary": "AI 口语陪练、写作批改与提示词库，把 AI 当低成本陪练。",
+    "body": "AI 口语陪练、写作批改与提示词库，把 AI 当低成本陪练。 本文来自 luckliu2007/English-study 仓库，作为应用内「阅读」材料随仓库同步更新。"
+  },
+  {
+    "id": "r-awesome",
+    "title": "精选 GitHub 合集",
+    "skill": "reading",
+    "level": "B2",
+    "source": "github:luckliu2007/English-study",
+    "url": "https://github.com/luckliu2007/English-study/blob/main/docs/awesome-lists.md",
+    "summary": "高质量英语学习开源项目与词库合集。",
+    "body": "高质量英语学习开源项目与词库合集。 本文来自 luckliu2007/English-study 仓库，作为应用内「阅读」材料随仓库同步更新。"
+  },
+  {
+    "id": "r-github-projects",
+    "title": "GitHub 项目精选",
+    "skill": "reading",
+    "level": "B2",
+    "source": "github:luckliu2007/English-study",
+    "url": "https://github.com/luckliu2007/English-study/blob/main/docs/github-projects.md",
+    "summary": "可直接用的开源英语学习项目、词汇库与程序员发音清单。",
+    "body": "可直接用的开源英语学习项目、词汇库与程序员发音清单。 本文来自 luckliu2007/English-study 仓库，作为应用内「阅读」材料随仓库同步更新。"
+  },
+  {
+    "id": "r-china-friendly",
+    "title": "中国环境友好资源",
+    "skill": "reading",
+    "level": "A2",
+    "source": "github:luckliu2007/English-study",
+    "url": "https://github.com/luckliu2007/English-study/blob/main/docs/china-friendly.md",
+    "summary": "国内更稳定访问、可离线、适合通勤学习的资源。",
+    "body": "国内更稳定访问、可离线、适合通勤学习的资源。 本文来自 luckliu2007/English-study 仓库，作为应用内「阅读」材料随仓库同步更新。"
+  },
+  {
+    "id": "r-listening",
+    "title": "听力",
+    "skill": "reading",
+    "level": "A2",
+    "source": "github:luckliu2007/English-study",
+    "url": "https://github.com/luckliu2007/English-study/blob/main/docs/listening.md",
+    "summary": "播客、慢速英语、真实语料输入方法与资源。",
+    "body": "播客、慢速英语、真实语料输入方法与资源。 本文来自 luckliu2007/English-study 仓库，作为应用内「阅读」材料随仓库同步更新。"
+  },
+  {
+    "id": "r-speaking",
+    "title": "口语",
+    "skill": "reading",
+    "level": "B1",
+    "source": "github:luckliu2007/English-study",
+    "url": "https://github.com/luckliu2007/English-study/blob/main/docs/speaking.md",
+    "summary": "跟读、发音、影子训练与对话练习路径。",
+    "body": "跟读、发音、影子训练与对话练习路径。 本文来自 luckliu2007/English-study 仓库，作为应用内「阅读」材料随仓库同步更新。"
+  },
+  {
+    "id": "r-reading",
+    "title": "阅读",
+    "skill": "reading",
+    "level": "B1",
+    "source": "github:luckliu2007/English-study",
+    "url": "https://github.com/luckliu2007/English-study/blob/main/docs/reading.md",
+    "summary": "分级读物、新闻与泛读材料，附精读/泛读方法。",
+    "body": "分级读物、新闻与泛读材料，附精读/泛读方法。 本文来自 luckliu2007/English-study 仓库，作为应用内「阅读」材料随仓库同步更新。"
+  },
+  {
+    "id": "r-writing",
+    "title": "写作",
+    "skill": "reading",
+    "level": "B1",
+    "source": "github:luckliu2007/English-study",
+    "url": "https://github.com/luckliu2007/English-study/blob/main/docs/writing.md",
+    "summary": "语法检查、写作练习与学术/职场表达提升。",
+    "body": "语法检查、写作练习与学术/职场表达提升。 本文来自 luckliu2007/English-study 仓库，作为应用内「阅读」材料随仓库同步更新。"
+  },
+  {
+    "id": "r-vocab-grammar",
+    "title": "词汇与语法",
+    "skill": "reading",
+    "level": "A2",
+    "source": "github:luckliu2007/English-study",
+    "url": "https://github.com/luckliu2007/English-study/blob/main/docs/vocabulary-grammar.md",
+    "summary": "单词、Anki、语法系统学习资源与背词建议。",
+    "body": "单词、Anki、语法系统学习资源与背词建议。 本文来自 luckliu2007/English-study 仓库，作为应用内「阅读」材料随仓库同步更新。"
+  },
+  {
+    "id": "r-exams",
+    "title": "考试",
+    "skill": "reading",
+    "level": "B2",
+    "source": "github:luckliu2007/English-study",
+    "url": "https://github.com/luckliu2007/English-study/blob/main/docs/exams.md",
+    "summary": "IELTS、TOEFL、四六级与综合测试资源。",
+    "body": "IELTS、TOEFL、四六级与综合测试资源。 本文来自 luckliu2007/English-study 仓库，作为应用内「阅读」材料随仓库同步更新。"
+  },
+  {
+    "id": "r-developer",
+    "title": "程序员英语",
+    "skill": "reading",
+    "level": "B2",
+    "source": "github:luckliu2007/English-study",
+    "url": "https://github.com/luckliu2007/English-study/blob/main/docs/developer-english.md",
+    "summary": "技术文档、开源协作与工程师职场英语。",
+    "body": "技术文档、开源协作与工程师职场英语。 本文来自 luckliu2007/English-study 仓库，作为应用内「阅读」材料随仓库同步更新。"
+  },
+  {
+    "id": "r-tools",
+    "title": "工具",
+    "skill": "reading",
+    "level": "A2",
+    "source": "github:luckliu2007/English-study",
+    "url": "https://github.com/luckliu2007/English-study/blob/main/docs/tools.md",
+    "summary": "字典、字幕、浏览器插件与 AI 辅助工具清单。",
+    "body": "字典、字幕、浏览器插件与 AI 辅助工具清单。 本文来自 luckliu2007/English-study 仓库，作为应用内「阅读」材料随仓库同步更新。"
+  }
+]
