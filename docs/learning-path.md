@@ -19,7 +19,7 @@
 
 | 任务 | 工具 |
 | --- | --- |
-| 慢速听力 | BBC Learning English 中国 / 每日英语听力 |
+| 慢速听力 | 每日英语听力 / BBC Learning English |
 | 词汇 | Anki / TypeWords / 欧路生词本 |
 | 跟读 | 每日英语听力单句循环 / 可可英语 |
 | 阅读 | 新概念英语 GitHub 笔记 / Engoo Daily News |
@@ -41,7 +41,7 @@
 
 | 任务 | 工具 |
 | --- | --- |
-| 听力 | 每日英语听力 / 可可英语 / BBC Learning English 中国 |
+| 听力 | 每日英语听力 / 可可英语 / BBC Learning English |
 | 口语 | everyone-can-use-english / earthworm / 发音清单 |
 | 阅读 | MDN / GitHub Docs / Quanta Magazine |
 | 写作 | LanguageTool / DeepL Write / AI 辅助修改 |

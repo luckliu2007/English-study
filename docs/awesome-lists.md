@@ -4,7 +4,7 @@
 
 | 资源 | 说明 |
 | --- | --- |
-| [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | 中文语境下的系统英语学习指南，适合先建立学习方法 |
+| [byoungd/up](https://github.com/byoungd/up)（原 English-level-up-tips） | 中文语境下的系统英语学习指南，适合先建立学习方法 |
 | [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 人人都能用英语，包含口语、语音、朗读、精读等体系化内容 |
 | [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english) | 英语学习 awesome list，覆盖听说读写、AI 工具、语法、词汇等 |
 | [knowledgefxg/learning-english](https://github.com/knowledgefxg/learning-english) | 中文整理的英语学习资源合集，分类丰富，上手友好 |

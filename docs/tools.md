@@ -15,8 +15,8 @@
 
 | 资源 | 说明 |
 | --- | --- |
-| [BBC Learning English 中国](https://bbc-english-china.com/) | 中国用户更稳定的 BBC 学习入口 |
-| [可可英语](https://mp4.kekenet.com/) | 聚合听力和双语字幕材料，适合离线精听 |
+| [BBC Learning English](https://www.bbc.co.uk/learningenglish) | 官方 BBC 学习内容，节目短、带文本 |
+| [可可英语](https://www.kekenet.com/) | 聚合听力和双语字幕材料，适合离线精听 |
 | [Language Reactor](https://www.languagereactor.com/) | 看 YouTube/Netflix 时辅助学语言 |
 | [YouTube Transcript](https://www.youtube.com/) | 利用字幕文本做精听和跟读 |
 | [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 可结合 YouTube/Netflix 做朗读和复述训练 |
@@ -32,6 +32,8 @@
 | [Obsidian](https://obsidian.md/) | 本地知识库和长期积累 |
 
 ## AI 辅助
+
+完整的 AI 陪练用法、按能力点分类的提示词库和训练流程，见 [用 AI 学英语](ai-english.md)。
 
 | 用法 | 提示词 |
 | --- | --- |

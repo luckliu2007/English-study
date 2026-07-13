@@ -6,6 +6,7 @@
 
 - [30 天学习路线](learning-path.md)
 - [自适应学习计划](adaptive-plan.md)
+- [用 AI 学英语](ai-english.md)
 - [精选 GitHub 合集](awesome-lists.md)
 - [GitHub 项目精选](github-projects.md)
 - [中国环境友好资源](china-friendly.md)
@@ -16,6 +17,7 @@
 | 技能 | 页面 |
 | --- | --- |
 | 自适应学习计划 | [adaptive-plan.md](adaptive-plan.md) |
+| 用 AI 学英语 | [ai-english.md](ai-english.md) |
 | 听力 | [listening.md](listening.md) |
 | 口语 | [speaking.md](speaking.md) |
 | 阅读 | [reading.md](reading.md) |

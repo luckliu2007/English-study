@@ -24,7 +24,7 @@
 | 资源 | 说明 |
 | --- | --- |
 | [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 中国程序员常见错误发音清单，适合每天练 5 个技术词 |
-| [GitHub Docs: About issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) | 学习 issue 场景中的真实英文表达 |
+| [GitHub Docs: About issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/about-issues) | 学习 issue 场景中的真实英文表达 |
 | [GitHub Docs: About pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) | 学习 PR 描述、评审和协作表达 |
 
 ## 开源表达

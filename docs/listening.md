@@ -4,7 +4,6 @@
 
 | 资源 | 说明 |
 | --- | --- |
-| [BBC Learning English 中国](https://bbc-english-china.com/) | 更适合中国用户访问的 BBC 英语学习入口，适合慢速听力和职场英语 |
 | [BBC Learning English](https://www.bbc.co.uk/learningenglish) | 英式英语官方学习资源，节目短、主题清晰 |
 | [VOA Learning English](https://learningenglish.voanews.com/) | 美式慢速英语，适合练新闻听力和基础词汇 |
 | [6 Minute English](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english) | 每集约 6 分钟，适合每日固定听 |
@@ -15,8 +14,7 @@
 | 资源 | 说明 |
 | --- | --- |
 | [每日英语听力](https://www.eudic.net/mobile/ting.aspx) | 适合精听、单句循环、离线下载，和欧路词典搭配方便 |
-| [可可英语](https://mp4.kekenet.com/) | 国内听力素材聚合，适合 VOA、BBC、新概念、四六级等材料 |
-| [听力课堂](https://www.tingclass.net/) | 老牌在线听力站，适合找入门材料和考试听力 |
+| [可可英语](https://www.kekenet.com/) | 国内听力素材聚合，适合 VOA、BBC、新概念、四六级等材料 |
 
 ## 中级和真实语料
 
@@ -25,7 +23,7 @@
 | [Luke's English Podcast](https://teacherluke.co.uk/) | 英语教师制作的长播客，适合中高级 |
 | [All Ears English](https://www.allearsenglish.com/) | 美式日常会话和表达 |
 | [Culips](https://esl.culips.com/) | ESL 播客，主题自然，讲解清楚 |
-| [NPR Podcasts](https://www.npr.org/podcasts/) | 原速真实语料，适合中高级做泛听 |
+| [NPR Podcasts](https://www.npr.org/podcasts-and-shows) | 原速真实语料，适合中高级做泛听 |
 
 ## GitHub 辅助资源
 

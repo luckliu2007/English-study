@@ -6,7 +6,7 @@
 
 | 项目 | 适合场景 | 推荐理由 |
 | --- | --- | --- |
-| [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | 建立学习方法 | 中文语境下的进阶英语学习指南，适合先读路线和方法 |
+| [byoungd/up](https://github.com/byoungd/up)（原 English-level-up-tips） | 建立学习方法 | 中文语境下的进阶英语学习指南，适合先读路线和方法 |
 | [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 口语、朗读、精读 | 内容体系完整，适合中文学习者建立长期训练框架 |
 | [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | 词汇、打字、复习 | 开源词汇和文章练习工具，内置四六级、雅思、托福、GRE 等词库 |
 | [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) | 句子结构、输出 | 通过连词成句练英语，比单纯背单词更接近真实表达 |
@@ -24,7 +24,7 @@
 
 ## 使用优先级
 
-1. 想先知道怎么学：读 `English-level-up-tips` 和 `everyone-can-use-english`。
+1. 想先知道怎么学：读 `byoungd/up`（原 English-level-up-tips）和 `everyone-can-use-english`。
 2. 想马上练：用 `TypeWords` 或 `earthworm`。
 3. 想背词：用 `Anki`，再参考 `google-10000-english` 或 `anki-english-60k-decks`。
 4. 是程序员：每天看 5 个 `chinese-programmer-wrong-pronunciation` 里的技术词。

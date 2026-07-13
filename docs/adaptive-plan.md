@@ -143,6 +143,7 @@
 
 ## 和资源页的关系
 
+- 想让 AI 当陪练和出题：看 [用 AI 学英语](ai-english.md)。
 - 找国内稳定工具：看 [中国环境友好资源](china-friendly.md)。
 - 找开源练习项目：看 [GitHub 项目精选](github-projects.md)。
 - 找听力材料：看 [听力](listening.md)。
