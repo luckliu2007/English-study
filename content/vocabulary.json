@@ -166,5 +166,173 @@
       "词汇",
       "工具"
     ]
+  },
+  {
+    "id": "v-curriculum",
+    "word": "curriculum",
+    "phonetic": "/kəˈrɪkjələm/",
+    "pos": "n.",
+    "meaning": "课程（总教学计划）",
+    "example": "The school revised its curriculum to include AI literacy.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "学术",
+      "学校"
+    ]
+  },
+  {
+    "id": "v-syllabus",
+    "word": "syllabus",
+    "phonetic": "/ˈsɪləbəs/",
+    "pos": "n.",
+    "meaning": "教学大纲",
+    "example": "Read the syllabus before the first seminar.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "学术",
+      "学校"
+    ]
+  },
+  {
+    "id": "v-seminar",
+    "word": "seminar",
+    "phonetic": "/ˈsemɪnɑː(r)/",
+    "pos": "n.",
+    "meaning": "研讨课（小班讨论）",
+    "example": "We debated the topic in a small-group seminar.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "学术",
+      "口语"
+    ]
+  },
+  {
+    "id": "v-tutorial",
+    "word": "tutorial",
+    "phonetic": "/tjuˈtɔːriəl/",
+    "pos": "n.",
+    "meaning": "辅导课 / 导师制",
+    "example": "My tutor answered questions in the weekly tutorial.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "学术",
+      "学校"
+    ]
+  },
+  {
+    "id": "v-enroll",
+    "word": "enroll",
+    "phonetic": "/ɪnˈrəʊl/",
+    "pos": "v.",
+    "meaning": "注册 / 入学",
+    "example": "She enrolled in the online course last month.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "学校",
+      "高频"
+    ]
+  },
+  {
+    "id": "v-assignment",
+    "word": "assignment",
+    "phonetic": "/əˈsaɪnmənt/",
+    "pos": "n.",
+    "meaning": "作业 / 任务",
+    "example": "Submit your assignment before the deadline.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "学校",
+      "高频"
+    ]
+  },
+  {
+    "id": "v-deadline",
+    "word": "deadline",
+    "phonetic": "/ˈdedlaɪn/",
+    "pos": "n.",
+    "meaning": "截止日期",
+    "example": "Plan ahead so deadlines don't pile up.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "学校",
+      "时间"
+    ]
+  },
+  {
+    "id": "v-plagiarism",
+    "word": "plagiarism",
+    "phonetic": "/ˈpleɪdʒərɪzəm/",
+    "pos": "n.",
+    "meaning": "抄袭",
+    "example": "Always cite sources to avoid plagiarism.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "学术",
+      "诚信"
+    ]
+  },
+  {
+    "id": "v-citation",
+    "word": "citation",
+    "phonetic": "/saɪˈteɪʃn/",
+    "pos": "n.",
+    "meaning": "引用（文献出处）",
+    "example": "Use a standard format for each citation.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "学术",
+      "写作"
+    ]
+  },
+  {
+    "id": "v-thesis",
+    "word": "thesis",
+    "phonetic": "/ˈθiːsɪs/",
+    "pos": "n.",
+    "meaning": "论文 / 学位论文",
+    "example": "His thesis explored bilingual memory.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "学术",
+      "写作"
+    ]
+  },
+  {
+    "id": "v-scholarship",
+    "word": "scholarship",
+    "phonetic": "/ˈskɒləʃɪp/",
+    "pos": "n.",
+    "meaning": "奖学金",
+    "example": "She won a scholarship for academic excellence.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "学校",
+      "机会"
+    ]
+  },
+  {
+    "id": "v-extracurricular",
+    "word": "extracurricular",
+    "phonetic": "/ˌekstrəkəˈrɪkjələ(r)/",
+    "pos": "adj.",
+    "meaning": "课外的",
+    "example": "Extracurricular clubs build soft skills.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "学校",
+      "综合"
+    ]
   }
 ]
