@@ -13,6 +13,7 @@
 | 想直接用 GitHub 上的学习项目 | [GitHub 项目精选](docs/github-projects.md) |
 | 想在国内网络环境下稳定学习 | [中国环境友好资源](docs/china-friendly.md) |
 | 想每天打卡 | [学习打卡模板](templates/daily-check-in.md) |
+| 想整理错词错句 | [错词错句本](templates/error-log.md) |
 | 想按技能找资源 | 看下面的分类导航 |
 
 ## 分类导航
@@ -47,7 +48,8 @@
 1. 用 [入学测评模板](templates/placement-test.md) 判断起点。
 2. 按 [自适应学习计划](docs/adaptive-plan.md) 生成每天 20-35 分钟任务。
 3. 用 [每日打卡模板](templates/daily-check-in.md) 记录完成度和错误。
-4. 每周用 [周复盘模板](templates/weekly-review.md) 调整下一周任务。
+4. 把当天的错误沉淀到 [错词错句本](templates/error-log.md)，滚动复习直到掌握。
+5. 每周用 [周复盘模板](templates/weekly-review.md) 调整下一周任务。
 
 ## 推荐起步组合
 
