@@ -1,0 +1,16 @@
+# 对爬虫返回非 200（403/HTTP2 错误/连接重置）但对人类完全可访问的站点，
+# 以及尚未发布的自身 Pages 地址。每行一个正则，lychee 会跳过匹配到的 URL。
+
+# 本仓库的 GitHub Pages 地址（Pages 启用后才存在）
+https://luckliu2007.github.io/.*
+
+# 大模型产品站，对 headless 请求返回 403
+https://chatgpt.com/.*
+https://claude.ai/.*
+https://gemini.google.com/.*
+
+# 英语学习/出版/机构站，反爬或 HTTP/2 兼容问题（人类可正常访问）
+https://.*\.britishcouncil\.org/.*
+https://www\.talkenglish\.com/.*
+https://www\.cambridge\.org/.*
+https://www\.coe\.int/.*
