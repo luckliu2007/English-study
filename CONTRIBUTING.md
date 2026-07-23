@@ -28,3 +28,19 @@
 - 需要大量付费才能使用的资源
 - 长期无法访问或维护停止的项目
 - 版权来源不清晰的材料下载站
+
+## 贡献结构化内容（content/*.json）
+
+如果你要新增词汇、阅读或测验数据：
+
+- 字段必须符合 [`content/schema/`](content/schema/) 下对应的 JSON Schema。
+- 词汇 `meaning` 必须是纯中文，不能以空格或英文字母开头。
+- 测验/阅读理解题的正确答案要打乱选项顺序，同一套题里正确下标不要集中在一个位置（CI 会拦截单一下标占比 ≥60% 的情况）。
+- 阅读条目要标明 `type`：`article`（原创英文短文）或 `guide`（指向仓库文档的导航）。
+- 提交前本地跑一遍校验，并重新生成 manifest：
+
+  ```bash
+  pip install -r scripts/requirements.txt
+  python scripts/validate_content.py
+  python scripts/generate_manifest.py
+  ```

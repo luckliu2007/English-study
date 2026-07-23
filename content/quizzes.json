@@ -8,22 +8,22 @@
       {
         "q": "Which is correct? \"She ___ to the gym every morning.\"",
         "options": [
-          "go",
           "goes",
+          "go",
           "going",
           "gone"
         ],
-        "answer": 1
+        "answer": 0
       },
       {
         "q": "\"Comprehensible input\" means:",
         "options": [
           "memorizing lists",
-          "input slightly above your level",
           "translating word by word",
+          "input slightly above your level",
           "skipping grammar"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "Choose the synonym of \"fluency\":",
@@ -39,11 +39,11 @@
         "q": "\"Shadowing\" is a training method for:",
         "options": [
           "vocabulary",
-          "speaking & pronunciation",
           "grammar rules",
-          "reading speed"
+          "reading speed",
+          "speaking & pronunciation"
         ],
-        "answer": 1
+        "answer": 3
       }
     ]
   },
@@ -56,32 +56,32 @@
       {
         "q": "\"Deliberate practice\" emphasizes:",
         "options": [
-          "long hours",
           "targeting weak points",
+          "long hours",
           "passive listening",
           "memorizing rules"
         ],
-        "answer": 1
+        "answer": 0
       },
       {
         "q": "Which improves long-term retention most?",
         "options": [
           "re-reading",
-          "active recall",
           "highlighting",
+          "active recall",
           "watching videos"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "\"Cohesion\" in writing refers to:",
         "options": [
           "word length",
-          "linking ideas smoothly",
           "spelling",
-          "punctuation"
+          "punctuation",
+          "linking ideas smoothly"
         ],
-        "answer": 1
+        "answer": 3
       }
     ]
   },
@@ -94,42 +94,42 @@
       {
         "q": "\"Submit your ___ before the deadline.\" 应选：",
         "options": [
-          "assignment",
           "scholarship",
+          "assignment",
           "syllabus",
           "cadence"
         ],
-        "answer": 0
+        "answer": 1
       },
       {
         "q": "\"She ___ in the online course last month.\" 应选：",
         "options": [
           "enrolls",
+          "enroll",
           "enrolled",
-          "enrolling",
-          "enroll"
+          "enrolling"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "避免抄袭应做的是：",
         "options": [
           "复制粘贴",
-          "cite sources",
           "隐藏来源",
-          "改写不改出处"
+          "改写不改出处",
+          "cite sources"
         ],
-        "answer": 1
+        "answer": 3
       },
       {
         "q": "\"Extracurricular\" 意思是：",
         "options": [
-          "课内的",
           "课外的",
+          "课内的",
           "必修的",
           "考试的"
         ],
-        "answer": 1
+        "answer": 0
       }
     ]
   },
@@ -152,32 +152,32 @@
       {
         "q": "费曼技巧的核心是：",
         "options": [
-          "背定义",
           "用大白话说清以暴露盲区",
+          "背定义",
           "刷题",
           "记笔记"
         ],
-        "answer": 1
+        "answer": 0
       },
       {
         "q": "交错练习（interleaving）指：",
         "options": [
           "长时间单刷一种",
-          "混合技能交替练",
           "只练弱项",
+          "混合技能交替练",
           "不复习"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "番茄工作法一个「番茄」通常多长？",
         "options": [
           "5 分钟",
-          "25 分钟",
           "1 小时",
+          "25 分钟",
           "一整天"
         ],
-        "answer": 1
+        "answer": 2
       }
     ]
   }
