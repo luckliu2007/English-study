@@ -2,6 +2,7 @@
   {
     "id": "r-index",
     "title": "English Study 导航",
+    "type": "guide",
     "skill": "reading",
     "level": "A1",
     "source": "github:luckliu2007/English-study",
@@ -12,6 +13,7 @@
   {
     "id": "r-learning-path",
     "title": "30 天学习路线",
+    "type": "guide",
     "skill": "reading",
     "level": "A2",
     "source": "github:luckliu2007/English-study",
@@ -22,6 +24,7 @@
   {
     "id": "r-adaptive",
     "title": "自适应学习计划",
+    "type": "guide",
     "skill": "reading",
     "level": "B1",
     "source": "github:luckliu2007/English-study",
@@ -32,6 +35,7 @@
   {
     "id": "r-ai-english",
     "title": "用 AI 学英语",
+    "type": "guide",
     "skill": "reading",
     "level": "B1",
     "source": "github:luckliu2007/English-study",
@@ -42,6 +46,7 @@
   {
     "id": "r-awesome",
     "title": "精选 GitHub 合集",
+    "type": "guide",
     "skill": "reading",
     "level": "B2",
     "source": "github:luckliu2007/English-study",
@@ -52,6 +57,7 @@
   {
     "id": "r-github-projects",
     "title": "GitHub 项目精选",
+    "type": "guide",
     "skill": "reading",
     "level": "B2",
     "source": "github:luckliu2007/English-study",
@@ -62,6 +68,7 @@
   {
     "id": "r-china-friendly",
     "title": "中国环境友好资源",
+    "type": "guide",
     "skill": "reading",
     "level": "A2",
     "source": "github:luckliu2007/English-study",
@@ -72,6 +79,7 @@
   {
     "id": "r-listening",
     "title": "听力",
+    "type": "guide",
     "skill": "reading",
     "level": "A2",
     "source": "github:luckliu2007/English-study",
@@ -82,6 +90,7 @@
   {
     "id": "r-speaking",
     "title": "口语",
+    "type": "guide",
     "skill": "reading",
     "level": "B1",
     "source": "github:luckliu2007/English-study",
@@ -92,6 +101,7 @@
   {
     "id": "r-reading",
     "title": "阅读",
+    "type": "guide",
     "skill": "reading",
     "level": "B1",
     "source": "github:luckliu2007/English-study",
@@ -102,6 +112,7 @@
   {
     "id": "r-writing",
     "title": "写作",
+    "type": "guide",
     "skill": "reading",
     "level": "B1",
     "source": "github:luckliu2007/English-study",
@@ -112,6 +123,7 @@
   {
     "id": "r-vocab-grammar",
     "title": "词汇与语法",
+    "type": "guide",
     "skill": "reading",
     "level": "A2",
     "source": "github:luckliu2007/English-study",
@@ -122,6 +134,7 @@
   {
     "id": "r-exams",
     "title": "考试",
+    "type": "guide",
     "skill": "reading",
     "level": "B2",
     "source": "github:luckliu2007/English-study",
@@ -132,6 +145,7 @@
   {
     "id": "r-developer",
     "title": "程序员英语",
+    "type": "guide",
     "skill": "reading",
     "level": "B2",
     "source": "github:luckliu2007/English-study",
@@ -142,6 +156,7 @@
   {
     "id": "r-tools",
     "title": "工具",
+    "type": "guide",
     "skill": "reading",
     "level": "A2",
     "source": "github:luckliu2007/English-study",
@@ -152,6 +167,7 @@
   {
     "id": "r-active-recall",
     "title": "主动回忆法",
+    "type": "guide",
     "level": "B1",
     "skill": "reading",
     "source": "github:luckliu2007/English-study",
@@ -161,6 +177,7 @@
   {
     "id": "r-feynman",
     "title": "费曼技巧",
+    "type": "guide",
     "level": "B2",
     "skill": "reading",
     "source": "github:luckliu2007/English-study",
@@ -170,15 +187,17 @@
   {
     "id": "r-pomodoro",
     "title": "番茄工作法",
+    "type": "guide",
     "level": "A2",
     "skill": "reading",
     "source": "github:luckliu2007/English-study",
     "summary": "25 分钟专注 + 5 分钟休息的节奏，对抗拖延、保住注意力。",
-    "body": "番茄工作法把学习切成 25 分钟一段（一个「番茄」），段间休息 5 分钟，每 4 段长休 15–30 分钟。它降低启动门槛、减少手机干扰，并让进度可见。配合「今日学习路径」的 20–35 分钟任务正好一个番茄，完成后打勾，连胜与 XP 同步累积。"
+    "body": "番茄工作法把学习切成 25 分钟一段（一个「番茄」），段间休息 5 分钟，每 4 段长休 15–30 分钟。它降低启动门槛、减少手机干扰，并让进度可见。配合每日 20–35 分钟的学习任务正好一个番茄，完成后打勾记录，坚持感和成就感会随之累积。"
   },
   {
     "id": "r-cornell-notes",
     "title": "康奈尔笔记法",
+    "type": "guide",
     "level": "B1",
     "skill": "reading",
     "source": "github:luckliu2007/English-study",
@@ -188,24 +207,27 @@
   {
     "id": "r-interleaving",
     "title": "交错练习",
+    "type": "guide",
     "level": "B2",
     "skill": "reading",
     "source": "github:luckliu2007/English-study",
     "summary": "混合不同题型/技能交替练，比长时间单刷一种更利于迁移。",
-    "body": "交错练习（interleaving）指把相近技能打乱顺序练，例如听力、口语、语法轮换，而非连续两小时只练听力。虽当下更吃力，但长期迁移与辨别力更强。配合 PathEngine 的「弱项补强」会自动把你的薄弱技能插进每日路径，天然形成交错。"
+    "body": "交错练习（interleaving）指把相近技能打乱顺序练，例如听力、口语、语法轮换，而非连续两小时只练听力。虽当下更吃力，但长期迁移与辨别力更强。做法上，可以把当天的薄弱技能主动插进学习计划里轮换，天然形成交错。"
   },
   {
     "id": "r-metacognition",
     "title": "元认知",
+    "type": "guide",
     "level": "C1",
     "skill": "reading",
     "source": "github:luckliu2007/English-study",
     "summary": "「对思考的思考」：计划—监控—复盘，让学习可被自己调控。",
-    "body": "元认知是检视自己怎么学、学得怎样的能力，分三步：计划（我要达到什么、用什么策略）、监控（我走神了吗、这方法有效吗）、复盘（哪错、为什么、下次怎么改）。EngFluent 的弱项诊断与声学五维反馈正是把元认知外显化——读 score、看 dims、调下一步。"
+    "body": "元认知是检视自己怎么学、学得怎样的能力，分三步：计划（我要达到什么、用什么策略）、监控（我走神了吗、这方法有效吗）、复盘（哪错、为什么、下次怎么改）。把每次练习的得分和各项反馈记录下来，对照目标调整下一步，就是在把元认知外显化。"
   },
   {
     "id": "r-study-group",
     "title": "学习小组",
+    "type": "guide",
     "level": "B1",
     "skill": "reading",
     "source": "github:luckliu2007/English-study",
@@ -215,10 +237,412 @@
   {
     "id": "r-exam-anxiety",
     "title": "考试焦虑应对",
+    "type": "guide",
     "level": "B2",
     "skill": "reading",
     "source": "github:luckliu2007/English-study",
     "summary": "用模拟、呼吸与重构认知把焦虑降到「适度唤醒」区间。",
-    "body": "考试焦虑源于不确定感与灾难化想象。对策：① 模拟考——按真实时长限时做，降低陌生感；② 盒式呼吸（4-4-4-4）在考前 1 分钟平复；③ 把「我会考砸」重构为「我已按路径练过，正常发挥即可」。EngFluent 的周复盘测验就是低压力的常态化模拟。"
+    "body": "考试焦虑源于不确定感与灾难化想象。对策：① 模拟考——按真实时长限时做，降低陌生感；② 盒式呼吸（4-4-4-4）在考前 1 分钟平复；③ 把「我会考砸」重构为「我已按计划练过，正常发挥即可」。每周做一次低压力的常态化模拟测验，也能显著降低临场紧张。"
+  },
+  {
+    "id": "r-article-my-morning",
+    "title": "My Morning",
+    "type": "article",
+    "skill": "reading",
+    "level": "A1",
+    "source": "English-study original",
+    "summary": "用最简单的短句描述一个普通早晨的日常。",
+    "body": "Every morning I wake up at seven o'clock. First, I open the window and look at the sky. Then I brush my teeth and wash my face. I eat bread and eggs for breakfast. I drink a cup of milk too. My sister makes tea. After breakfast, I put on my shoes and take my bag. I walk to the bus stop with my friend. The bus comes at eight. We talk and laugh on the bus. I like my mornings. They are simple and happy.",
+    "wordCount": 86,
+    "glossary": [
+      { "word": "wake up", "meaning": "醒来，起床" },
+      { "word": "brush", "meaning": "刷（牙）" },
+      { "word": "breakfast", "meaning": "早餐" },
+      { "word": "bus stop", "meaning": "公交车站" }
+    ],
+    "questions": [
+      {
+        "q": "What time does the writer wake up?",
+        "options": ["Six o'clock", "Seven o'clock", "Eight o'clock", "Nine o'clock"],
+        "answer": 1
+      },
+      {
+        "q": "How does the writer go to the bus stop?",
+        "options": ["By car", "By bike", "On foot", "By train"],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "r-article-my-cat",
+    "title": "My Cat Mimi",
+    "type": "article",
+    "skill": "reading",
+    "level": "A1",
+    "source": "English-study original",
+    "summary": "一篇关于宠物猫日常的入门级短文。",
+    "body": "I have a small cat. Her name is Mimi. She is white and grey. Mimi likes to sleep on my bed all day. In the morning, she is hungry. She looks at me and says meow. I give her food and water. She eats fast. Then she plays with a ball. Sometimes she runs after her tail. It is very funny. At night, Mimi sits on my legs. She is warm and soft. I love my cat very much. She is my best friend at home.",
+    "wordCount": 86,
+    "glossary": [
+      { "word": "hungry", "meaning": "饿的" },
+      { "word": "meow", "meaning": "喵（猫叫声）" },
+      { "word": "tail", "meaning": "尾巴" },
+      { "word": "soft", "meaning": "柔软的" }
+    ],
+    "questions": [
+      {
+        "q": "What colour is Mimi?",
+        "options": ["Black and white", "White and grey", "Brown", "Orange"],
+        "answer": 1
+      },
+      {
+        "q": "When is Mimi hungry?",
+        "options": ["In the morning", "At noon", "In the evening", "At midnight"],
+        "answer": 0
+      },
+      {
+        "q": "Where does Mimi like to sleep?",
+        "options": ["On the sofa", "On the floor", "On the bed", "In a box"],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "r-article-train-trip",
+    "title": "A Trip to the Mountains",
+    "type": "article",
+    "skill": "reading",
+    "level": "A2",
+    "source": "English-study original",
+    "summary": "一次全家坐火车去山间小镇的短途旅行记。",
+    "body": "Last summer, my family took a train to a small town near the mountains. The trip was five hours long, but we did not feel bored. We looked out of the window and saw green fields, rivers, and old bridges. When we arrived, the air was fresh and cool. We stayed in a small hotel next to a lake. Every morning we walked around the water and took photos. In the afternoon, we tried local food. My favourite was a warm soup with mushrooms. On the last day, it started to rain, so we drank tea and played cards inside. I hope we can go back next year.",
+    "wordCount": 108,
+    "glossary": [
+      { "word": "bored", "meaning": "无聊的" },
+      { "word": "fresh", "meaning": "新鲜的，清新的" },
+      { "word": "lake", "meaning": "湖" },
+      { "word": "local food", "meaning": "当地食物" },
+      { "word": "mushroom", "meaning": "蘑菇" }
+    ],
+    "questions": [
+      {
+        "q": "How long was the train trip?",
+        "options": ["Two hours", "Three hours", "Five hours", "Seven hours"],
+        "answer": 2
+      },
+      {
+        "q": "What did the family do on the last day?",
+        "options": ["They swam in the lake", "They drank tea and played cards", "They took a train home", "They climbed the mountain"],
+        "answer": 1
+      },
+      {
+        "q": "Where was the hotel?",
+        "options": ["Next to a lake", "In a big city", "On a mountain top", "Near the airport"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "r-article-home-cooking",
+    "title": "Cooking at Home",
+    "type": "article",
+    "skill": "reading",
+    "level": "A2",
+    "source": "English-study original",
+    "summary": "介绍在家做饭为什么简单、便宜又健康。",
+    "body": "Cooking at home is easier than many people think. You do not need many tools or expensive food. To start, choose a simple dish, like fried rice or noodle soup. Wash your vegetables and cut them into small pieces. Heat some oil in a pan, and add garlic first because it gives a nice smell. Then put in your vegetables and cook them for a few minutes. Add rice, salt, and a little soy sauce. Mix everything well. In about fifteen minutes, your meal is ready. Cooking your own food is cheaper, and it is often healthier too. Best of all, you can make it exactly the way you like.",
+    "wordCount": 110,
+    "glossary": [
+      { "word": "dish", "meaning": "菜肴" },
+      { "word": "garlic", "meaning": "大蒜" },
+      { "word": "soy sauce", "meaning": "酱油" },
+      { "word": "healthier", "meaning": "更健康的" }
+    ],
+    "questions": [
+      {
+        "q": "What should you add to the pan first?",
+        "options": ["Rice", "Salt", "Garlic", "Water"],
+        "answer": 2
+      },
+      {
+        "q": "According to the text, cooking at home is NOT:",
+        "options": ["Cheaper", "Healthier", "Difficult", "Flexible"],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "r-article-smartphones",
+    "title": "Living with Smartphones",
+    "type": "article",
+    "skill": "reading",
+    "level": "B1",
+    "source": "English-study original",
+    "summary": "智能手机如何改变生活，以及便利背后的代价。",
+    "body": "Smartphones have changed the way we live in only a few decades. Twenty years ago, a phone was mainly used to make calls and send short messages. Today, the same small device can take photos, play music, guide us through unknown cities, and connect us to people on the other side of the world. For many students, a smartphone is also a powerful learning tool. With the right apps, you can practise a new language, read the news, or study for an exam while waiting for the bus. However, this convenience comes with a cost. Because phones are always with us, it can be hard to focus or to rest. Some people check their screens hundreds of times a day without even noticing. The key is balance: using technology as a tool, not letting it use us.",
+    "wordCount": 137,
+    "glossary": [
+      { "word": "device", "meaning": "设备，装置" },
+      { "word": "convenience", "meaning": "便利" },
+      { "word": "focus", "meaning": "专注" },
+      { "word": "balance", "meaning": "平衡" }
+    ],
+    "questions": [
+      {
+        "q": "How were phones mainly used twenty years ago?",
+        "options": ["To take photos", "To make calls and send messages", "To study languages", "To guide people in cities"],
+        "answer": 1
+      },
+      {
+        "q": "What problem does the text mention?",
+        "options": ["Phones are too expensive", "Phones cannot play music", "It can be hard to focus or rest", "Phones have no apps"],
+        "answer": 2
+      },
+      {
+        "q": "What does the writer suggest at the end?",
+        "options": ["Stop using phones completely", "Find a balance with technology", "Buy a newer phone", "Use phones only for calls"],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "r-article-recycling",
+    "title": "Why Recycling Matters",
+    "type": "article",
+    "skill": "reading",
+    "level": "B1",
+    "source": "English-study original",
+    "summary": "回收如何帮助地球，以及为什么减少消费更重要。",
+    "body": "Every year, cities around the world produce millions of tonnes of waste. A large part of this rubbish could be reused or recycled, yet much of it still ends up in landfills or in the ocean. Recycling is one simple way that ordinary people can help the planet. Paper, glass, metal, and many types of plastic can be collected, cleaned, and turned into new products. This process saves energy and reduces the need to cut down trees or dig up raw materials. Still, recycling alone is not enough. Experts say the most important step is to reduce how much we buy and throw away in the first place. Carrying a reusable bag, choosing products with less packaging, and repairing broken items instead of replacing them all make a real difference over time.",
+    "wordCount": 132,
+    "glossary": [
+      { "word": "waste", "meaning": "垃圾，废物" },
+      { "word": "landfill", "meaning": "垃圾填埋场" },
+      { "word": "reduce", "meaning": "减少" },
+      { "word": "packaging", "meaning": "包装" },
+      { "word": "reusable", "meaning": "可重复使用的" }
+    ],
+    "questions": [
+      {
+        "q": "According to experts, what is the most important step?",
+        "options": ["Recycling more paper", "Reducing how much we buy and throw away", "Building more landfills", "Cutting down more trees"],
+        "answer": 1
+      },
+      {
+        "q": "What does recycling save?",
+        "options": ["Time only", "Money only", "Energy and raw materials", "Nothing"],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "r-article-remote-work",
+    "title": "The Rise of Remote Work",
+    "type": "article",
+    "skill": "reading",
+    "level": "B2",
+    "source": "English-study original",
+    "summary": "远程办公的优势、隐性挑战与混合办公趋势。",
+    "body": "Over the past few years, remote work has shifted from a rare privilege to a common arrangement in many industries. Employees who once spent hours commuting now open their laptops at home and join meetings from their living rooms. Supporters argue that this flexibility improves both productivity and quality of life. Without a daily commute, people gain time for family, exercise, or rest, and companies can hire talent regardless of location. Yet remote work also brings subtle challenges. Casual conversations by the coffee machine, which often spark new ideas, are harder to replicate on a screen. New employees may struggle to build relationships or absorb the unspoken culture of a team. Some workers report that the boundary between their job and personal life has almost disappeared, leaving them tired and unable to switch off. Increasingly, organisations are turning to hybrid models, blending office days with remote ones, in the hope of capturing the benefits of both while limiting their drawbacks.",
+    "wordCount": 160,
+    "glossary": [
+      { "word": "privilege", "meaning": "特权，特殊待遇" },
+      { "word": "commuting", "meaning": "通勤" },
+      { "word": "productivity", "meaning": "生产力，效率" },
+      { "word": "boundary", "meaning": "界限，边界" },
+      { "word": "hybrid", "meaning": "混合的" }
+    ],
+    "questions": [
+      {
+        "q": "What is one benefit of remote work mentioned in the text?",
+        "options": ["Higher office rent", "More time for family and rest", "Longer commutes", "Fewer job options"],
+        "answer": 1
+      },
+      {
+        "q": "What challenge does the text describe?",
+        "options": ["The boundary between work and personal life fades", "Employees work too few hours", "Companies cannot hire anyone", "Meetings become impossible"],
+        "answer": 0
+      },
+      {
+        "q": "What are hybrid models meant to do?",
+        "options": ["Remove all office work", "Force everyone back to the office", "Combine the benefits of office and remote work", "Reduce salaries"],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "r-article-festivals",
+    "title": "What Festivals Tell Us",
+    "type": "article",
+    "skill": "reading",
+    "level": "B2",
+    "source": "English-study original",
+    "summary": "节日如何反映文化价值，以及传统在现代的演变。",
+    "body": "Festivals offer a fascinating window into the values and history of a culture. Whether it is a harvest celebration, a religious holiday, or a national day, each festival tells a story about what a community considers important. Food, music, and clothing during these events are rarely chosen at random; they often carry meanings passed down through generations. In many countries, for example, sharing a particular dish symbolises unity or good fortune for the year ahead. Interestingly, festivals also adapt as societies change. Traditions that once took place only in villages may now be celebrated in enormous cities, sometimes broadcast to millions of viewers online. Critics worry that commercial interests can hollow out the original meaning, turning sacred customs into mere entertainment. Others argue that change has always been part of tradition, and that a living festival must evolve to survive. What remains constant is the human desire to gather, to remember, and to mark the passing of time together.",
+    "wordCount": 159,
+    "glossary": [
+      { "word": "harvest", "meaning": "收获，丰收" },
+      { "word": "symbolise", "meaning": "象征" },
+      { "word": "generations", "meaning": "世代，几代人" },
+      { "word": "sacred", "meaning": "神圣的" },
+      { "word": "evolve", "meaning": "演变，进化" }
+    ],
+    "questions": [
+      {
+        "q": "According to the text, festival food and clothing are:",
+        "options": ["Often full of meaning", "Chosen at random", "Always imported", "Never important"],
+        "answer": 0
+      },
+      {
+        "q": "What do critics worry about?",
+        "options": ["Festivals are too quiet", "Too few people attend", "Commercial interests can weaken the original meaning", "Festivals never change"],
+        "answer": 2
+      },
+      {
+        "q": "What does the writer say remains constant?",
+        "options": ["The exact rituals", "The location of festivals", "The type of food", "The human desire to gather and remember"],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "id": "r-article-science-of-sleep",
+    "title": "The Science of Sleep",
+    "type": "article",
+    "skill": "reading",
+    "level": "C1",
+    "source": "English-study original",
+    "summary": "睡眠并非被动休息，而是大脑最活跃的修复与记忆过程之一。",
+    "body": "Sleep, once dismissed as a passive state in which the brain simply switched off, is now understood to be one of the most active and essential processes in human biology. During the night, the brain cycles repeatedly through distinct stages, each serving a different purpose. In deep sleep, the body repairs tissue and consolidates memories, transferring fragile new information into more stable long-term storage. During rapid eye movement sleep, vivid dreams unfold, and the brain appears to integrate emotional experiences and creative connections. Chronic sleep deprivation, increasingly common in modern societies, is far from harmless. Studies have linked it to impaired concentration, weakened immunity, and a heightened risk of conditions ranging from obesity to depression. Perhaps most troubling, tired individuals frequently underestimate the extent of their own impairment, mistakenly believing they have adapted to functioning on little rest. Researchers therefore caution that no amount of caffeine or willpower can fully substitute for adequate sleep. Protecting it, they argue, may be one of the simplest yet most powerful investments in long-term health.",
+    "wordCount": 173,
+    "glossary": [
+      { "word": "consolidate", "meaning": "巩固，加强" },
+      { "word": "deprivation", "meaning": "剥夺，缺乏" },
+      { "word": "impaired", "meaning": "受损的" },
+      { "word": "immunity", "meaning": "免疫力" },
+      { "word": "underestimate", "meaning": "低估" }
+    ],
+    "questions": [
+      {
+        "q": "How was sleep viewed in the past, according to the text?",
+        "options": ["As a passive state", "As the most active process", "As a form of exercise", "As a waste of research"],
+        "answer": 0
+      },
+      {
+        "q": "What happens during deep sleep?",
+        "options": ["The brain switches off completely", "The body repairs tissue and consolidates memories", "People become more anxious", "Immunity is destroyed"],
+        "answer": 1
+      },
+      {
+        "q": "What does the text say about tired people?",
+        "options": ["They perform better", "They need no sleep", "They often underestimate their own impairment", "They rely on exercise instead"],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "r-article-green-cities",
+    "title": "Designing Greener Cities",
+    "type": "article",
+    "skill": "reading",
+    "level": "C1",
+    "source": "English-study original",
+    "summary": "城市设计如何从以汽车为中心转向以人为本、更宜居环保。",
+    "body": "As the world's population becomes overwhelmingly urban, the design of cities has emerged as a decisive factor in the fight against environmental decline. For much of the twentieth century, urban planning prioritised the automobile, carving wide roads through neighbourhoods and pushing homes ever farther from workplaces. The consequences are now painfully visible: congestion, polluted air, and sprawling districts that are impossible to navigate without a car. A growing movement of planners and architects proposes a different vision. They advocate compact, walkable neighbourhoods where shops, schools, and offices sit within a short distance of one another. Green roofs, urban forests, and restored waterways are introduced not merely for beauty but to cool the air, absorb rainfall, and shelter wildlife. Critics caution that such transformations are expensive and can accelerate the displacement of poorer residents if managed carelessly. Nevertheless, the underlying principle is difficult to dispute: a city built around people rather than machines tends to be healthier, more resilient, and considerably more pleasant to inhabit.",
+    "wordCount": 164,
+    "glossary": [
+      { "word": "decisive", "meaning": "决定性的" },
+      { "word": "congestion", "meaning": "拥堵" },
+      { "word": "sprawling", "meaning": "无序蔓延的" },
+      { "word": "displacement", "meaning": "迁移，被迫搬离" },
+      { "word": "resilient", "meaning": "有韧性的，能快速恢复的" }
+    ],
+    "questions": [
+      {
+        "q": "What did twentieth-century urban planning prioritise?",
+        "options": ["Walking", "The automobile", "Public parks", "Rivers"],
+        "answer": 1
+      },
+      {
+        "q": "Why are green roofs and urban forests introduced?",
+        "options": ["Only for beauty", "To cool the air, absorb rainfall, and shelter wildlife", "To increase traffic", "To replace all buildings"],
+        "answer": 1
+      },
+      {
+        "q": "What concern do critics raise?",
+        "options": ["Transformations can be costly and displace poorer residents", "Cities become too quiet", "There are too many cars", "Wildlife disappears"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "r-article-ai-ethics",
+    "title": "The Ethics of Artificial Intelligence",
+    "type": "article",
+    "skill": "reading",
+    "level": "C2",
+    "source": "English-study original",
+    "summary": "当算法主导重大决策时，责任、公平与透明成为核心难题。",
+    "body": "The rapid ascent of artificial intelligence has provoked a debate that is as much philosophical as it is technological. As algorithms increasingly mediate the decisions that shape our lives, from the loans we are granted to the news we encounter, questions of accountability grow ever more urgent. When an automated system denies someone employment or misidentifies an individual as a suspect, who bears responsibility, the engineer who wrote the code, the company that deployed it, or the opaque model itself, whose reasoning even its creators struggle to interpret? Proponents contend that, handled judiciously, such systems can mitigate the inconsistencies and prejudices that plague human judgement. Yet a substantial body of research suggests the opposite risk: that models trained on historical data may not merely reproduce existing inequalities but entrench and amplify them under a veneer of mathematical objectivity. The most thoughtful commentators resist the temptation to frame the matter as a simple choice between technophilia and alarmism. They insist instead on rigorous transparency, meaningful human oversight, and legal frameworks capable of keeping pace with innovation. The central challenge, ultimately, is not whether machines can think, but whether the societies deploying them will choose to think carefully enough.",
+    "wordCount": 197,
+    "glossary": [
+      { "word": "accountability", "meaning": "问责，责任归属" },
+      { "word": "opaque", "meaning": "不透明的，难以理解的" },
+      { "word": "judiciously", "meaning": "明智地，审慎地" },
+      { "word": "entrench", "meaning": "使根深蒂固" },
+      { "word": "veneer", "meaning": "表象，虚饰的外表" }
+    ],
+    "questions": [
+      {
+        "q": "What kind of debate does AI provoke, according to the text?",
+        "options": ["Purely technical", "As much philosophical as technological", "Only economic", "Mainly artistic"],
+        "answer": 1
+      },
+      {
+        "q": "What risk does research suggest about models trained on historical data?",
+        "options": ["They eliminate all bias", "They only reproduce, never amplify, inequalities", "They may entrench and amplify existing inequalities", "They cannot make decisions"],
+        "answer": 2
+      },
+      {
+        "q": "What do the most thoughtful commentators call for?",
+        "options": ["Banning all AI", "Blind enthusiasm for technology", "Transparency, human oversight, and legal frameworks", "Ignoring the issue"],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "r-article-language-loss",
+    "title": "The Vanishing of Languages",
+    "type": "article",
+    "skill": "reading",
+    "level": "C2",
+    "source": "English-study original",
+    "summary": "语言消亡不仅失去词汇，更是失去一种感知世界的方式。",
+    "body": "Every fortnight, somewhere in the world, the last fluent speaker of a language dies, and with them an entire way of perceiving reality quietly vanishes. Linguists estimate that of the roughly seven thousand languages spoken today, perhaps half will fall silent before the century is out. To the casual observer, this may seem an unfortunate but ultimately trivial consequence of globalisation, an inevitable tidying-up as commerce and communication gravitate toward a handful of dominant tongues. Such indifference, however, betrays a profound misunderstanding of what a language actually is. Far from being a mere inventory of labels for pre-existing objects, each language encodes a distinctive cosmology: subtle distinctions of colour, kinship, time, and obligation that may have no equivalent elsewhere. When a language disappears, we lose not only words but centuries of accumulated observation about medicinal plants, seasonal patterns, and social harmony. Efforts to document and revitalise endangered tongues, once dismissed as sentimental antiquarianism, are increasingly recognised as a form of intellectual conservation no less vital than the preservation of biodiversity. The impoverishment of our linguistic ecosystem, in short, diminishes the collective imagination of our entire species.",
+    "wordCount": 188,
+    "glossary": [
+      { "word": "fortnight", "meaning": "两周，十四天" },
+      { "word": "indifference", "meaning": "漠不关心" },
+      { "word": "cosmology", "meaning": "宇宙观，世界观" },
+      { "word": "revitalise", "meaning": "使复兴，重新振兴" },
+      { "word": "impoverishment", "meaning": "贫乏化，衰减" }
+    ],
+    "questions": [
+      {
+        "q": "Roughly how many of today's languages may fall silent this century?",
+        "options": ["About a tenth", "About half", "Almost none", "All of them"],
+        "answer": 1
+      },
+      {
+        "q": "How does the writer describe a language?",
+        "options": ["A mere list of labels", "An outdated system", "A distinctive cosmology encoding subtle distinctions", "A commercial product"],
+        "answer": 2
+      },
+      {
+        "q": "How is the effort to revitalise endangered languages increasingly seen?",
+        "options": ["As sentimental antiquarianism", "As a form of intellectual conservation", "As a waste of money", "As unnecessary"],
+        "answer": 1
+      }
+    ]
   }
 ]

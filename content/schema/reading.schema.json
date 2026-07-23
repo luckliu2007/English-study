@@ -1,0 +1,56 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/luckliu2007/English-study/content/schema/reading.schema.json",
+  "title": "Reading items",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "title", "type", "skill", "level", "source", "summary", "body"],
+    "additionalProperties": false,
+    "properties": {
+      "id": { "type": "string", "pattern": "^r-[a-z0-9-]+$" },
+      "title": { "type": "string", "minLength": 1 },
+      "type": {
+        "type": "string",
+        "enum": ["article", "guide"],
+        "description": "article=真实英语分级阅读文本；guide=指向仓库文档的导航条目"
+      },
+      "skill": { "type": "string", "enum": ["reading"] },
+      "level": { "type": "string", "enum": ["A1", "A2", "B1", "B2", "C1", "C2"] },
+      "source": { "type": "string", "minLength": 1 },
+      "url": { "type": "string", "format": "uri" },
+      "summary": { "type": "string", "minLength": 1 },
+      "body": { "type": "string", "minLength": 1 },
+      "wordCount": { "type": "integer", "minimum": 0 },
+      "glossary": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["word", "meaning"],
+          "additionalProperties": false,
+          "properties": {
+            "word": { "type": "string" },
+            "meaning": { "type": "string" }
+          }
+        }
+      },
+      "questions": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["q", "options", "answer"],
+          "additionalProperties": false,
+          "properties": {
+            "q": { "type": "string" },
+            "options": {
+              "type": "array",
+              "minItems": 2,
+              "items": { "type": "string" }
+            },
+            "answer": { "type": "integer", "minimum": 0 }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/luckliu2007/English-study/content/schema/quizzes.schema.json",
+  "title": "Quizzes",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "title", "skill", "level", "questions"],
+    "additionalProperties": false,
+    "properties": {
+      "id": { "type": "string", "pattern": "^q-[a-z0-9-]+$" },
+      "title": { "type": "string", "minLength": 1 },
+      "skill": { "type": "string", "enum": ["quiz"] },
+      "level": { "type": "string", "enum": ["A1", "A2", "B1", "B2", "C1", "C2"] },
+      "questions": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "required": ["q", "options", "answer"],
+          "additionalProperties": false,
+          "properties": {
+            "q": { "type": "string", "minLength": 1 },
+            "options": {
+              "type": "array",
+              "minItems": 2,
+              "maxItems": 6,
+              "items": { "type": "string", "minLength": 1 }
+            },
+            "answer": {
+              "type": "integer",
+              "minimum": 0,
+              "description": "正确选项的下标，必须落在 options 范围内（由校验脚本额外检查）"
+            }
+          }
+        }
+      }
+    }
+  }
+}

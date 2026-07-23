@@ -1,5 +1,9 @@
 # English Study
 
+[![Content Check](https://github.com/luckliu2007/English-study/actions/workflows/content-check.yml/badge.svg)](https://github.com/luckliu2007/English-study/actions/workflows/content-check.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Pages](https://img.shields.io/badge/GitHub-Pages-blue.svg)](https://luckliu2007.github.io/English-study/)
+
 面向中文学习者的英语学习资源库。这里不追求把链接堆满，而是把能长期使用的高质量资源按场景分类，配上学习路线和打卡模板，方便每天真正用起来。
 
 ## 快速开始
@@ -82,6 +86,27 @@
 ## 如何继续维护
 
 新增资源时，建议按 [贡献指南](CONTRIBUTING.md) 的格式补充到对应分类。每条资源尽量写清楚：适合什么水平、解决什么问题、是否免费。
+
+## 结构化内容数据
+
+`content/` 下是可被程序消费的结构化学习数据（词汇、分级阅读、测验），带 JSON Schema 约束：
+
+| 文件 | 内容 | Schema |
+| --- | --- | --- |
+| [`content/vocabulary.json`](content/vocabulary.json) | 分级词汇（CEFR A1–C2，含音标/例句/中文释义） | [schema](content/schema/vocabulary.schema.json) |
+| [`content/reading.json`](content/reading.json) | 分级阅读：`article`（原创英文短文，带生词表+理解题）与 `guide`（仓库文档导航） | [schema](content/schema/reading.schema.json) |
+| [`content/quizzes.json`](content/quizzes.json) | 测验题库（选项顺序随机，答案分布均衡） | [schema](content/schema/quizzes.schema.json) |
+| [`content/manifest.json`](content/manifest.json) | 同步契约（各文件 SHA256 + 条目数），由脚本自动生成 | — |
+
+本地校验与生成：
+
+```bash
+pip install -r scripts/requirements.txt
+python scripts/validate_content.py          # 按 Schema 校验 + 检查答案分布/释义污染
+python scripts/generate_manifest.py         # 重新生成 manifest（内容变更后运行）
+```
+
+CI（[`content-check.yml`](.github/workflows/content-check.yml)）会在每次 push/PR 自动跑 Schema 校验、manifest 一致性检查和 Markdown 死链检查。
 
 ## 免责声明
 

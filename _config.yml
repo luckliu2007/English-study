@@ -1,3 +1,32 @@
 title: English Study
-description: Curated English learning resources for Chinese learners.
+description: 面向中文学习者的英语学习资源库 · Curated English learning resources for Chinese learners.
+lang: zh-CN
 theme: minima
+
+# 部署到 GitHub Pages 项目页时需要（用户页/自定义域名可留空）
+# 若仓库名不同请相应修改 baseurl。
+url: "https://luckliu2007.github.io"
+baseurl: "/English-study"
+
+# jekyll-relative-links 会把 Markdown 里的 .md 相对链接自动转换成正确的站内 .html 链接，
+# 解决“README/docs 里的 xxx.md 链接在渲染后 404”的问题（GitHub Pages 默认已启用，此处显式声明）。
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+relative_links:
+  enabled: true
+  collections: false
+
+# 构建时排除仓库工程文件，避免被当作页面渲染
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - scripts/
+  - content/schema/
+  - requirements.txt
+  - Gemfile
+  - Gemfile.lock
+
+markdown: kramdown
