@@ -180,5 +180,389 @@
         "answer": 2
       }
     ]
+  },
+  {
+    "id": "q-vocab-daily-a1",
+    "title": "日常高频词 · A1",
+    "skill": "quiz",
+    "level": "A1",
+    "questions": [
+      {
+        "q": "“苹果”的英文是：",
+        "options": [
+          "apple",
+          "bread",
+          "milk",
+          "rice"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "“火车”的英文是：",
+        "options": [
+          "bus",
+          "taxi",
+          "train",
+          "bike"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "“老师”的英文是：",
+        "options": [
+          "student",
+          "teacher",
+          "doctor",
+          "boss"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "“水”的英文是：",
+        "options": [
+          "milk",
+          "tea",
+          "coffee",
+          "water"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "id": "q-travel-a2",
+    "title": "旅行英语 · A2",
+    "skill": "quiz",
+    "level": "A2",
+    "questions": [
+      {
+        "q": "在机场要出示的证件是：",
+        "options": [
+          "ticket",
+          "passport",
+          "luggage",
+          "map"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "“行李”的英文是：",
+        "options": [
+          "luggage",
+          "journey",
+          "flight",
+          "hotel"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "“到达”的英文动词是：",
+        "options": [
+          "leave",
+          "arrive",
+          "travel",
+          "visit"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "“预订（酒店）”用哪个词？",
+        "options": [
+          "reservation",
+          "station",
+          "schedule",
+          "discount"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "q-work-b1",
+    "title": "职场英语 · B1",
+    "skill": "quiz",
+    "level": "B1",
+    "questions": [
+      {
+        "q": "“同事”的英文是：",
+        "options": [
+          "boss",
+          "colleague",
+          "salary",
+          "interview"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "“升职”的英文是：",
+        "options": [
+          "resign",
+          "deadline",
+          "promotion",
+          "schedule"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "“辞职”的英文是：",
+        "options": [
+          "retire",
+          "resign",
+          "hire",
+          "fire"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "“责任”的英文是：",
+        "options": [
+          "responsibility",
+          "qualification",
+          "appointment",
+          "budget"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "q-health-b1",
+    "title": "健康与就医 · B1",
+    "skill": "quiz",
+    "level": "B1",
+    "questions": [
+      {
+        "q": "“症状”的英文是：",
+        "options": [
+          "diet",
+          "symptom",
+          "therapy",
+          "medicine"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "“预约（医生）”用哪个词？",
+        "options": [
+          "interview",
+          "meeting",
+          "appointment",
+          "schedule"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "“康复”的英文动词是：",
+        "options": [
+          "hurt",
+          "recover",
+          "ache",
+          "cure"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "“均衡饮食”是：",
+        "options": [
+          "fast food",
+          "balanced diet",
+          "junk food",
+          "big meal"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "q-tech-b2",
+    "title": "科技与隐私 · B2",
+    "skill": "quiz",
+    "level": "B2",
+    "questions": [
+      {
+        "q": "“算法”的英文是：",
+        "options": [
+          "algebra",
+          "algorithm",
+          "device",
+          "data"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "“隐私”的英文是：",
+        "options": [
+          "private",
+          "privacy",
+          "secret",
+          "policy"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "推荐算法主要预测什么？",
+        "options": [
+          "你的位置",
+          "你的年龄",
+          "什么能吸引你的注意",
+          "天气"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "“人工智能”的英文缩写是：",
+        "options": [
+          "IT",
+          "AI",
+          "VR",
+          "APP"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "q-nature-b2",
+    "title": "自然与环境 · B2",
+    "skill": "quiz",
+    "level": "B2",
+    "questions": [
+      {
+        "q": "“生态系统”的英文是：",
+        "options": [
+          "economy",
+          "ecosystem",
+          "species",
+          "climate"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "珊瑚白化的主要原因是：",
+        "options": [
+          "船只污染",
+          "海水变暖",
+          "鱼类过多",
+          "缺少阳光"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "“干旱”的英文是：",
+        "options": [
+          "flood",
+          "storm",
+          "drought",
+          "humid"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "“濒危物种”的英文是：",
+        "options": [
+          "endangered species",
+          "rare species",
+          "wild species",
+          "marine species"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "q-academic-c1",
+    "title": "学术英语 · C1",
+    "skill": "quiz",
+    "level": "C1",
+    "questions": [
+      {
+        "q": "“实证的”英文是：",
+        "options": [
+          "theoretical",
+          "empirical",
+          "hypothetical",
+          "rhetorical"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "“学位论文”的英文是：",
+        "options": [
+          "essay",
+          "dissertation",
+          "lecture",
+          "syllabus"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "“综合（多方资料）”的英文动词是：",
+        "options": [
+          "summarize",
+          "paraphrase",
+          "synthesize",
+          "infer"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "“细微差别”的英文是：",
+        "options": [
+          "difference",
+          "nuance",
+          "discrepancy",
+          "ambiguity"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "q-culture-c2",
+    "title": "高阶文化词 · C2",
+    "skill": "quiz",
+    "level": "C2",
+    "questions": [
+      {
+        "q": "“意外之喜”的英文是：",
+        "options": [
+          "serendipity",
+          "ephemera",
+          "idyllic",
+          "vicissitude"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "“言简意赅的”最接近：",
+        "options": [
+          "garrulous",
+          "laconic",
+          "eloquent",
+          "verbose"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "“权谋的”英文是：",
+        "options": [
+          "draconian",
+          "machiavellian",
+          "spartan",
+          "bucolic"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "“雨后土香”的英文是：",
+        "options": [
+          "petrichor",
+          "susurration",
+          "miasma",
+          "halcyon"
+        ],
+        "answer": 0
+      }
+    ]
   }
 ]
