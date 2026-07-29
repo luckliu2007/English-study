@@ -1454,5 +1454,2655 @@
       "高级",
       "描述"
     ]
+  },
+  {
+    "id": "v-people",
+    "word": "people",
+    "phonetic": "/ˈpiː.pəl/",
+    "pos": "n.",
+    "meaning": "人们",
+    "example": "Many people like this song.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "集合"
+    ]
+  },
+  {
+    "id": "v-year",
+    "word": "year",
+    "phonetic": "/jɪə/",
+    "pos": "n.",
+    "meaning": "年",
+    "example": "This year went by fast.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-work",
+    "word": "work",
+    "phonetic": "/wɜːk/",
+    "pos": "v./n.",
+    "meaning": "工作",
+    "example": "I work from Monday to Friday.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-read",
+    "word": "read",
+    "phonetic": "/riːd/",
+    "pos": "v.",
+    "meaning": "读",
+    "example": "I read the news every day.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-name",
+    "word": "name",
+    "phonetic": "/neɪm/",
+    "pos": "n.",
+    "meaning": "名字",
+    "example": "What is your name?",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-write",
+    "word": "write",
+    "phonetic": "/raɪt/",
+    "pos": "v.",
+    "meaning": "写",
+    "example": "Write your name here.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-word",
+    "word": "word",
+    "phonetic": "/wɜːd/",
+    "pos": "n.",
+    "meaning": "单词",
+    "example": "Learn five new words a day.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-money",
+    "word": "money",
+    "phonetic": "/ˈmʌn.i/",
+    "pos": "n.",
+    "meaning": "钱",
+    "example": "He saves money every month.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-buy",
+    "word": "buy",
+    "phonetic": "/baɪ/",
+    "pos": "v.",
+    "meaning": "买",
+    "example": "I want to buy a new coat.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-car",
+    "word": "car",
+    "phonetic": "/kɑː/",
+    "pos": "n.",
+    "meaning": "汽车",
+    "example": "His car is parked outside.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-city",
+    "word": "city",
+    "phonetic": "/ˈsɪt.i/",
+    "pos": "n.",
+    "meaning": "城市",
+    "example": "The city is crowded during rush hour.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-week",
+    "word": "week",
+    "phonetic": "/wiːk/",
+    "pos": "n.",
+    "meaning": "周",
+    "example": "I see my parents once a week.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-hand",
+    "word": "hand",
+    "phonetic": "/hænd/",
+    "pos": "n.",
+    "meaning": "手",
+    "example": "Raise your hand if you know.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-pay",
+    "word": "pay",
+    "phonetic": "/peɪ/",
+    "pos": "v.",
+    "meaning": "支付",
+    "example": "Can I pay by card?",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-head",
+    "word": "head",
+    "phonetic": "/hed/",
+    "pos": "n.",
+    "meaning": "头",
+    "example": "He nodded his head.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-night",
+    "word": "night",
+    "phonetic": "/naɪt/",
+    "pos": "n.",
+    "meaning": "夜晚",
+    "example": "The city is beautiful at night.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-learn",
+    "word": "learn",
+    "phonetic": "/lɜːn/",
+    "pos": "v.",
+    "meaning": "学习",
+    "example": "Children learn fast.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-room",
+    "word": "room",
+    "phonetic": "/ruːm/",
+    "pos": "n.",
+    "meaning": "房间",
+    "example": "My room is small but bright.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-eye",
+    "word": "eye",
+    "phonetic": "/aɪ/",
+    "pos": "n.",
+    "meaning": "眼睛",
+    "example": "She has big brown eyes.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-job",
+    "word": "job",
+    "phonetic": "/dʒɒb/",
+    "pos": "n.",
+    "meaning": "工作",
+    "example": "She loves her new job.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-phone",
+    "word": "phone",
+    "phonetic": "/fəʊn/",
+    "pos": "n.",
+    "meaning": "电话；手机",
+    "example": "My phone is on the table.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-street",
+    "word": "street",
+    "phonetic": "/striːt/",
+    "pos": "n.",
+    "meaning": "街道",
+    "example": "The street is quiet at night.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-mother",
+    "word": "mother",
+    "phonetic": "/ˈmʌð.ə/",
+    "pos": "n.",
+    "meaning": "母亲",
+    "example": "Her mother is a nurse.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-music",
+    "word": "music",
+    "phonetic": "/ˈmjuː.zɪk/",
+    "pos": "n.",
+    "meaning": "音乐",
+    "example": "She listens to music while studying.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-student",
+    "word": "student",
+    "phonetic": "/ˈstjuː.dənt/",
+    "pos": "n.",
+    "meaning": "学生",
+    "example": "She is a student at the university.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-father",
+    "word": "father",
+    "phonetic": "/ˈfɑː.ðə/",
+    "pos": "n.",
+    "meaning": "父亲",
+    "example": "His father drives a taxi.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-park",
+    "word": "park",
+    "phonetic": "/pɑːk/",
+    "pos": "n.",
+    "meaning": "公园",
+    "example": "We walk in the park after dinner.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-dog",
+    "word": "dog",
+    "phonetic": "/dɒɡ/",
+    "pos": "n.",
+    "meaning": "狗",
+    "example": "Their dog likes to play outside.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-door",
+    "word": "door",
+    "phonetic": "/dɔː/",
+    "pos": "n.",
+    "meaning": "门",
+    "example": "Please close the door.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-brother",
+    "word": "brother",
+    "phonetic": "/ˈbrʌð.ə/",
+    "pos": "n.",
+    "meaning": "兄弟",
+    "example": "My brother is older than me.",
+    "level": "A1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-call",
+    "word": "call",
+    "phonetic": "/kɔːl/",
+    "pos": "v./n.",
+    "meaning": "打电话",
+    "example": "I will call you tonight.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-understand",
+    "word": "understand",
+    "phonetic": "/ˌʌn.dəˈstænd/",
+    "pos": "v.",
+    "meaning": "理解",
+    "example": "Do you understand the question?",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-child",
+    "word": "child",
+    "phonetic": "/tʃaɪld/",
+    "pos": "n.",
+    "meaning": "孩子",
+    "example": "The child is learning to read.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-change",
+    "word": "change",
+    "phonetic": "/tʃeɪndʒ/",
+    "pos": "n./v.",
+    "meaning": "零钱；改变",
+    "example": "Keep the change, please.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-question",
+    "word": "question",
+    "phonetic": "/ˈkwes.tʃən/",
+    "pos": "n.",
+    "meaning": "问题",
+    "example": "May I ask a question?",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-hour",
+    "word": "hour",
+    "phonetic": "/aʊə/",
+    "pos": "n.",
+    "meaning": "小时",
+    "example": "The shop opens in an hour.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-answer",
+    "word": "answer",
+    "phonetic": "/ˈɑːn.sə/",
+    "pos": "n./v.",
+    "meaning": "回答",
+    "example": "She knew the right answer.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-minute",
+    "word": "minute",
+    "phonetic": "/ˈmɪn.ɪt/",
+    "pos": "n.",
+    "meaning": "分钟",
+    "example": "Wait a minute, please.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-drive",
+    "word": "drive",
+    "phonetic": "/draɪv/",
+    "pos": "v.",
+    "meaning": "驾驶",
+    "example": "She drives to work every day.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-remember-a2",
+    "word": "remember-a2",
+    "phonetic": "/rɪˈmem.bə/",
+    "pos": "v.",
+    "meaning": "记得",
+    "example": "I cannot remember his name.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-team",
+    "word": "team",
+    "phonetic": "/tiːm/",
+    "pos": "n.",
+    "meaning": "队伍",
+    "example": "Our team won the match.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-win",
+    "word": "win",
+    "phonetic": "/wɪn/",
+    "pos": "v.",
+    "meaning": "赢",
+    "example": "She wants to win the race.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-message",
+    "word": "message",
+    "phonetic": "/ˈmes.ɪdʒ/",
+    "pos": "n.",
+    "meaning": "消息",
+    "example": "Send me a message when you arrive.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-bank",
+    "word": "bank",
+    "phonetic": "/bæŋk/",
+    "pos": "n.",
+    "meaning": "银行",
+    "example": "The bank opens at nine.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-practice",
+    "word": "practice",
+    "phonetic": "/ˈpræk.tɪs/",
+    "pos": "n./v.",
+    "meaning": "练习",
+    "example": "Practice makes perfect.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-sea",
+    "word": "sea",
+    "phonetic": "/siː/",
+    "pos": "n.",
+    "meaning": "大海",
+    "example": "We swam in the warm sea.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-party",
+    "word": "party",
+    "phonetic": "/ˈpɑː.ti/",
+    "pos": "n.",
+    "meaning": "聚会",
+    "example": "We are having a party on Friday.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-save-money",
+    "word": "save-money",
+    "phonetic": "/seɪv/",
+    "pos": "v.",
+    "meaning": "存（钱）；节省",
+    "example": "She saves half her salary.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-foot",
+    "word": "foot",
+    "phonetic": "/fʊt/",
+    "pos": "n.",
+    "meaning": "脚",
+    "example": "He hurt his foot while running.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-song",
+    "word": "song",
+    "phonetic": "/sɒŋ/",
+    "pos": "n.",
+    "meaning": "歌曲",
+    "example": "This song is very popular.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-station",
+    "word": "station",
+    "phonetic": "/ˈsteɪ.ʃən/",
+    "pos": "n.",
+    "meaning": "车站",
+    "example": "Meet me at the station at six.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-arm",
+    "word": "arm",
+    "phonetic": "/ɑːm/",
+    "pos": "n.",
+    "meaning": "手臂",
+    "example": "She carried the baby in her arms.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-market",
+    "word": "market",
+    "phonetic": "/ˈmɑː.kɪt/",
+    "pos": "n.",
+    "meaning": "市场",
+    "example": "The morning market sells fresh fish.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-movie",
+    "word": "movie",
+    "phonetic": "/ˈmuː.vi/",
+    "pos": "n.",
+    "meaning": "电影",
+    "example": "We watched a great movie last night.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-river",
+    "word": "river",
+    "phonetic": "/ˈrɪv.ə/",
+    "pos": "n.",
+    "meaning": "河流",
+    "example": "The river flows through the city.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-weekend",
+    "word": "weekend",
+    "phonetic": "/ˌwiːkˈend/",
+    "pos": "n.",
+    "meaning": "周末",
+    "example": "What are you doing this weekend?",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-parent",
+    "word": "parent",
+    "phonetic": "/ˈpeə.rənt/",
+    "pos": "n.",
+    "meaning": "父（母）亲",
+    "example": "Her parents live in the countryside.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-sale",
+    "word": "sale",
+    "phonetic": "/seɪl/",
+    "pos": "n.",
+    "meaning": "促销；销售",
+    "example": "The shoes are on sale this week.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-wife",
+    "word": "wife",
+    "phonetic": "/waɪf/",
+    "pos": "n.",
+    "meaning": "妻子",
+    "example": "His wife works at a bank.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-husband",
+    "word": "husband",
+    "phonetic": "/ˈhʌz.bənd/",
+    "pos": "n.",
+    "meaning": "丈夫",
+    "example": "Her husband cooks on weekends.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-mistake-a2",
+    "word": "mistake-a2",
+    "phonetic": "/mɪˈsteɪk/",
+    "pos": "n.",
+    "meaning": "错误",
+    "example": "Everyone makes mistakes when learning.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-mountain",
+    "word": "mountain",
+    "phonetic": "/ˈmaʊn.tɪn/",
+    "pos": "n.",
+    "meaning": "山",
+    "example": "They climbed the mountain at dawn.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-match",
+    "word": "match",
+    "phonetic": "/mætʃ/",
+    "pos": "n.",
+    "meaning": "比赛",
+    "example": "The match starts at seven.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-garden",
+    "word": "garden",
+    "phonetic": "/ˈɡɑː.dən/",
+    "pos": "n.",
+    "meaning": "花园",
+    "example": "She grows roses in her garden.",
+    "level": "A2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-data",
+    "word": "data",
+    "phonetic": "/ˈdeɪ.tə/",
+    "pos": "n.",
+    "meaning": "数据",
+    "example": "The app collects usage data.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-online",
+    "word": "online",
+    "phonetic": "/ˌɒnˈlaɪn/",
+    "pos": "adj./adv.",
+    "meaning": "在线的",
+    "example": "He takes courses online.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-explain-b1",
+    "word": "explain-b1",
+    "phonetic": "/ɪkˈspleɪn/",
+    "pos": "v.",
+    "meaning": "解释",
+    "example": "Can you explain the rule again?",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-improve-b1",
+    "word": "improve-b1",
+    "phonetic": "/ɪmˈpruːv/",
+    "pos": "v.",
+    "meaning": "提高",
+    "example": "Reading improves your vocabulary.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-community",
+    "word": "community",
+    "phonetic": "/kəˈmjuː.nə.ti/",
+    "pos": "n.",
+    "meaning": "社区；社群",
+    "example": "The community organized a clean-up.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-suggest-b1",
+    "word": "suggest-b1",
+    "phonetic": "/səˈdʒest/",
+    "pos": "v.",
+    "meaning": "建议",
+    "example": "I suggest taking the earlier train.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-traffic",
+    "word": "traffic",
+    "phonetic": "/ˈtræf.ɪk/",
+    "pos": "n.",
+    "meaning": "交通",
+    "example": "Traffic is heavy this morning.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-series",
+    "word": "series",
+    "phonetic": "/ˈsɪə.riːz/",
+    "pos": "n.",
+    "meaning": "系列剧",
+    "example": "We finished the series in a week.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-conversation",
+    "word": "conversation",
+    "phonetic": "/ˌkɒn.vəˈseɪ.ʃən/",
+    "pos": "n.",
+    "meaning": "交谈",
+    "example": "We had a long conversation over tea.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-generation",
+    "word": "generation",
+    "phonetic": "/ˌdʒen.əˈreɪ.ʃən/",
+    "pos": "n.",
+    "meaning": "一代人",
+    "example": "Three generations live under one roof.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-channel",
+    "word": "channel",
+    "phonetic": "/ˈtʃæn.əl/",
+    "pos": "n.",
+    "meaning": "频道；渠道",
+    "example": "This channel shows documentaries.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-shoulder",
+    "word": "shoulder",
+    "phonetic": "/ˈʃəʊl.də/",
+    "pos": "n.",
+    "meaning": "肩膀",
+    "example": "He carried the bag on his shoulder.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-competition",
+    "word": "competition",
+    "phonetic": "/ˌkɒm.pəˈtɪʃ.ən/",
+    "pos": "n.",
+    "meaning": "比赛；竞争",
+    "example": "She entered a swimming competition.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-crowd",
+    "word": "crowd",
+    "phonetic": "/kraʊd/",
+    "pos": "n.",
+    "meaning": "人群",
+    "example": "A crowd gathered at the entrance.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-island",
+    "word": "island",
+    "phonetic": "/ˈaɪ.lənd/",
+    "pos": "n.",
+    "meaning": "岛屿",
+    "example": "They spent a week on the island.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-review-b1",
+    "word": "review-b1",
+    "phonetic": "/rɪˈvjuː/",
+    "pos": "v./n.",
+    "meaning": "复习",
+    "example": "Review your notes before the test.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-coach",
+    "word": "coach",
+    "phonetic": "/kəʊtʃ/",
+    "pos": "n.",
+    "meaning": "教练",
+    "example": "The coach pushed us to train harder.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-software",
+    "word": "software",
+    "phonetic": "/ˈsɒft.weə/",
+    "pos": "n.",
+    "meaning": "软件",
+    "example": "The software updates itself.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-rent",
+    "word": "rent",
+    "phonetic": "/rent/",
+    "pos": "v./n.",
+    "meaning": "租；租金",
+    "example": "They rent an apartment near work.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-temperature",
+    "word": "temperature",
+    "phonetic": "/ˈtem.prə.tʃə/",
+    "pos": "n.",
+    "meaning": "温度",
+    "example": "The temperature dropped below zero.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-tradition",
+    "word": "tradition",
+    "phonetic": "/trəˈdɪʃ.ən/",
+    "pos": "n.",
+    "meaning": "传统",
+    "example": "The festival is a family tradition.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-suit",
+    "word": "suit",
+    "phonetic": "/suːt/",
+    "pos": "n.",
+    "meaning": "西装",
+    "example": "He wore a dark suit to the interview.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-responsibility",
+    "word": "responsibility",
+    "phonetic": "/rɪˌspɒn.səˈbɪl.ə.ti/",
+    "pos": "n.",
+    "meaning": "责任",
+    "example": "The job carries a lot of responsibility.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-device",
+    "word": "device",
+    "phonetic": "/dɪˈvaɪs/",
+    "pos": "n.",
+    "meaning": "设备",
+    "example": "This device tracks your sleep.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-climate",
+    "word": "climate",
+    "phonetic": "/ˈklaɪ.mət/",
+    "pos": "n.",
+    "meaning": "气候",
+    "example": "The climate here is mild.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-graduate",
+    "word": "graduate",
+    "phonetic": "/ˈɡrædʒ.u.ət/",
+    "pos": "v./n.",
+    "meaning": "毕业；毕业生",
+    "example": "She graduated with honors.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "高频"
+    ]
+  },
+  {
+    "id": "v-schedule-b1",
+    "word": "schedule-b1",
+    "phonetic": "/ˈʃed.juːl/",
+    "pos": "n./v.",
+    "meaning": "日程",
+    "example": "My schedule is full this week.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-appointment",
+    "word": "appointment",
+    "phonetic": "/əˈpɔɪnt.mənt/",
+    "pos": "n.",
+    "meaning": "预约；约会",
+    "example": "I have a dentist appointment at three.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-delay",
+    "word": "delay",
+    "phonetic": "/dɪˈleɪ/",
+    "pos": "n./v.",
+    "meaning": "延误",
+    "example": "The delay lasted two hours.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-budget",
+    "word": "budget",
+    "phonetic": "/ˈbʌdʒ.ɪt/",
+    "pos": "n./v.",
+    "meaning": "预算",
+    "example": "We are on a tight budget.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-recover",
+    "word": "recover",
+    "phonetic": "/rɪˈkʌv.ə/",
+    "pos": "v.",
+    "meaning": "康复；恢复",
+    "example": "He recovered quickly after surgery.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "动词"
+    ]
+  },
+  {
+    "id": "v-repair",
+    "word": "repair",
+    "phonetic": "/rɪˈpeə/",
+    "pos": "v./n.",
+    "meaning": "修理",
+    "example": "The plumber repaired the sink.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "动词"
+    ]
+  },
+  {
+    "id": "v-deadline-b1",
+    "word": "deadline-b1",
+    "phonetic": "/ˈded.laɪn/",
+    "pos": "n.",
+    "meaning": "最后期限",
+    "example": "We work better under a deadline.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-diet",
+    "word": "diet",
+    "phonetic": "/ˈdaɪ.ət/",
+    "pos": "n.",
+    "meaning": "饮食",
+    "example": "A balanced diet matters more than exercise.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-relative",
+    "word": "relative",
+    "phonetic": "/ˈrel.ə.tɪv/",
+    "pos": "n.",
+    "meaning": "亲戚",
+    "example": "We visit our relatives during festivals.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-vehicle",
+    "word": "vehicle",
+    "phonetic": "/ˈviː.ə.kəl/",
+    "pos": "n.",
+    "meaning": "车辆",
+    "example": "Electric vehicles are getting cheaper.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-stomach",
+    "word": "stomach",
+    "phonetic": "/ˈstʌm.ək/",
+    "pos": "n.",
+    "meaning": "胃",
+    "example": "My stomach hurts after spicy food.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-discount",
+    "word": "discount",
+    "phonetic": "/ˈdɪs.kaʊnt/",
+    "pos": "n.",
+    "meaning": "折扣",
+    "example": "Students get a ten percent discount.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-confident-b1",
+    "word": "confident-b1",
+    "phonetic": "/ˈkɒn.fɪ.dənt/",
+    "pos": "adj.",
+    "meaning": "自信的",
+    "example": "She feels confident about the interview.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "情感"
+    ]
+  },
+  {
+    "id": "v-volunteer",
+    "word": "volunteer",
+    "phonetic": "/ˌvɒl.ənˈtɪə/",
+    "pos": "n./v.",
+    "meaning": "志愿者；自愿",
+    "example": "She volunteers at an animal shelter.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-mortgage-rate",
+    "word": "mortgage-rate",
+    "phonetic": "/ˈɪn.trest/",
+    "pos": "n.",
+    "meaning": "利息",
+    "example": "The bank lowered interest rates.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-analysis",
+    "word": "analysis",
+    "phonetic": "/əˈnæl.ə.sɪs/",
+    "pos": "n.",
+    "meaning": "分析",
+    "example": "The analysis revealed a clear trend.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "高频",
+      "可数"
+    ]
+  },
+  {
+    "id": "v-species",
+    "word": "species",
+    "phonetic": "/ˈspiː.ʃiːz/",
+    "pos": "n.",
+    "meaning": "物种",
+    "example": "Many species are endangered.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-remote-b2",
+    "word": "remote-b2",
+    "phonetic": "/rɪˈməʊt/",
+    "pos": "adj.",
+    "meaning": "远程的",
+    "example": "Remote work saves commuting time.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-debate",
+    "word": "debate",
+    "phonetic": "/dɪˈbeɪt/",
+    "pos": "n./v.",
+    "meaning": "辩论",
+    "example": "The topic sparked heated debate.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-therapy",
+    "word": "therapy",
+    "phonetic": "/ˈθer.ə.pi/",
+    "pos": "n.",
+    "meaning": "治疗",
+    "example": "Speech therapy helped his fluency.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-household",
+    "word": "household",
+    "phonetic": "/ˈhaʊs.həʊld/",
+    "pos": "n./adj.",
+    "meaning": "家庭（的）",
+    "example": "Half of households own a car.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-privacy",
+    "word": "privacy",
+    "phonetic": "/ˈprɪv.ə.si/",
+    "pos": "n.",
+    "meaning": "隐私",
+    "example": "Check the app’s privacy settings.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-deadline-c",
+    "word": "deadline-c",
+    "phonetic": "/ˈded.laɪn/",
+    "pos": "n.",
+    "meaning": "期限",
+    "example": "Missing the deadline costs marks.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-artificial",
+    "word": "artificial",
+    "phonetic": "/ˌɑː.tɪˈfɪʃ.əl/",
+    "pos": "adj.",
+    "meaning": "人工的",
+    "example": "Artificial intelligence is reshaping work.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-democracy",
+    "word": "democracy",
+    "phonetic": "/dɪˈmɒk.rə.si/",
+    "pos": "n.",
+    "meaning": "民主",
+    "example": "Democracy depends on free speech.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-ingredient",
+    "word": "ingredient",
+    "phonetic": "/ɪnˈɡriː.di.ənt/",
+    "pos": "n.",
+    "meaning": "食材；成分",
+    "example": "Read the ingredients before buying.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-headline",
+    "word": "headline",
+    "phonetic": "/ˈhed.laɪn/",
+    "pos": "n.",
+    "meaning": "头条",
+    "example": "The story made headlines worldwide.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-persuade",
+    "word": "persuade",
+    "phonetic": "/pəˈsweɪd/",
+    "pos": "v.",
+    "meaning": "说服",
+    "example": "She persuaded him to join.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "动词"
+    ]
+  },
+  {
+    "id": "v-maintenance",
+    "word": "maintenance",
+    "phonetic": "/ˈmeɪn.tə.nəns/",
+    "pos": "n.",
+    "meaning": "维护；保养",
+    "example": "The building needs regular maintenance.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-anxiety",
+    "word": "anxiety",
+    "phonetic": "/æŋˈzaɪ.ə.ti/",
+    "pos": "n.",
+    "meaning": "焦虑",
+    "example": "Exercise can reduce anxiety.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-broadcast",
+    "word": "broadcast",
+    "phonetic": "/ˈbrɔːd.kɑːst/",
+    "pos": "v./n.",
+    "meaning": "广播；播出",
+    "example": "The match was broadcast live.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "动词"
+    ]
+  },
+  {
+    "id": "v-acquire",
+    "word": "acquire",
+    "phonetic": "/əˈkwaɪə/",
+    "pos": "v.",
+    "meaning": "习得；获得",
+    "example": "Children acquire language naturally.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "动词"
+    ]
+  },
+  {
+    "id": "v-accommodation",
+    "word": "accommodation",
+    "phonetic": "/əˌkɒm.əˈdeɪ.ʃən/",
+    "pos": "n.",
+    "meaning": "住宿",
+    "example": "The accommodation exceeded expectations.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-documentary",
+    "word": "documentary",
+    "phonetic": "/ˌdɒk.jəˈmen.tər.i/",
+    "pos": "n.",
+    "meaning": "纪录片",
+    "example": "The documentary changed my view.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-negotiate",
+    "word": "negotiate",
+    "phonetic": "/nɪˈɡəʊ.ʃi.eɪt/",
+    "pos": "v.",
+    "meaning": "谈判；协商",
+    "example": "They negotiated a better price.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "动词"
+    ]
+  },
+  {
+    "id": "v-inflation",
+    "word": "inflation",
+    "phonetic": "/ɪnˈfleɪ.ʃən/",
+    "pos": "n.",
+    "meaning": "通货膨胀",
+    "example": "Inflation pushed up food prices.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-immune",
+    "word": "immune",
+    "phonetic": "/ɪˈmjuːn/",
+    "pos": "adj.",
+    "meaning": "免疫的",
+    "example": "Vaccines train the immune system.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-tournament",
+    "word": "tournament",
+    "phonetic": "/ˈtʊə.nə.mənt/",
+    "pos": "n.",
+    "meaning": "锦标赛",
+    "example": "She reached the tournament final.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-heritage",
+    "word": "heritage",
+    "phonetic": "/ˈher.ɪ.tɪdʒ/",
+    "pos": "n.",
+    "meaning": "遗产",
+    "example": "The temple is a world heritage site.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-emphasize-b2",
+    "word": "emphasize-b2",
+    "phonetic": "/ˈem.fə.saɪz/",
+    "pos": "v.",
+    "meaning": "强调",
+    "example": "The report emphasizes daily practice.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "动词"
+    ]
+  },
+  {
+    "id": "v-chronic",
+    "word": "chronic",
+    "phonetic": "/ˈkrɒn.ɪk/",
+    "pos": "adj.",
+    "meaning": "慢性的",
+    "example": "Chronic stress harms your health.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-refund",
+    "word": "refund",
+    "phonetic": "/ˈriː.fʌnd/",
+    "pos": "n./v.",
+    "meaning": "退款",
+    "example": "They offered a full refund.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-fabric",
+    "word": "fabric",
+    "phonetic": "/ˈfæb.rɪk/",
+    "pos": "n.",
+    "meaning": "织物；面料",
+    "example": "This fabric breathes well.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-retain",
+    "word": "retain",
+    "phonetic": "/rɪˈteɪn/",
+    "pos": "v.",
+    "meaning": "保留；记住",
+    "example": "Spaced review helps retain words.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "动词"
+    ]
+  },
+  {
+    "id": "v-freelance",
+    "word": "freelance",
+    "phonetic": "/ˈfriː.lɑːns/",
+    "pos": "adj./v.",
+    "meaning": "自由职业的",
+    "example": "She works freelance as a designer.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-frustrated",
+    "word": "frustrated",
+    "phonetic": "/frʌˈstreɪ.tɪd/",
+    "pos": "adj.",
+    "meaning": "沮丧的",
+    "example": "She felt frustrated by the slow progress.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "情感"
+    ]
+  },
+  {
+    "id": "v-jaw",
+    "word": "jaw",
+    "phonetic": "/dʒɔː/",
+    "pos": "n.",
+    "meaning": "下颌",
+    "example": "Relax your jaw when speaking.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-infrastructure",
+    "word": "infrastructure",
+    "phonetic": "/ˈɪn.frəˌstrʌk.tʃə/",
+    "pos": "n.",
+    "meaning": "基础设施",
+    "example": "The city invests in green infrastructure.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-nutrition",
+    "word": "nutrition",
+    "phonetic": "/njuːˈtrɪʃ.ən/",
+    "pos": "n.",
+    "meaning": "营养",
+    "example": "Good nutrition supports recovery.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-commute",
+    "word": "commute",
+    "phonetic": "/kəˈmjuːt/",
+    "pos": "v./n.",
+    "meaning": "通勤",
+    "example": "His commute takes forty minutes.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-postpone",
+    "word": "postpone",
+    "phonetic": "/pəˈspəʊn/",
+    "pos": "v.",
+    "meaning": "推迟",
+    "example": "They postponed the launch twice.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "动词"
+    ]
+  },
+  {
+    "id": "v-fare",
+    "word": "fare",
+    "phonetic": "/feə/",
+    "pos": "n.",
+    "meaning": "票价",
+    "example": "The fare includes luggage.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-inequality",
+    "word": "inequality",
+    "phonetic": "/ˌɪn.ɪˈkwɒl.ə.ti/",
+    "pos": "n.",
+    "meaning": "不平等",
+    "example": "Education reduces inequality.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-curriculum-b2",
+    "word": "curriculum-b2",
+    "phonetic": "/kəˈrɪk.jə.ləm/",
+    "pos": "n.",
+    "meaning": "课程体系",
+    "example": "The curriculum blends theory and practice.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-sustainable-c1",
+    "word": "sustainable-c1",
+    "phonetic": "/səˈsteɪ.nə.bəl/",
+    "pos": "adj.",
+    "meaning": "可持续的",
+    "example": "Sustainable habits beat bursts of effort.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-remedy",
+    "word": "remedy",
+    "phonetic": "/ˈrem.ə.di/",
+    "pos": "n./v.",
+    "meaning": "疗法；补救",
+    "example": "Rest is the best remedy.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-interval",
+    "word": "interval",
+    "phonetic": "/ˈɪn.tə.vəl/",
+    "pos": "n.",
+    "meaning": "间隔",
+    "example": "Review at increasing intervals.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-deliberate",
+    "word": "deliberate",
+    "phonetic": "/dɪˈlɪb.ər.ət/",
+    "pos": "adj./v.",
+    "meaning": "刻意的；慎思",
+    "example": "Take deliberate practice seriously.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-infer",
+    "word": "infer",
+    "phonetic": "/ɪnˈfɜː/",
+    "pos": "v.",
+    "meaning": "推断",
+    "example": "We infer meaning from context.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "动词"
+    ]
+  },
+  {
+    "id": "v-compensation",
+    "word": "compensation",
+    "phonetic": "/ˌkɒm.penˈseɪ.ʃən/",
+    "pos": "n.",
+    "meaning": "补偿；薪酬",
+    "example": "The package includes fair compensation.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-resilience-c1",
+    "word": "resilience-c1",
+    "phonetic": "/rɪˈzɪl.i.əns/",
+    "pos": "n.",
+    "meaning": "韧性；复原力",
+    "example": "Athletes build mental resilience.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-ambiguous",
+    "word": "ambiguous",
+    "phonetic": "/æmˈbɪɡ.ju.əs/",
+    "pos": "adj.",
+    "meaning": "含糊的",
+    "example": "The instructions were ambiguous.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-rhetoric",
+    "word": "rhetoric",
+    "phonetic": "/ˈret.ər.ɪk/",
+    "pos": "n.",
+    "meaning": "修辞；言辞",
+    "example": "His rhetoric inspired the crowd.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-cognitive",
+    "word": "cognitive",
+    "phonetic": "/ˈkɒɡ.nə.tɪv/",
+    "pos": "adj.",
+    "meaning": "认知的",
+    "example": "Sleep affects cognitive performance.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "描述",
+      "学术"
+    ]
+  },
+  {
+    "id": "v-surveillance",
+    "word": "surveillance",
+    "phonetic": "/səˈveɪ.ləns/",
+    "pos": "n.",
+    "meaning": "监控",
+    "example": "The bill expands digital surveillance.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-albeit",
+    "word": "albeit",
+    "phonetic": "/ˌɔːlˈbiː.ɪt/",
+    "pos": "conj.",
+    "meaning": "尽管",
+    "example": "He agreed, albeit reluctantly.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "连接"
+    ]
+  },
+  {
+    "id": "v-obsolete",
+    "word": "obsolete",
+    "phonetic": "/ˈɒb.sə.liːt/",
+    "pos": "adj.",
+    "meaning": "过时的",
+    "example": "Fax machines are nearly obsolete.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-indigenous",
+    "word": "indigenous",
+    "phonetic": "/ɪnˈdɪdʒ.ɪ.nəs/",
+    "pos": "adj.",
+    "meaning": "本土的",
+    "example": "The festival honors indigenous culture.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-contemplate",
+    "word": "contemplate",
+    "phonetic": "/ˈkɒn.təm.pleɪt/",
+    "pos": "v.",
+    "meaning": "深思",
+    "example": "She contemplated a career change.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "动词"
+    ]
+  },
+  {
+    "id": "v-tenure",
+    "word": "tenure",
+    "phonetic": "/ˈten.jə/",
+    "pos": "n.",
+    "meaning": "任期；终身教职",
+    "example": "She was granted tenure this year.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-pragmatic-c1",
+    "word": "pragmatic-c1",
+    "phonetic": "/præɡˈmæt.ɪk/",
+    "pos": "adj.",
+    "meaning": "务实的",
+    "example": "Take a pragmatic approach to goals.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-demographic",
+    "word": "demographic",
+    "phonetic": "/ˌdem.əˈɡræf.ɪk/",
+    "pos": "n./adj.",
+    "meaning": "人口群体（的）",
+    "example": "The app targets young demographics.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-precedent",
+    "word": "precedent",
+    "phonetic": "/ˈpres.ɪ.dənt/",
+    "pos": "n.",
+    "meaning": "先例",
+    "example": "The ruling set a precedent.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-meticulous",
+    "word": "meticulous",
+    "phonetic": "/məˈtɪk.jə.ləs/",
+    "pos": "adj.",
+    "meaning": "一丝不苟的",
+    "example": "She keeps meticulous notes.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-imminent",
+    "word": "imminent",
+    "phonetic": "/ˈɪm.ɪ.nənt/",
+    "pos": "adj.",
+    "meaning": "临近的",
+    "example": "A storm is imminent.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-bureaucracy",
+    "word": "bureaucracy",
+    "phonetic": "/bjʊəˈrɒk.rə.si/",
+    "pos": "n.",
+    "meaning": "官僚机构",
+    "example": "The permit stuck in bureaucracy.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-articulate-c1",
+    "word": "articulate-c1",
+    "phonetic": "/ɑːˈtɪk.jə.leɪt/",
+    "pos": "v./adj.",
+    "meaning": "清晰表达（的）",
+    "example": "She articulates ideas with ease.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "动词"
+    ]
+  },
+  {
+    "id": "v-subsidy",
+    "word": "subsidy",
+    "phonetic": "/ˈsʌb.sə.di/",
+    "pos": "n.",
+    "meaning": "补贴",
+    "example": "Farm subsidies were cut.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-allegedly",
+    "word": "allegedly",
+    "phonetic": "/əˈledʒ.ɪd.li/",
+    "pos": "adv.",
+    "meaning": "据称",
+    "example": "The site allegedly leaked data.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "副词"
+    ]
+  },
+  {
+    "id": "v-dissertation",
+    "word": "dissertation",
+    "phonetic": "/ˌdɪs.əˈteɪ.ʃən/",
+    "pos": "n.",
+    "meaning": "学位论文",
+    "example": "He defended his dissertation in June.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-biodiversity",
+    "word": "biodiversity",
+    "phonetic": "/ˌbaɪ.əʊ.daɪˈvɜː.sə.ti/",
+    "pos": "n.",
+    "meaning": "生物多样性",
+    "example": "Forests protect biodiversity.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-metropolis",
+    "word": "metropolis",
+    "phonetic": "/məˈtrɒp.ə.lɪs/",
+    "pos": "n.",
+    "meaning": "大都市",
+    "example": "The metropolis never sleeps.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-candid",
+    "word": "candid",
+    "phonetic": "/ˈkæn.dɪd/",
+    "pos": "adj.",
+    "meaning": "坦率的",
+    "example": "She gave a candid assessment.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-empirical",
+    "word": "empirical",
+    "phonetic": "/ɪmˈpɪr.ɪ.kəl/",
+    "pos": "adj.",
+    "meaning": "实证的",
+    "example": "The claim lacks empirical support.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "描述",
+      "学术"
+    ]
+  },
+  {
+    "id": "v-censorship",
+    "word": "censorship",
+    "phonetic": "/ˈsen.sə.ʃɪp/",
+    "pos": "n.",
+    "meaning": "审查制度",
+    "example": "The film faced censorship.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-nuance-c1",
+    "word": "nuance-c1",
+    "phonetic": "/ˈnjuː.ɑːns/",
+    "pos": "n.",
+    "meaning": "细微差别",
+    "example": "Translation loses nuance.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-adversity",
+    "word": "adversity",
+    "phonetic": "/ədˈvɜː.sə.ti/",
+    "pos": "n.",
+    "meaning": "逆境",
+    "example": "Adversity reveals character.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-expatriate",
+    "word": "expatriate",
+    "phonetic": "/ekˈspæt.ri.ət/",
+    "pos": "n.",
+    "meaning": "旅居海外者",
+    "example": "The expatriate community meets weekly.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-idyllic",
+    "word": "idyllic",
+    "phonetic": "/ɪˈdɪl.ɪk/",
+    "pos": "adj.",
+    "meaning": "田园诗般的",
+    "example": "They found an idyllic village.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-perennial",
+    "word": "perennial",
+    "phonetic": "/pəˈren.i.əl/",
+    "pos": "adj.",
+    "meaning": "常年不断的",
+    "example": "Grammar is a perennial struggle.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-magnate",
+    "word": "magnate",
+    "phonetic": "/ˈmæɡ.neɪt/",
+    "pos": "n.",
+    "meaning": "大亨",
+    "example": "The shipping magnate donated millions.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-tenacious",
+    "word": "tenacious",
+    "phonetic": "/təˈneɪ.ʃəs/",
+    "pos": "adj.",
+    "meaning": "坚韧的",
+    "example": "Tenacious review beats talent.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-serendipity",
+    "word": "serendipity",
+    "phonetic": "/ˌser.ənˈdɪp.ə.ti/",
+    "pos": "n.",
+    "meaning": "意外之喜",
+    "example": "Meeting her was pure serendipity.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-vernacular",
+    "word": "vernacular",
+    "phonetic": "/vəˈnæk.jə.lə/",
+    "pos": "n./adj.",
+    "meaning": "方言；白话（的）",
+    "example": "The speech was in local vernacular.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "可数"
+    ]
+  },
+  {
+    "id": "v-ephemeral-c2",
+    "word": "ephemeral-c2",
+    "phonetic": "/ɪˈfem.ər.əl/",
+    "pos": "adj.",
+    "meaning": "转瞬即逝的",
+    "example": "Fame can be ephemeral.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-pedantic",
+    "word": "pedantic",
+    "phonetic": "/pɪˈdæn.tɪk/",
+    "pos": "adj.",
+    "meaning": "学究气的",
+    "example": "Avoid pedantic corrections in chat.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-opulent",
+    "word": "opulent",
+    "phonetic": "/ˈɒp.jə.lənt/",
+    "pos": "adj.",
+    "meaning": "奢华的",
+    "example": "The lobby was opulent.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-wanderlust",
+    "word": "wanderlust",
+    "phonetic": "/ˈwɒn.də.lʌst/",
+    "pos": "n.",
+    "meaning": "旅行癖",
+    "example": "Wanderlust drove him abroad.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "不可数"
+    ]
+  },
+  {
+    "id": "v-epicurean",
+    "word": "epicurean",
+    "phonetic": "/ˌep.ɪ.kjʊəˈriː.ən/",
+    "pos": "adj.",
+    "meaning": "美食享受的",
+    "example": "The tour offers an epicurean journey.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "描述",
+      "高级"
+    ]
+  },
+  {
+    "id": "v-draconian",
+    "word": "draconian",
+    "phonetic": "/drəˈkəʊ.ni.ən/",
+    "pos": "adj.",
+    "meaning": "严苛的",
+    "example": "The draconian rules sparked protest.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-didactic",
+    "word": "didactic",
+    "phonetic": "/daɪˈdæk.tɪk/",
+    "pos": "adj.",
+    "meaning": "说教的",
+    "example": "The novel is overly didactic.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-spartan",
+    "word": "spartan",
+    "phonetic": "/ˈspɑː.tən/",
+    "pos": "adj.",
+    "meaning": "简朴的",
+    "example": "His room is spartan but tidy.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-laconic-c2",
+    "word": "laconic-c2",
+    "phonetic": "/ləˈkɒn.ɪk/",
+    "pos": "adj.",
+    "meaning": "言简意赅的",
+    "example": "His laconic text said it all.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-quixotic",
+    "word": "quixotic",
+    "phonetic": "/kwɪkˈsɒt.ɪk/",
+    "pos": "adj.",
+    "meaning": "堂吉诃德式的",
+    "example": "It was a quixotic quest.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "描述",
+      "文学"
+    ]
+  },
+  {
+    "id": "v-magnanimous",
+    "word": "magnanimous",
+    "phonetic": "/mæɡˈnæn.ɪ.məs/",
+    "pos": "adj.",
+    "meaning": "宽宏大量的",
+    "example": "She was magnanimous in victory.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-assiduous",
+    "word": "assiduous",
+    "phonetic": "/əˈsɪd.ju.əs/",
+    "pos": "adj.",
+    "meaning": "勤勉的",
+    "example": "Assiduous effort compounds.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-trenchant",
+    "word": "trenchant",
+    "phonetic": "/ˈtren.tʃənt/",
+    "pos": "adj.",
+    "meaning": "尖锐深刻的",
+    "example": "Her trenchant critique stung.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-quotidian",
+    "word": "quotidian",
+    "phonetic": "/kwɒˈtɪd.i.ən/",
+    "pos": "adj.",
+    "meaning": "日常的",
+    "example": "Quotidian habits shape outcomes.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-erudite",
+    "word": "erudite",
+    "phonetic": "/ˈer.ə.daɪt/",
+    "pos": "adj.",
+    "meaning": "博学的",
+    "example": "The professor gave an erudite lecture.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "描述"
+    ]
+  },
+  {
+    "id": "v-cacophony",
+    "word": "cacophony",
+    "phonetic": "/kəˈkɒf.ə.ni/",
+    "pos": "n.",
+    "meaning": "刺耳的嘈杂声",
+    "example": "The market was a cacophony of shouts.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "可数",
+      "文学"
+    ]
   }
 ]
