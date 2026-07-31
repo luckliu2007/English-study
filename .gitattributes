@@ -1,0 +1,6 @@
+# 强制内容数据与脚本用 LF，保证 manifest 的 SHA256 跨平台一致
+# （否则 Windows 下 CRLF 转换会导致 CI 校验 sha 不匹配）
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf

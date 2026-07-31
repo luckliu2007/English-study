@@ -1,8 +1,6 @@
----
-title: English Study 导航
----
+# English Study 导航
 
-欢迎来到 English Study 在线导航。仓库主页在 [GitHub](https://github.com/luckliu2007/English-study)。
+欢迎来到 English Study。这个页面适合开启 GitHub Pages 后作为网页导航使用。
 
 ## 学习入口
 
@@ -12,7 +10,7 @@ title: English Study 导航
 - [精选 GitHub 合集](awesome-lists.md)
 - [GitHub 项目精选](github-projects.md)
 - [中国环境友好资源](china-friendly.md)
-- [学习打卡模板](https://github.com/luckliu2007/English-study/blob/main/templates/daily-check-in.md)
+- [学习打卡模板](../templates/daily-check-in.md)
 
 ## 按技能学习
 
