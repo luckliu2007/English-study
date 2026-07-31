@@ -1,6 +1,33 @@
 # English Study
 
+<p>
+  <a href="https://github.com/luckliu2007/English-study/blob/main/LICENSE"><img src="https://img.shields.io/github/license/luckliu2007/English-study" alt="License"></a>
+  <a href="https://github.com/luckliu2007/English-study/commits/main"><img src="https://img.shields.io/github/last-commit/luckliu2007/English-study" alt="Last commit"></a>
+  <a href="https://github.com/luckliu2007/English-study/actions/workflows/link-check.yml"><img src="https://github.com/luckliu2007/English-study/actions/workflows/link-check.yml/badge.svg" alt="Link Check"></a>
+  <a href="https://github.com/luckliu2007/English-study/actions/workflows/markdown-lint.yml"><img src="https://github.com/luckliu2007/English-study/actions/workflows/markdown-lint.yml/badge.svg" alt="Markdown Lint"></a>
+  <a href="https://github.com/luckliu2007/English-study/issues"><img src="https://img.shields.io/github/issues/luckliu2007/English-study" alt="Issues"></a>
+  <a href="https://github.com/luckliu2007/English-study/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <a href="https://github.com/luckliu2007/English-study/stargazers"><img src="https://img.shields.io/github/stars/luckliu2007/English-study?style=flat" alt="Stars"></a>
+</p>
+
 面向中文学习者的英语学习资源库。这里不追求把链接堆满，而是把能长期使用的高质量资源按场景分类，配上学习路线和打卡模板，方便每天真正用起来。
+
+**🌐 在线站点：<https://luckliu2007.github.io/English-study/>**（同样的内容，网页浏览更方便）
+
+> A curated, actively-maintained English learning resource hub for Chinese speakers — organized by skill (listening / speaking / reading / writing / vocabulary), with an adaptive study plan, check-in templates, and a weekly automated link checker so recommendations stay live.
+
+## 目录
+
+- [快速开始](#快速开始)
+- [分类导航](#分类导航)
+- [今日最小任务](#今日最小任务)
+- [自适应学习闭环](#自适应学习闭环)
+- [推荐起步组合](#推荐起步组合)
+- [30 天路线](#30-天路线)
+- [资源选择标准](#资源选择标准)
+- [如何贡献](#如何贡献)
+- [更新日志](#更新日志)
+- [License](#license)
 
 ## 快速开始
 
@@ -27,6 +54,7 @@
 | [写作](docs/writing.md) | 语法检查、写作练习、学术/职场表达 |
 | [词汇与语法](docs/vocabulary-grammar.md) | 单词、Anki、语法系统学习 |
 | [GitHub 项目精选](docs/github-projects.md) | 开源英语学习项目、词汇库、程序员发音 |
+| [精选合集](docs/awesome-lists.md) | GitHub 上值得收藏的英语学习资源合集 |
 | [中国环境友好资源](docs/china-friendly.md) | 国内更稳定访问、可离线、适合通勤学习 |
 | [考试](docs/exams.md) | IELTS、TOEFL、四六级、综合测试 |
 | [程序员英语](docs/developer-english.md) | 技术文档、开源协作、工程师职场英语 |
@@ -42,7 +70,7 @@
 
 ## 自适应学习闭环
 
-这个仓库现在按“测评 -> 分级 -> 训练 -> 复盘 -> 调整”的方式使用：
+这个仓库现在按"测评 -> 分级 -> 训练 -> 复盘 -> 调整"的方式使用：
 
 1. 用 [入学测评模板](templates/placement-test.md) 判断起点。
 2. 按 [自适应学习计划](docs/adaptive-plan.md) 生成每天 20-35 分钟任务。
@@ -79,9 +107,25 @@
 - 优先选择开源、官方、社区口碑好的项目
 - 国内使用时优先选择可离线、有文本、有字幕、有替代入口的资源
 
-## 如何继续维护
+所有链接每周由 [Link Check](.github/workflows/link-check.yml) 自动巡检，发现失效会自动创建 issue。
 
-新增资源时，建议按 [贡献指南](CONTRIBUTING.md) 的格式补充到对应分类。每条资源尽量写清楚：适合什么水平、解决什么问题、是否免费。
+## 如何贡献
+
+欢迎补充资源、修复失效链接、改进学习计划。三种方式都可以：
+
+- 提交 [资源推荐 issue](https://github.com/luckliu2007/English-study/issues/new?template=resource-suggestion.yml)
+- 提交 [失效链接报告 issue](https://github.com/luckliu2007/English-study/issues/new?template=broken-link.yml)
+- 直接发 Pull Request，格式和收录标准见 [贡献指南](CONTRIBUTING.md)
+
+参与前请先阅读 [行为准则](CODE_OF_CONDUCT.md)。
+
+## 更新日志
+
+版本历史见 [CHANGELOG.md](CHANGELOG.md)。
+
+## License
+
+本项目采用 [MIT License](LICENSE)。资源列表本身指向的第三方内容遵循其各自版权，仅供学习参考。
 
 ## 免责声明
 

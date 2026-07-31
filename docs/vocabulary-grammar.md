@@ -1,4 +1,6 @@
-# 词汇与语法
+---
+title: 词汇与语法
+---
 
 ## 词汇
 
@@ -16,7 +18,7 @@
 
 | 资源 | 说明 |
 | --- | --- |
-| [English Grammar in Use](https://www.cambridge.org/grammarandbeyond/grammar-practice) | 经典语法学习体系，可配合书籍使用 |
+| [English Grammar in Use](https://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-grammar-use-5th-edition) | Murphy 经典语法书官方页面，B1-B2 自学语法首选 |
 | [Perfect English Grammar](https://www.perfect-english-grammar.com/) | 清晰的语法讲解和练习 |
 | [British Council Grammar](https://learnenglish.britishcouncil.org/grammar) | 官方语法课程和练习 |
 | [protogenesis/New-Concept-English](https://github.com/protogenesis/New-Concept-English) | 新概念英语笔记，适合用课文带语法 |

@@ -1,0 +1,18 @@
+# 配置文件用于 .github/workflows/link-check.yml
+# https://lychee.cli.rs/usage/config/
+
+# 一些官方站点（如 OpenAI、Anthropic、部分政府/大学域名）会对自动化请求
+# 返回 403/429，但在浏览器中可以正常访问，这里将其视为"可接受"以减少误报。
+accept = [200, 201, 202, 203, 204, 206, 301, 302, 303, 307, 308, 403, 429]
+
+timeout = 20
+retry_wait_time = 5
+max_retries = 3
+max_concurrency = 8
+
+exclude_all_private = true
+
+exclude = [
+  "^mailto:",
+  "^https://github.com/.+/(issues|pulls|discussions)/new",
+]

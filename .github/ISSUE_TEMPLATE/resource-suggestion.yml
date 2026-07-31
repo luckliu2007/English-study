@@ -1,0 +1,67 @@
+name: 📚 推荐新资源 / Suggest a resource
+description: 推荐一个值得收录的英语学习资源
+title: "[资源推荐] "
+labels: ["resource"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 资源名称
+      placeholder: 例如：BBC Learning English
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 链接
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 属于哪个分类
+      options:
+        - 听力
+        - 口语
+        - 阅读
+        - 写作
+        - 词汇与语法
+        - 考试
+        - 程序员英语
+        - 工具
+        - AI 学英语
+        - 中国环境友好资源
+        - GitHub 项目
+        - 其他
+    validations:
+      required: true
+  - type: dropdown
+    id: level
+    attributes:
+      label: 适合水平
+      options:
+        - 入门
+        - 初级
+        - 中级
+        - 高级
+        - 不限
+    validations:
+      required: true
+  - type: dropdown
+    id: free
+    attributes:
+      label: 是否免费
+      options:
+        - 完全免费
+        - 有免费部分
+        - 主要付费
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: 推荐理由
+      description: 这个资源解决了什么问题？为什么值得收录？请参考 CONTRIBUTING.md 的收录标准。
+    validations:
+      required: true
