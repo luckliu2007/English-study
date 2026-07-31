@@ -11,6 +11,7 @@
 - [GitHub 项目精选](github-projects.md)
 - [中国环境友好资源](china-friendly.md)
 - [学习打卡模板](../templates/daily-check-in.md)
+- [错词错句本](../templates/error-log.md)
 
 ## 按技能学习
 
@@ -24,10 +25,24 @@
 | 写作 | [writing.md](writing.md) |
 | 词汇与语法 | [vocabulary-grammar.md](vocabulary-grammar.md) |
 | GitHub 项目精选 | [github-projects.md](github-projects.md) |
+| 精选合集 | [awesome-lists.md](awesome-lists.md) |
 | 中国环境友好资源 | [china-friendly.md](china-friendly.md) |
 | 考试 | [exams.md](exams.md) |
 | 程序员英语 | [developer-english.md](developer-english.md) |
 | 工具 | [tools.md](tools.md) |
+
+## 学习方法（元认知）
+
+| 方法 | 页面 |
+| --- | --- |
+| 主动回忆法 | [active-recall.md](active-recall.md) |
+| 康奈尔笔记法 | [cornell-notes.md](cornell-notes.md) |
+| 考试焦虑应对 | [exam-anxiety.md](exam-anxiety.md) |
+| 费曼技巧 | [feynman.md](feynman.md) |
+| 交错练习 | [interleaving.md](interleaving.md) |
+| 元认知 | [metacognition.md](metacognition.md) |
+| 番茄工作法 | [pomodoro.md](pomodoro.md) |
+| 学习小组 | [study-group.md](study-group.md) |
 
 ## 建议
 

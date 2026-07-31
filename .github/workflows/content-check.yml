@@ -5,11 +5,20 @@ on:
     paths:
       - 'content/**'
       - 'scripts/**'
+      - 'docs/**'
+      - 'templates/**'
+      - '*.md'
       - '.github/workflows/content-check.yml'
   pull_request:
     paths:
       - 'content/**'
       - 'scripts/**'
+      - 'docs/**'
+      - 'templates/**'
+      - '*.md'
+  schedule:
+    # 每周一 03:00 UTC 巡检一次，防止链接在无内容改动期间悄悄失效
+    - cron: '0 3 * * 1'
   workflow_dispatch:
 
 jobs:
