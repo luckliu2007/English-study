@@ -2,20 +2,30 @@
 
 本项目的重要变更会记录在这个文件里，格式参考 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.0.0/)。
 
-## [Unreleased] - 2026-07-31
+## [Unreleased]
+
+## [2.1.0] - 2026-07-31 · 社区标准与站点上线
 
 ### 新增
 
-- 社区健康文件：`CODE_OF_CONDUCT.md`、Issue 模板（资源推荐 / 失效链接报告）、PR 模板，提升 GitHub Community Standards 达标率
+- 社区健康文件：`CODE_OF_CONDUCT.md`、Issue 模板（资源推荐 / 失效链接报告）、PR 模板，Community Standards 达标率 42% → 85%
+- 正式启用 GitHub Pages（此前 `_config.yml` 已就绪但从未在仓库设置里打开），并补上根目录 `index.md` 落地页（原来首页会 404）
+- 仓库 description / homepage / topics（此前均为空）
+- `templates/error-log.md` 错词错句本模板（原 PR #1 提议，因分支落后 main 13 个提交无法直接合并，改为手动摘取内容合入）
 - 本 CHANGELOG
 
 ### 修复
 
-- `docs/vocabulary-grammar.md` 中链接文字与实际指向不符的问题：`English Grammar in Use` 之前指向的是另一个不相关的 Cambridge 系列（Grammar and Beyond），已改为该书官方页面
+- `docs/vocabulary-grammar.md`：`English Grammar in Use` 链接文字与实际指向不符（此前指向不相关的 Cambridge Grammar and Beyond 系列），改为该书官方页面
+- Content Check 在 main 上已连续红两天：3 套测验题（q-health-b1/q-tech-b2/q-academic-c1）正确答案 75% 集中在同一下标，且 manifest.json 记录的 vocabulary/reading 两个文件 SHA256 与实际内容不符；重新打乱选项并重新生成 manifest
+- lychee 链接检查缺少 `--timeout`/`--retry-wait-time`，单次瞬时超时就会导致整个 job 失败；调大容错窗口
+- **content-check.yml 此前只在 `content/**`、`scripts/**` 变化时触发，从不因 `docs/**`（链接实际所在处）变化触发，也没有 schedule** —— 意味着仓库简介里写的"每周自动死链检测"当时并不成立；补上 `docs/**`、`templates/**`、`*.md` 触发路径和每周一定时任务
+- `docs/index.md`（Pages 导航首页）只链接了 23 个文档里的 14 个，漏掉 2026-07-19 加入的全部 8 篇学习方法文档和新增的错词错句本；补全
+- README 快速开始表格里两行分别指向"看下面的分类导航"，读起来像复制粘贴遗留；合并为一行
 
 ### 变更
 
-- README 补充目录（TOC）、贡献入口、License 小节，并把新增的 8 篇学习方法文档纳入分类导航
+- README 补充目录（TOC）、贡献入口、License 小节，把新增的 8 篇学习方法文档和 GitHub Pages 入口纳入导航
 
 ## [2.0.0] - 2026-07-19 ~ 2026-07-29 · 数据质量与内容升级
 
