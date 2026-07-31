@@ -334,42 +334,42 @@
       {
         "q": "“症状”的英文是：",
         "options": [
-          "diet",
           "symptom",
+          "diet",
           "therapy",
           "medicine"
         ],
-        "answer": 1
+        "answer": 0
       },
       {
         "q": "“预约（医生）”用哪个词？",
         "options": [
           "interview",
-          "meeting",
           "appointment",
+          "meeting",
           "schedule"
         ],
-        "answer": 2
+        "answer": 1
       },
       {
         "q": "“康复”的英文动词是：",
         "options": [
           "hurt",
-          "recover",
           "ache",
+          "recover",
           "cure"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "“均衡饮食”是：",
         "options": [
           "fast food",
-          "balanced diet",
+          "big meal",
           "junk food",
-          "big meal"
+          "balanced diet"
         ],
-        "answer": 1
+        "answer": 3
       }
     ]
   },
@@ -382,12 +382,12 @@
       {
         "q": "“算法”的英文是：",
         "options": [
-          "algebra",
           "algorithm",
+          "algebra",
           "device",
           "data"
         ],
-        "answer": 1
+        "answer": 0
       },
       {
         "q": "“隐私”的英文是：",
@@ -413,11 +413,11 @@
         "q": "“人工智能”的英文缩写是：",
         "options": [
           "IT",
-          "AI",
+          "APP",
           "VR",
-          "APP"
+          "AI"
         ],
-        "answer": 1
+        "answer": 3
       }
     ]
   },
@@ -478,12 +478,12 @@
       {
         "q": "“实证的”英文是：",
         "options": [
-          "theoretical",
           "empirical",
+          "theoretical",
           "hypothetical",
           "rhetorical"
         ],
-        "answer": 1
+        "answer": 0
       },
       {
         "q": "“学位论文”的英文是：",
@@ -509,11 +509,11 @@
         "q": "“细微差别”的英文是：",
         "options": [
           "difference",
-          "nuance",
+          "ambiguity",
           "discrepancy",
-          "ambiguity"
+          "nuance"
         ],
-        "answer": 1
+        "answer": 3
       }
     ]
   },
