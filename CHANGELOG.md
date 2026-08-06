@@ -4,6 +4,14 @@
 
 ## [Unreleased]
 
+## [2.2.0] - 2026-08-06 · AI 学英语模块升级
+
+### 新增
+
+- `content/prompts.json`：28 条结构化 AI 提示词，带 [JSON Schema](content/schema/prompts.schema.json) 约束，接入 `validate_content.py`（校验 variables 与 prompt 正文一致、usage 语言）和 `generate_manifest.py`
+- `docs/ai-english.md` 扩写：结构化提示词库索引、长期 AI 导师人设配置（ChatGPT Custom GPT / Claude Projects / Gemini Gems）、"如何判断 AI 陪练是否真的有效"自查清单
+- README 结构化内容数据表新增 `content/prompts.json` 行
+
 ## [2.1.0] - 2026-07-31 · 社区标准与站点上线
 
 ### 新增

@@ -30,6 +30,7 @@ FILES = {
     "vocabulary.json": "vocabulary.schema.json",
     "reading.json": "reading.schema.json",
     "quizzes.json": "quizzes.schema.json",
+    "prompts.json": "prompts.schema.json",
 }
 
 errors: list[str] = []
@@ -85,6 +86,22 @@ def check_answers(quiz_or_reading, name: str):
                 )
 
 
+def check_prompts(prompts, name: str):
+    for item in prompts:
+        pid = item.get("id")
+        prompt_text = item.get("prompt", "")
+        usage = item.get("usage", "")
+        for var in item.get("variables", []):
+            if var.get("name") and var["name"] not in prompt_text:
+                errors.append(
+                    f"[{name}] {pid} variables 里声明的 {var['name']!r} 没有出现在 prompt 正文里"
+                )
+        if usage[:1].isascii() and usage[:1].isalpha():
+            warnings.append(
+                f"[{name}] {pid} usage 以英文字母开头，疑似英文泄漏: {usage!r}"
+            )
+
+
 def check_vocab_meaning(vocab, name: str):
     for item in vocab:
         meaning = item.get("meaning", "")
@@ -121,6 +138,8 @@ def main() -> int:
             check_answers(data, fname)  # reading 可选带 questions
         elif fname == "vocabulary.json":
             check_vocab_meaning(data, fname)
+        elif fname == "prompts.json":
+            check_prompts(data, fname)
 
     for w in warnings:
         print(f"::warning:: {w}")

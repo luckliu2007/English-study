@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "2026.07.29.1",
-  "generatedAt": "2026-07-31T07:57:13.059Z",
+  "version": "2026.08.06.1",
+  "generatedAt": "2026-08-06T08:07:51.318Z",
   "repo": "luckliu2007/English-study",
   "branch": "main",
   "files": {
@@ -16,6 +16,10 @@
     "quizzes.json": {
       "sha": "d499c6d590675bed91a1807b6f7ad91f56e5eecbe26118f61b6324a97038950a",
       "count": 12
+    },
+    "prompts.json": {
+      "sha": "5197d4f2d2514e70729a96b34de6c4ed351c50007211de41a3789cb0c43f4b34",
+      "count": 28
     }
   }
 }

@@ -22,7 +22,7 @@ if hasattr(sys.stdout, "reconfigure"):
 
 CONTENT_DIR = Path(__file__).resolve().parent.parent / "content"
 MANIFEST = CONTENT_DIR / "manifest.json"
-DATA_FILES = ["vocabulary.json", "reading.json", "quizzes.json"]
+DATA_FILES = ["vocabulary.json", "reading.json", "quizzes.json", "prompts.json"]
 REPO = "luckliu2007/English-study"
 SCHEMA_VERSION = 1
 

@@ -1,0 +1,58 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/luckliu2007/English-study/content/schema/prompts.schema.json",
+  "title": "AI prompt library",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "title", "skill", "category", "level", "prompt", "usage"],
+    "additionalProperties": false,
+    "properties": {
+      "id": { "type": "string", "pattern": "^p-[a-z0-9-]+$" },
+      "title": { "type": "string", "minLength": 1 },
+      "skill": { "type": "string", "enum": ["ai-prompt"] },
+      "category": {
+        "type": "string",
+        "enum": ["L", "P", "F", "V", "G", "W", "exam", "tutor-setup", "review"],
+        "description": "L/P/F/V/G/W 对应 adaptive-plan.md 的六能力点；exam=考试模拟；tutor-setup=持久化人设配置；review=错题/周复盘"
+      },
+      "level": {
+        "type": "string",
+        "enum": ["A1", "A2", "B1", "B2", "C1", "C2", "all"],
+        "description": "all 表示提示词本身不区分水平（水平写在变量里由使用者填入）"
+      },
+      "tools": {
+        "type": "array",
+        "description": "推荐使用的工具，留空表示通用，任何支持多轮对话的 AI 均可",
+        "items": { "type": "string" }
+      },
+      "prompt": {
+        "type": "string",
+        "minLength": 1,
+        "description": "英文提示词模板，方括号 [ ] 内是需要替换的变量"
+      },
+      "variables": {
+        "type": "array",
+        "description": "prompt 里方括号变量的说明",
+        "items": {
+          "type": "object",
+          "required": ["name", "hint"],
+          "additionalProperties": false,
+          "properties": {
+            "name": { "type": "string" },
+            "hint": { "type": "string" }
+          }
+        }
+      },
+      "usage": {
+        "type": "string",
+        "minLength": 1,
+        "description": "中文使用说明：什么场景用、怎么用、用完之后做什么"
+      },
+      "followUp": {
+        "type": "string",
+        "description": "用完这条提示词之后，产出应该沉淀到哪个模板/流程（中文）"
+      }
+    }
+  }
+}

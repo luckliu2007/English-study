@@ -1,0 +1,351 @@
+[
+  {
+    "id": "p-listening-breakdown",
+    "title": "拆解听不懂的句子",
+    "skill": "ai-prompt",
+    "category": "L",
+    "level": "all",
+    "prompt": "Explain why this sentence is hard for a learner to catch: \"[sentence]\". Break down the connected speech (linking, reductions, elision) word by word, then say it again slowly, syllable by syllable.",
+    "usage": "精听时遇到听了很多遍还是抓不住的句子，把原句发给 AI，让它拆连读、弱读、吞音，而不是直接告诉你中文意思。",
+    "variables": [
+      {
+        "name": "[sentence]",
+        "hint": "听写下来的原句（可以是错的，AI 会一起纠正）"
+      }
+    ],
+    "followUp": "拆解完的连读/弱读规律记进错词错句本，标注问题类型为「连读/弱读」。"
+  },
+  {
+    "id": "p-listening-dictation-check",
+    "title": "听写纠错",
+    "skill": "ai-prompt",
+    "category": "L",
+    "level": "all",
+    "prompt": "I'll type what I think I heard from this audio: \"[my transcript]\". The actual line is: \"[actual line]\". Point out exactly where and why my version is wrong — missed word, wrong word, or mis-heard sound.",
+    "usage": "精听 + 听写练习后，把自己写的版本和原文一起发给 AI，让它逐处指出错在哪、为什么听错，而不是只给对错。",
+    "variables": [
+      {
+        "name": "[my transcript]",
+        "hint": "自己听写的版本"
+      },
+      {
+        "name": "[actual line]",
+        "hint": "音频/视频的官方字幕或文本"
+      }
+    ]
+  },
+  {
+    "id": "p-listening-podcast-digest",
+    "title": "播客/视频片段速读理解",
+    "skill": "ai-prompt",
+    "category": "L",
+    "level": "B1",
+    "prompt": "Here is a transcript of a podcast segment: [paste transcript]. Summarize it in 3 sentences at [A2/B1/B2] level, then write 3 comprehension questions with answers.",
+    "usage": "拿到一段播客或视频的文本后，先不看原文直接泛听，再用这条提示词生成摘要和理解题自测，检验有没有真的听懂主旨。",
+    "variables": [
+      {
+        "name": "[A2/B1/B2]",
+        "hint": "希望摘要使用的难度水平"
+      }
+    ]
+  },
+  {
+    "id": "p-listening-accent-drill",
+    "title": "口音适应训练",
+    "skill": "ai-prompt",
+    "category": "L",
+    "level": "B2",
+    "prompt": "I'm used to American English pronunciation. Rewrite this sentence showing how a British/Australian speaker would likely pronounce it differently: \"[sentence]\". List the key sound differences.",
+    "usage": "习惯了一种口音、换材料就听不懂时用，帮助建立对不同口音差异的预期，而不是每次都从零适应。"
+  },
+  {
+    "id": "p-pronunciation-minimal-pairs",
+    "title": "易混音对比清单",
+    "skill": "ai-prompt",
+    "category": "P",
+    "level": "all",
+    "prompt": "Give me 10 minimal pairs to practice the sounds [/ɪ/] vs [/iː/], with example sentences and IPA.",
+    "usage": "自己分不清的两个音素，让 AI 生成成对的对比词表和例句，跟读时反复对比发音位置。",
+    "tools": [
+      "ChatGPT",
+      "Gemini"
+    ],
+    "variables": [
+      {
+        "name": "[/ɪ/] vs [/iː/]",
+        "hint": "自己常混淆的一对音素，用 IPA 写"
+      }
+    ],
+    "followUp": "跟读录音后回听对比，把还是分不清的词加进错词错句本，标签「发音重音」。"
+  },
+  {
+    "id": "p-pronunciation-stress-check",
+    "title": "重音和句子重音检查",
+    "skill": "ai-prompt",
+    "category": "P",
+    "level": "B1",
+    "prompt": "Here is a sentence I want to say: \"[sentence]\". Mark where the natural word stress and sentence stress should fall, and tell me which words are usually reduced or unstressed in natural speech.",
+    "usage": "读一个新句子前，先问 AI 重音落在哪，再开口，比读完再纠正更有效。"
+  },
+  {
+    "id": "p-pronunciation-tech-terms",
+    "title": "技术词错音自查",
+    "skill": "ai-prompt",
+    "category": "P",
+    "level": "B2",
+    "prompt": "List the 10 most commonly mispronounced English words by Chinese software engineers in daily standups and code reviews, with IPA and a memorable tip for each.",
+    "usage": "程序员场景专用：站会/评审里最容易读错的技术词，配合仓库的 chinese-programmer-wrong-pronunciation 项目交叉检查。",
+    "tools": [
+      "ChatGPT",
+      "DeepSeek"
+    ]
+  },
+  {
+    "id": "p-speaking-roleplay",
+    "title": "情景角色扮演",
+    "skill": "ai-prompt",
+    "category": "F",
+    "level": "all",
+    "prompt": "Let's role-play [scenario]. Ask me one question at a time in character. After each of my answers, give me one more natural way to say the same thing, then continue the role-play.",
+    "usage": "语音模式下效果最好：设定一个真实场景，AI 扮演对方，逐轮对话并给一个更地道的说法，练完整对话流程而不是单句。",
+    "tools": [
+      "ChatGPT",
+      "Gemini",
+      "豆包"
+    ],
+    "variables": [
+      {
+        "name": "[scenario]",
+        "hint": "具体场景，如 a job interview / ordering coffee / a stand-up meeting"
+      }
+    ],
+    "followUp": "把 AI 给的更地道说法抄进每日打卡模板。"
+  },
+  {
+    "id": "p-speaking-retell",
+    "title": "30 秒复述挑战",
+    "skill": "ai-prompt",
+    "category": "F",
+    "level": "B1",
+    "prompt": "Give me a short topic to talk about for 30 seconds and 3 guiding questions to structure my answer. I'll reply with what I said (as text). Then tell me what was unclear, repetitive, or hard to follow.",
+    "usage": "复述类训练：先拿到话题和提纲，说完（或打出说的内容）再让 AI 指出结构和流利度问题，不是语法对错。"
+  },
+  {
+    "id": "p-speaking-debate",
+    "title": "观点辩论陪练",
+    "skill": "ai-prompt",
+    "category": "F",
+    "level": "B2",
+    "prompt": "Take the opposite side of this argument and debate me: \"[my opinion]\". Push back with one counter-argument at a time in plain [B1/B2] level English, and wait for my response before continuing.",
+    "usage": "练有观点的连续表达，AI 扮演反方，一次只抛一个论点，逼自己组织语言反驳，而不是自说自话。",
+    "variables": [
+      {
+        "name": "[my opinion]",
+        "hint": "自己的一个真实观点，越具体越好"
+      }
+    ]
+  },
+  {
+    "id": "p-speaking-smalltalk",
+    "title": "日常寒暄模拟",
+    "skill": "ai-prompt",
+    "category": "F",
+    "level": "A2",
+    "prompt": "You are a friendly stranger I just met at [setting, e.g. a conference / gym / coffee shop]. Start a natural small-talk conversation with me and keep it going with follow-up questions.",
+    "usage": "入门阶段先练最低压力的寒暄场景，目标是敢开口、接得住话，不追求语法完美。"
+  },
+  {
+    "id": "p-vocab-example-sentences",
+    "title": "例句生成 + Anki 卡片",
+    "skill": "ai-prompt",
+    "category": "V",
+    "level": "all",
+    "prompt": "Give me 3 example sentences for each of these words, from easy to hard: [word list]. Then format the results as Anki cards: word[TAB]definition + one example sentence.",
+    "usage": "背生词时用，先要例句理解真实用法，再直接复制成 Anki 可导入的格式，减少整理成本。",
+    "tools": [
+      "Anki",
+      "ChatGPT",
+      "DeepSeek"
+    ]
+  },
+  {
+    "id": "p-vocab-nuance",
+    "title": "近义词辨析",
+    "skill": "ai-prompt",
+    "category": "V",
+    "level": "B1",
+    "prompt": "Explain the difference in meaning and usage between these near-synonyms: [word1] vs [word2] vs [word3]. Give one example sentence for each that would sound wrong if you used one of the others instead.",
+    "usage": "背单词书时经常遇到几个中文释义相同的词，用这条提示词搞清楚真实使用场景的区别。"
+  },
+  {
+    "id": "p-vocab-collocations",
+    "title": "高频搭配挖掘",
+    "skill": "ai-prompt",
+    "category": "V",
+    "level": "B1",
+    "prompt": "What words commonly go before or after \"[word]\" in natural English (collocations)? Give me 8 real examples as short phrases, not full sentences.",
+    "usage": "只背单个词很难用对，用这条提示词补上常见搭配，写作和口语里直接整块使用。"
+  },
+  {
+    "id": "p-grammar-error-pattern",
+    "title": "错句归类讲解",
+    "skill": "ai-prompt",
+    "category": "G",
+    "level": "all",
+    "prompt": "Here are sentences I got wrong this week: [list]. Group them by the type of grammar mistake, name each pattern in plain English, and give me 3 new practice sentences for each pattern — don't show the answers yet.",
+    "usage": "每周把打卡记录里的错句整理发给 AI，按错误类型归类讲解，比一条条零散纠正更容易记住规律。",
+    "variables": [
+      {
+        "name": "[list]",
+        "hint": "本周积累的错句，从打卡模板复制"
+      }
+    ]
+  },
+  {
+    "id": "p-grammar-transform",
+    "title": "句型转换训练",
+    "skill": "ai-prompt",
+    "category": "G",
+    "level": "B1",
+    "prompt": "Give me 5 example sentences using [grammar point, e.g. third conditional]. Then give me 5 more sentences in a different tense or structure and ask me to transform them into [grammar point]. Check my answers after I respond.",
+    "usage": "学一个新语法点后，用转换练习巩固，而不是只背规则；AI 出题、等你作答再纠错，避免直接看答案。"
+  },
+  {
+    "id": "p-grammar-quiz",
+    "title": "语法点自测题生成",
+    "skill": "ai-prompt",
+    "category": "G",
+    "level": "all",
+    "prompt": "Create a 5-question multiple choice quiz testing [grammar point] at [level]. Don't show me the answers until I've answered all 5.",
+    "usage": "配合 vocabulary-grammar.md 的语法资源使用：学完一个知识点，现场生成一套小测验自查。"
+  },
+  {
+    "id": "p-writing-3step",
+    "title": "三步写作批改闭环",
+    "skill": "ai-prompt",
+    "category": "W",
+    "level": "all",
+    "prompt": "Correct my English writing: \"[my text]\". Explain the top 3 recurring mistakes with examples, but don't rewrite the whole thing for me — I'll rewrite it myself next.",
+    "usage": "写作批改的核心提示词：只要讲解不要代写，自己写完、AI 讲解、自己重写、AI 再检查，形成闭环。",
+    "followUp": "原句/修改后/问题记录进错词错句本"
+  },
+  {
+    "id": "p-writing-style-shift",
+    "title": "语域转换练习",
+    "skill": "ai-prompt",
+    "category": "W",
+    "level": "B2",
+    "prompt": "Rewrite this sentence in 3 different tones: a formal email, a casual chat with a friend, and technical documentation style: \"[sentence]\". Explain what changed in each version.",
+    "usage": "同一个意思在不同场合怎么说不一样，工作场景（邮件/文档）尤其需要，练习语域切换而不只是语法正确。"
+  },
+  {
+    "id": "p-writing-outline-coach",
+    "title": "写作前提纲教练",
+    "skill": "ai-prompt",
+    "category": "W",
+    "level": "B1",
+    "prompt": "I want to write a [word count]-word essay about \"[topic]\". Ask me questions one at a time to help me build an outline (thesis, 3 supporting points, conclusion) before I start writing.",
+    "usage": "下笔前先理清结构，避免写到一半卡住；AI 用提问逼你想清楚论点，而不是直接给你一份提纲抄。"
+  },
+  {
+    "id": "p-writing-tech-polish",
+    "title": "技术写作润色",
+    "skill": "ai-prompt",
+    "category": "W",
+    "level": "B2",
+    "prompt": "Polish this technical writing (README / PR description / commit message) for clarity and native-sounding English, but keep the technical meaning exactly the same: \"[text]\".",
+    "usage": "程序员英语场景：开源协作里的 PR 描述、commit message、文档，润色后对照学习地道说法，不要直接照抄不理解。"
+  },
+  {
+    "id": "p-exam-ielts-speaking",
+    "title": "IELTS 口语模拟考",
+    "skill": "ai-prompt",
+    "category": "exam",
+    "level": "B2",
+    "prompt": "Act as an IELTS speaking examiner. Ask me Part 1 questions about [topic], then give me a Part 2 cue card and simulate 1 minute of preparation time, then ask Part 3 follow-up questions. After the full test, give me a band score estimate for fluency, vocabulary, grammar, and pronunciation, with one specific reason for each score.",
+    "usage": "考前模拟三段式口语考试流程，重点是最后按四个官方评分维度给具体理由，而不是只给一个总分。",
+    "tools": [
+      "ChatGPT",
+      "Claude"
+    ],
+    "followUp": "把评分理由对照 exams.md 的备考资源逐项改进"
+  },
+  {
+    "id": "p-exam-toefl-writing",
+    "title": "TOEFL 写作评分",
+    "skill": "ai-prompt",
+    "category": "exam",
+    "level": "B2",
+    "prompt": "Grade this TOEFL independent writing essay using the official 0-5 scoring rubric (Development, Organization, Language Use). Give a score for each dimension, then list the top 3 things to fix: \"[essay]\".",
+    "usage": "写完托福独立写作后自评，按官方评分维度而不是笼统的「写得不错」，找出最值得改的 3 处。"
+  },
+  {
+    "id": "p-exam-band-diagnostic",
+    "title": "水平诊断（CEFR/雅思换算）",
+    "skill": "ai-prompt",
+    "category": "exam",
+    "level": "all",
+    "prompt": "Based on this piece of writing or speech transcript, estimate my rough CEFR level (A2-C1) and the equivalent IELTS band, and list 2 concrete things holding me back from the next level: \"[text]\".",
+    "usage": "不确定自己大概什么水平时用，AI 给的只是粗略参考，不代替正式测评，但能帮你判断该往哪个方向补短板。"
+  },
+  {
+    "id": "p-tutor-persona",
+    "title": "长期 AI 英语导师系统提示词",
+    "skill": "ai-prompt",
+    "category": "tutor-setup",
+    "level": "all",
+    "prompt": "You are my personal English tutor. My current level is [level]. Rules: (1) only correct the 1-2 mistakes that most affect understanding, not every error; (2) never write my answers for me — only give feedback after I respond; (3) end every session with a short list of corrections and 3 useful new expressions; (4) if I ask you to just write something for me, refuse and ask me guiding questions instead.",
+    "usage": "配置成 Custom GPT / Claude Project / Gemini Gem 的系统提示词，一次设置好人设和规则，之后每次对话不用重复交代背景。",
+    "tools": [
+      "ChatGPT (Custom GPT)",
+      "Claude (Projects)",
+      "Gemini (Gems)"
+    ],
+    "variables": [
+      {
+        "name": "[level]",
+        "hint": "入学测评模板得出的当前等级，如 B1"
+      }
+    ]
+  },
+  {
+    "id": "p-tutor-weekly-diagnostic",
+    "title": "周度能力诊断生成器",
+    "skill": "ai-prompt",
+    "category": "tutor-setup",
+    "level": "all",
+    "prompt": "Here is my week: [daily check-in notes / scores]. Based on a 6-point ability model — L listening, P pronunciation, F fluency, V vocabulary, G grammar, W writing, each scored 0-5 — estimate this week's scores as a table, then tell me which ability needs extra compensation practice next week.",
+    "usage": "配合自适应学习计划使用：把一周的打卡记录发给 AI，代替自己手动估算 6 个能力分，输出可以直接抄进周复盘模板。",
+    "variables": [
+      {
+        "name": "[daily check-in notes / scores]",
+        "hint": "从每日打卡模板整理的一周记录"
+      }
+    ],
+    "followUp": "输出的能力分和弱项建议抄进周复盘模板，按自适应学习计划的升级规则调整下周任务"
+  },
+  {
+    "id": "p-review-weekly-quiz",
+    "title": "错题周测",
+    "skill": "ai-prompt",
+    "category": "review",
+    "level": "all",
+    "prompt": "Here are my mistakes from this week: [list]. Quiz me on them one by one. Don't show the answers first. Tell me which ones I still get wrong and should review again next week.",
+    "usage": "每周复盘前用，检验一周积累的错词错句是否真的掌握了，而不是看一眼就以为记住了。"
+  },
+  {
+    "id": "p-review-spaced-schedule",
+    "title": "间隔复习排期",
+    "skill": "ai-prompt",
+    "category": "review",
+    "level": "all",
+    "prompt": "Here are the words or sentences I reviewed today and how well I did (0-5 each): [list with scores]. Using this spaced repetition schedule — 0-1: tomorrow, 2: 2 days, 3: 4 days, 4: 7 days, 5: 14 days — tell me the exact next review date for each item, starting from today's date [today's date].",
+    "usage": "不想手动算复习间隔时用，把评分规则告诉 AI，直接生成每一项的下次复习日期，抄进打卡记录。",
+    "variables": [
+      {
+        "name": "[today's date]",
+        "hint": "今天的日期，用于计算具体复习日"
+      }
+    ]
+  }
+]
