@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+### 变更
+
+- CI：`actions/checkout`、`actions/setup-python` 升级到 v7（运行时 Node 24，旧版 Node 20 action 已被 GitHub 弃用），Python 3.11 → 3.12
+
 ## [2.2.0] - 2026-08-06 · AI 学英语模块升级
 
 ### 新增
