@@ -20,7 +20,7 @@
 | [5mdld/anki-english-60k-decks](https://github.com/5mdld/anki-english-60k-decks) | Anki 背词 | 大型英语词汇牌组，适合有 Anki 习惯的人 |
 | [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) | 高频词、打字练习 | 常见英文词频列表，可用来做自己的词表或练习材料 |
 | [globalwordnet/english-wordnet](https://github.com/globalwordnet/english-wordnet) | 词义网络、进阶词汇 | 开放英文 WordNet，适合查同义、反义、上下位词关系 |
-| [rspeer/wordfreq](https://github.com/rspeer/wordfreq) | 词频判断 | Python 词频库，适合判断一个词是否常用 |
+| [rspeer/wordfreq](https://github.com/rspeer/wordfreq) | 词频判断 | Python 词频库，适合判断一个词是否常用（作者已宣布停止更新，词频数据停在 2021 年前后，但做常用度判断仍然可靠，见 [SUNSET.md](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)） |
 
 ## 使用优先级
 
