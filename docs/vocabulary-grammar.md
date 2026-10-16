@@ -5,7 +5,7 @@
 | 资源 | 说明 |
 | --- | --- |
 | [Anki](https://apps.ankiweb.net/) | 间隔重复记忆工具，适合长期背词 |
-| [5mdld/anki-english-60k-decks](https://github.com/5mdld/anki-english-60k-decks) | 大型英语词汇 Anki 牌组 |
+| [5mdld/anki-english-mwld-decks](https://github.com/5mdld/anki-english-mwld-decks)（原 anki-english-60k-decks） | 大型英语词汇 Anki 牌组 |
 | [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | 开源词汇和文章练习工具，适合边敲边记 |
 | [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) | 高频英文词表，可做自定义词库 |
 | [rspeer/wordfreq](https://github.com/rspeer/wordfreq) | 判断词汇常用程度，适合做词表筛选（作者已宣布停止更新，词频数据停在 2021 年前后，但做常用度判断仍然可靠，见 [SUNSET.md](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)） |

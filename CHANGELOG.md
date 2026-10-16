@@ -4,6 +4,19 @@
 
 ## [Unreleased]
 
+## [2.3.0] - 2026-10-16 · AI 听说项目、CI 升级与链接维护
+
+### 新增
+
+- `docs/github-projects.md` 新增“AI 听说与沉浸式输入”：Echo-Loop（AI 听说训练 App）、陪读蛙 Read Frog（浏览器沉浸式阅读）、LLPlayer（AI 字幕播放器），均核实 2026-09 后仍在更新，并接入自适应计划能力点
+- `docs/tools.md` 字幕与视频学习补充 LLPlayer、Read Frog
+
+### 修复
+
+- `5mdld/anki-english-60k-decks` 已改名为 `anki-english-mwld-decks`，更新链接
+- GitHub Docs “About pull requests” 页面已迁移，更新为新地址
+- 2026-10-12 定时链接检查失败系 Academic Phrasebank 临时返回 500，复查已恢复
+
 ### 变更
 
 - CI：`actions/checkout`、`actions/setup-python` 升级到 v7（运行时 Node 24，旧版 Node 20 action 已被 GitHub 弃用），Python 3.11 → 3.12

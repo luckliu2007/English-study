@@ -13,11 +13,21 @@
 | [protogenesis/New-Concept-English](https://github.com/protogenesis/New-Concept-English) | 基础语法、阅读、背诵 | 新概念英语 1-4 册笔记，适合从基础到四级/六级水平过渡 |
 | [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 程序员发音 | 收录大量技术词汇的正确发音和常见错误读法 |
 
+## AI 听说与沉浸式输入（2026 新增）
+
+2025–2026 年最活跃的一批开源英语学习项目都内置了 AI：自动转写字幕、逐句讲解、跟读打分。下面三个均已核实 2026-09 以后仍在更新。
+
+| 项目 | 适合场景 | 推荐理由 |
+| --- | --- | --- |
+| [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) | 精听、跟读、复述 | 中文团队开发的 AI 听说训练 App（iOS / Android），把精听→跟读→盲听→复述→间隔复习串成闭环，带 AI 字幕转写、句子解析和跟读打分，有国内服务区和国内镜像 |
+| [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 网页阅读、生词积累 | 开源浏览器扩展（“陪读蛙”），读英文网页、YouTube/Netflix 字幕时 AI 翻译并按你的水平讲解，生词直接做成闪卡按 FSRS 间隔复习 |
+| [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) | 看剧、看视频学英语 | 面向语言学习的 Windows 播放器：双字幕、AI 生成字幕（本地 Whisper）、实时翻译、点词查词 |
+
 ## 词汇和语料数据
 
 | 项目 | 适合场景 | 推荐理由 |
 | --- | --- | --- |
-| [5mdld/anki-english-60k-decks](https://github.com/5mdld/anki-english-60k-decks) | Anki 背词 | 大型英语词汇牌组，适合有 Anki 习惯的人 |
+| [5mdld/anki-english-mwld-decks](https://github.com/5mdld/anki-english-mwld-decks)（原 anki-english-60k-decks） | Anki 背词 | 大型英语词汇牌组，适合有 Anki 习惯的人 |
 | [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) | 高频词、打字练习 | 常见英文词频列表，可用来做自己的词表或练习材料 |
 | [globalwordnet/english-wordnet](https://github.com/globalwordnet/english-wordnet) | 词义网络、进阶词汇 | 开放英文 WordNet，适合查同义、反义、上下位词关系 |
 | [rspeer/wordfreq](https://github.com/rspeer/wordfreq) | 词频判断 | Python 词频库，适合判断一个词是否常用（作者已宣布停止更新，词频数据停在 2021 年前后，但做常用度判断仍然可靠，见 [SUNSET.md](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)） |
@@ -25,8 +35,8 @@
 ## 使用优先级
 
 1. 想先知道怎么学：读 `byoungd/up`（原 English-level-up-tips）和 `everyone-can-use-english`。
-2. 想马上练：用 `TypeWords` 或 `earthworm`。
-3. 想背词：用 `Anki`，再参考 `google-10000-english` 或 `anki-english-60k-decks`。
+2. 想马上练：用 `TypeWords` 或 `earthworm`；想练听说用 `Echo-Loop`。
+3. 想背词：用 `Anki`，再参考 `google-10000-english` 或 `anki-english-mwld-decks`。
 4. 是程序员：每天看 5 个 `chinese-programmer-wrong-pronunciation` 里的技术词。
 
 ## 放进自适应计划
@@ -38,6 +48,8 @@
 | everyone-can-use-english | P 发音准确 / F 口语流利 | 朗读、复述、语音训练框架 |
 | New-Concept-English | L 听力理解 / G 语法句型 | 基础精听、背诵、句型替换 |
 | chinese-programmer-wrong-pronunciation | P 发音准确 | 技术词错音复习 |
+| Echo-Loop | L 听力理解 / P 发音准确 / F 口语流利 | 每日精听 + 跟读打分 + 复述，自带间隔复习 |
+| read-frog | R 阅读理解 / V 词汇短语 | 泛读时收集生词，导出闪卡进入复习 |
 
 ## 中国环境使用建议
 
