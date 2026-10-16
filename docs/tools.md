@@ -20,6 +20,8 @@
 | [Language Reactor](https://www.languagereactor.com/) | 看 YouTube/Netflix 时辅助学语言 |
 | [YouTube Transcript](https://www.youtube.com/) | 利用字幕文本做精听和跟读 |
 | [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 可结合 YouTube/Netflix 做朗读和复述训练 |
+| [LLPlayer](https://github.com/umlx5h/LLPlayer) | 开源语言学习播放器：双字幕、AI 生成字幕、实时翻译 |
+| [陪读蛙 Read Frog](https://github.com/mengxi-ream/read-frog) | 开源浏览器扩展：网页 AI 双语对照与生词闪卡 |
 
 ## 记忆和笔记
 
