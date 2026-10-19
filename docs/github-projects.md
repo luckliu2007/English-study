@@ -11,6 +11,7 @@
 | [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | 词汇、打字、复习 | 开源词汇和文章练习工具，内置四六级、雅思、托福、GRE 等词库 |
 | [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) | 句子结构、输出 | 通过连词成句练英语，比单纯背单词更接近真实表达 |
 | [protogenesis/New-Concept-English](https://github.com/protogenesis/New-Concept-English) | 基础语法、阅读、背诵 | 新概念英语 1-4 册笔记，适合从基础到四级/六级水平过渡 |
+| [iChochy/NCE](https://github.com/iChochy/NCE) | 课文精听、单句跟读 | 新概念英语全四册在线点读（[nce.ichochy.com](https://nce.ichochy.com)），美音课文朗读、点击任意句子跟读、中英逐句对照；中文翻译由 AI 生成，可能有少量错误 |
 | [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 程序员发音 | 收录大量技术词汇的正确发音和常见错误读法 |
 
 ## AI 听说与沉浸式输入（2026 新增）
@@ -47,6 +48,7 @@
 | earthworm | G 语法句型 / F 口语流利 | 句型补偿和输出前热身 |
 | everyone-can-use-english | P 发音准确 / F 口语流利 | 朗读、复述、语音训练框架 |
 | New-Concept-English | L 听力理解 / G 语法句型 | 基础精听、背诵、句型替换 |
+| NCE 点读 | L 听力理解 / P 发音准确 | 新概念课文单句循环精听、跟读 |
 | chinese-programmer-wrong-pronunciation | P 发音准确 | 技术词错音复习 |
 | Echo-Loop | L 听力理解 / P 发音准确 / F 口语流利 | 每日精听 + 跟读打分 + 复述，自带间隔复习 |
 | read-frog | R 阅读理解 / V 词汇短语 | 泛读时收集生词，导出闪卡进入复习 |

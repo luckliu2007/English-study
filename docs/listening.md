@@ -31,6 +31,7 @@
 | --- | --- |
 | [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 可参考其中朗读、精读和语音训练方法 |
 | [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) | 听完材料后，用连词成句方式练复述和输出 |
+| [iChochy/NCE](https://github.com/iChochy/NCE) | 新概念英语全四册在线点读，单句点读跟读、中英对照，适合基础精听 |
 
 ## 练习方法
 

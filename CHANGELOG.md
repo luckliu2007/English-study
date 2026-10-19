@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+### 新增（2026-10-19）
+
+- `docs/github-projects.md`、`docs/listening.md` 收录 iChochy/NCE（新概念英语全四册在线点读，单句跟读、中英对照），并接入自适应计划
+
 ## [2.3.0] - 2026-10-16 · AI 听说项目、CI 升级与链接维护
 
 ### 新增
