@@ -1,0 +1,10 @@
+{
+  "theme": "英语学习（面向中文学习者）：AI 听说、词汇、阅读、写作、考试",
+  "self_owner": "luckliu2007",
+  "queries": ["topic:english-learning", "topic:learn-english", "topic:language-learning", "topic:vocabulary", "英语 in:name,description", "english learning in:name,description"],
+  "min_stars": 300,
+  "pushed_within_days": 30,
+  "max_age_days": 730,
+  "stale_days": 540,
+  "top_n": 8
+}
