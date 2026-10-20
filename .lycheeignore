@@ -14,3 +14,7 @@ https://.*\.britishcouncil\.org/.*
 https://www\.talkenglish\.com/.*
 https://www\.cambridge\.org/.*
 https://www\.coe\.int/.*
+
+# Academic Phrasebank（曼彻斯特大学）：资源稳定、地址未变，但 2026-10 起频繁间歇性无法连接，
+# 为避免阻塞自动合并暂不检查；若长期不可用再考虑替换。
+^https://www\.phrasebank\.manchester\.ac\.uk/
