@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+### 新增（2026-10-20）
+
+- `docs/tools.md` 收录 Aictionary（开源英汉桌面词典，本地离线查词、Anki 联动）和青简 Qingjian（拼音输入法，候选词旁显示英语译词）
+
 ### 新增（2026-10-19）
 
 - `docs/github-projects.md`、`docs/listening.md` 收录 iChochy/NCE（新概念英语全四册在线点读，单句跟读、中英对照），并接入自适应计划
