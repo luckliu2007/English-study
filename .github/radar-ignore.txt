@@ -3,3 +3,5 @@ WenyuChiou/awesome-agentic-ai-zh
 lingdojo/kana-dojo
 5mdld/anki-jlpt-decks
 minghe36/haoone-app
+notque/vexjoy-agent
+rtr46/meikipop

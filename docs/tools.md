@@ -10,6 +10,7 @@
 | [Cambridge Dictionary](https://dictionary.cambridge.org/) | 英英释义、例句、发音 |
 | [globalwordnet/english-wordnet](https://github.com/globalwordnet/english-wordnet) | 开放英文词义网络，适合进阶查词义关系 |
 | [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) | 高频词表，可做自己的词库 |
+| [Aictionary](https://github.com/ahpxex/Aictionary) | 开源英汉桌面词典：本地词库离线秒查，释义讲用法和搭配，可一键制成 Anki 卡片 |
 
 ## 字幕和视频学习
 
@@ -29,6 +30,7 @@
 | --- | --- |
 | [Anki](https://apps.ankiweb.net/) | 间隔重复记忆 |
 | [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | 词汇、文章、打字练习结合 |
+| [青简 Qingjian](https://github.com/qingjian-team/qingjian) | 开源拼音输入法，候选词旁显示英语译词，日常打字顺带积累词汇（macOS/Windows 测试版） |
 | [每日英语听力](https://www.eudic.net/mobile/ting.aspx) | 听力生词和欧路词典联动，适合国内手机端 |
 | [Notion](https://www.notion.so/) | 建立表达库、错题本和学习日志 |
 | [Obsidian](https://obsidian.md/) | 本地知识库和长期积累 |
