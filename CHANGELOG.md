@@ -4,6 +4,16 @@
 
 ## [Unreleased]
 
+## [2.4.0] - 2026-10-21 · 全面规划升级
+
+### 新增
+
+- `ROADMAP.md`：仓库定位、本次升级内容和待补强方向（每周一自动检索据此补充资源）
+- `docs/exams.md` 新增“2026 年考试变化”：托福 1–6 分制（ETS 官方）、雅思全面机考（IELTS 官方 2026-03-05 公告）、四六级官网入口
+- `docs/reading.md` 新增 VOA Learning English、News in Levels、Simple English Wikipedia、Standard Ebooks，以及难度选择方法
+- `docs/writing.md` 新增 UNC 写作中心、Google / Microsoft 写作风格指南，以及 AI 批改的使用方法
+- `docs/speaking.md` 接入 AI 跟读打分工具（Echo-Loop、EchoType）
+
 ### 新增（2026-10-21）
 
 - `docs/github-projects.md` “AI 听说与沉浸式输入”收录 Talljack/echo-type（EchoType，开源听说读写一体练习工具，网页版 + 桌面版），并接入自适应计划

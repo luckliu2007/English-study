@@ -6,8 +6,12 @@
 | --- | --- |
 | [English e-Reader](https://english-e-reader.net/) | 分级英文读物，适合从简单小说开始 |
 | [Project Gutenberg](https://www.gutenberg.org/) | 公版英文书库，适合高阶泛读 |
+| [Standard Ebooks](https://standardebooks.org/) | 精心校对排版的公版名著电子书，免费，比普通公版书更适合在阅读器上长时间读 |
 | [Breaking News English](https://breakingnewsenglish.com/) | 同一新闻多难度版本，适合精读和听读结合 |
 | [Engoo Daily News](https://engoo.com/app/daily-news) | 新闻短文和讨论问题，适合中级学习 |
+| [VOA Learning English](https://learningenglish.voanews.com/) | 美国之音慢速英语：词汇受控的新闻和专题，文本与音频同步，适合听读结合 |
+| [News in Levels](https://www.newsinlevels.com/) | 同一条新闻分 3 个难度改写，从最简单的读起，逐级提升 |
+| [Simple English Wikipedia](https://simple.wikipedia.org/) | 用基础词汇和简单句写的维基百科，查知识的同时做泛读 |
 | [protogenesis/New-Concept-English](https://github.com/protogenesis/New-Concept-English) | 新概念英语课文笔记，适合基础精读 |
 
 ## 新闻和长文
@@ -21,6 +25,7 @@
 
 ## 练习方法
 
-1. 泛读时不要查每个词，只标记反复出现的关键词。
-2. 精读时摘录 3-5 个可复用表达。
-3. 读完写 3 句总结：主题、作者观点、你的看法。
+1. 先选对难度：一页里不认识的词不超过 5 个。太难就降一级（News in Levels、VOA 都有分级），也可以用浏览器扩展 [陪读蛙 Read Frog](https://github.com/mengxi-ream/read-frog) 按需看翻译。
+2. 泛读时不要查每个词，只标记反复出现的关键词。
+3. 精读时摘录 3-5 个可复用表达。
+4. 读完写 3 句总结：主题、作者观点、你的看法。
