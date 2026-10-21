@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+### 新增（2026-10-21）
+
+- `docs/github-projects.md` “AI 听说与沉浸式输入”收录 Talljack/echo-type（EchoType，开源听说读写一体练习工具，网页版 + 桌面版），并接入自适应计划
+
 ### 新增（2026-10-20）
 
 - `docs/tools.md` 收录 Aictionary（开源英汉桌面词典，本地离线查词、Anki 联动）和青简 Qingjian（拼音输入法，候选词旁显示英语译词）
