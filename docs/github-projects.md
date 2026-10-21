@@ -16,13 +16,14 @@
 
 ## AI 听说与沉浸式输入（2026 新增）
 
-2025–2026 年最活跃的一批开源英语学习项目都内置了 AI：自动转写字幕、逐句讲解、跟读打分。下面三个均已核实 2026-09 以后仍在更新。
+2025–2026 年最活跃的一批开源英语学习项目都内置了 AI：自动转写字幕、逐句讲解、跟读打分。下面四个均已核实 2026-09 以后仍在更新。
 
 | 项目 | 适合场景 | 推荐理由 |
 | --- | --- | --- |
 | [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) | 精听、跟读、复述 | 中文团队开发的 AI 听说训练 App（iOS / Android），把精听→跟读→盲听→复述→间隔复习串成闭环，带 AI 字幕转写、句子解析和跟读打分，有国内服务区和国内镜像 |
 | [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 网页阅读、生词积累 | 开源浏览器扩展（“陪读蛙”），读英文网页、YouTube/Netflix 字幕时 AI 翻译并按你的水平讲解，生词直接做成闪卡按 FSRS 间隔复习 |
 | [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) | 看剧、看视频学英语 | 面向语言学习的 Windows 播放器：双字幕、AI 生成字幕（本地 Whisper）、实时翻译、点词查词 |
+| [Talljack/echo-type](https://github.com/Talljack/echo-type) | 同一材料练听说读写 | 开源听说读写一体练习工具（网页版 [echo-type.app](https://echo-type.app) 和 macOS / Windows / Linux 桌面版），导入文章、YouTube 或自建词表后，用同一份材料做听读、跟读打分、对照中文阅读和逐句打字；带 CEFR 定级和 FSRS 复习，AI 功能需自备 API Key，不登录也能本地使用 |
 
 ## 词汇和语料数据
 
@@ -52,6 +53,7 @@
 | chinese-programmer-wrong-pronunciation | P 发音准确 | 技术词错音复习 |
 | Echo-Loop | L 听力理解 / P 发音准确 / F 口语流利 | 每日精听 + 跟读打分 + 复述，自带间隔复习 |
 | read-frog | R 阅读理解 / V 词汇短语 | 泛读时收集生词，导出闪卡进入复习 |
+| EchoType | L 听力理解 / P 发音准确 / V 词汇短语 | 一篇材料按听→读→写顺序练透，生词进 FSRS 复习 |
 
 ## 中国环境使用建议
 
