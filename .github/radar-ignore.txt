@@ -5,3 +5,7 @@ lingdojo/kana-dojo
 minghe36/haoone-app
 notque/vexjoy-agent
 rtr46/meikipop
+Chuloo/mural
+lilinji/English
+mcxiaoxiao/openIELTS
+forrany/Awesome-Ollama-Server
