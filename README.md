@@ -150,6 +150,10 @@ CI（[`content-check.yml`](.github/workflows/content-check.yml)）会在每次 p
 
 每条资源尽量写清楚：适合什么水平、解决什么问题、是否免费。
 
+## 路线图
+
+下一步的补强方向和维护机制见 [ROADMAP.md](ROADMAP.md)。
+
 ## 更新日志
 
 版本历史见 [CHANGELOG.md](CHANGELOG.md)。
