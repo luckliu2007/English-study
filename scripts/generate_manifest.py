@@ -28,7 +28,8 @@ SCHEMA_VERSION = 1
 
 
 def sha256_of(path: Path) -> str:
-    return hashlib.sha256(path.read_bytes()).hexdigest()
+    # 统一按 LF 计算，避免 Windows 下编辑后 CRLF 工作副本与仓库（.gitattributes 强制 LF）算出不同的 sha
+    return hashlib.sha256(path.read_bytes().replace(b"\r\n", b"\n")).hexdigest()
 
 
 def count_of(path: Path) -> int:

@@ -54,6 +54,7 @@
 | [精选合集](docs/awesome-lists.md) | GitHub 上值得收藏的英语学习资源合集 |
 | [中国环境友好资源](docs/china-friendly.md) | 国内更稳定访问、可离线、适合通勤学习 |
 | [考试](docs/exams.md) | IELTS、TOEFL、四六级、综合测试 |
+| [职场英语](docs/workplace-english.md) | 邮件、会议、演示、协商的高频句式与 AI 角色扮演 |
 | [程序员英语](docs/developer-english.md) | 技术文档、开源协作、工程师职场英语 |
 | [工具](docs/tools.md) | 字典、字幕、浏览器插件、AI 辅助工具 |
 
@@ -127,7 +128,7 @@
 | [`content/vocabulary.json`](content/vocabulary.json) | 分级词汇（CEFR A1–C2，含音标/例句/中文释义） | [schema](content/schema/vocabulary.schema.json) |
 | [`content/reading.json`](content/reading.json) | 分级阅读：`article`（原创英文短文，带生词表+理解题）与 `guide`（仓库文档导航） | [schema](content/schema/reading.schema.json) |
 | [`content/quizzes.json`](content/quizzes.json) | 测验题库（选项顺序随机，答案分布均衡） | [schema](content/schema/quizzes.schema.json) |
-| [`content/prompts.json`](content/prompts.json) | AI 提示词库：28 条按六能力点 + 考试 + 长期人设 + 错题复盘分类的英文提示词模板 | [schema](content/schema/prompts.schema.json) |
+| [`content/prompts.json`](content/prompts.json) | AI 提示词库：30 条按六能力点 + 考试 + 长期人设 + 错题复盘分类的英文提示词模板 | [schema](content/schema/prompts.schema.json) |
 | [`content/manifest.json`](content/manifest.json) | 同步契约（各文件 SHA256 + 条目数），由脚本自动生成 | — |
 
 本地校验与生成：

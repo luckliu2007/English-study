@@ -1,10 +1,50 @@
 {
   "theme": "英语学习（面向中文学习者）：AI 听说、词汇、阅读、写作、考试",
   "self_owner": "luckliu2007",
-  "queries": ["topic:english-learning", "topic:learn-english", "topic:language-learning", "topic:vocabulary", "英语 in:name,description", "english learning in:name,description"],
+  "queries": [
+    "topic:english-learning",
+    "topic:learn-english",
+    "topic:language-learning",
+    "topic:vocabulary",
+    "英语 in:name,description",
+    "english learning in:name,description"
+  ],
   "min_stars": 300,
   "pushed_within_days": 30,
   "max_age_days": 730,
   "stale_days": 540,
-  "top_n": 8
+  "top_n": 8,
+  "require_keywords": [
+    "english",
+    "英语",
+    "vocabulary",
+    "词汇",
+    "单词",
+    "listening",
+    "听力",
+    "speaking",
+    "口语",
+    "pronunciation",
+    "发音",
+    "grammar",
+    "语法",
+    "ielts",
+    "toefl",
+    "雅思",
+    "托福",
+    "四六级",
+    "language learning",
+    "language-learning",
+    "anki",
+    "dictionary",
+    "词典",
+    "shadowing",
+    "跟读"
+  ],
+  "exclude_keywords": [
+    "japanese",
+    "日语",
+    "korean",
+    "韩语"
+  ]
 }

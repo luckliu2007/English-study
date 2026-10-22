@@ -27,7 +27,7 @@ AI 对话工具是目前最容易获得的英语陪练：无限耐心、随时�
 
 ## 结构化提示词库
 
-这个模块的核心不是本页的文字，而是 [`content/prompts.json`](../content/prompts.json)：28 条带 [JSON Schema](../content/schema/prompts.schema.json) 约束的 AI 提示词，和 `vocabulary.json` / `reading.json` / `quizzes.json` 走同一套校验和 CI（见 [结构化内容数据](../README.md#结构化内容数据)）。每条记录包含：
+这个模块的核心不是本页的文字，而是 [`content/prompts.json`](../content/prompts.json)：30 条带 [JSON Schema](../content/schema/prompts.schema.json) 约束的 AI 提示词，和 `vocabulary.json` / `reading.json` / `quizzes.json` 走同一套校验和 CI（见 [结构化内容数据](../README.md#结构化内容数据)）。每条记录包含：
 
 - `category`：对应 [自适应学习计划](adaptive-plan.md) 的六能力点 `L/P/F/V/G/W`，外加 `exam`（考试模拟）、`tutor-setup`（长期人设配置）、`review`（错题/周复盘）
 - `prompt`：英文提示词模板，`[方括号]` 是需要替换的变量，`variables` 字段逐个解释

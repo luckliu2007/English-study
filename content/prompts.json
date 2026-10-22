@@ -155,6 +155,31 @@
     "usage": "入门阶段先练最低压力的寒暄场景，目标是敢开口、接得住话，不追求语法完美。"
   },
   {
+    "id": "p-speaking-meeting-roleplay",
+    "title": "职场会议角色扮演",
+    "skill": "ai-prompt",
+    "category": "F",
+    "level": "B1",
+    "prompt": "Let's role-play a work meeting. You are my [role], and the meeting is about [topic]. Speak naturally, ask me one thing at a time, and push back at least once so I have to explain or negotiate. After every 3 turns, pause and give me: (1) one phrase I used that sounded unnatural, with a better version; (2) one useful meeting phrase for this situation. Then continue.",
+    "usage": "练会议中的表达观点、追问澄清、礼貌反对和总结。语音模式效果最好；每轮复盘时把更自然的说法记下来。",
+    "tools": [
+      "ChatGPT",
+      "Gemini",
+      "豆包"
+    ],
+    "variables": [
+      {
+        "name": "[role]",
+        "hint": "对方的角色，如 manager / client / project partner"
+      },
+      {
+        "name": "[topic]",
+        "hint": "会议主题，如 delaying a project deadline / agreeing on a budget"
+      }
+    ],
+    "followUp": "把学到的会议句式整理进 workplace-english.md 对应场景的个人句式库。"
+  },
+  {
     "id": "p-vocab-example-sentences",
     "title": "例句生成 + Anki 卡片",
     "skill": "ai-prompt",
@@ -257,6 +282,26 @@
     "usage": "程序员英语场景：开源协作里的 PR 描述、commit message、文档，润色后对照学习地道说法，不要直接照抄不理解。"
   },
   {
+    "id": "p-writing-email-polish",
+    "title": "商务邮件批改",
+    "skill": "ai-prompt",
+    "category": "W",
+    "level": "B1",
+    "prompt": "Review this work email I wrote to [recipient]: \"[email]\". Check: (1) is the purpose clear in the first two sentences? (2) is there one clear request with a deadline? (3) is the tone right for this recipient? Point out the top 3 problems and explain why, but do not rewrite the whole email for me.",
+    "usage": "发重要英文邮件前自查：目的是否开门见山、请求和截止时间是否清楚、语气是否得体。只要讲解不要代写，自己改完再发。",
+    "variables": [
+      {
+        "name": "[recipient]",
+        "hint": "收件人及关系，如 a client I have never met / my manager"
+      },
+      {
+        "name": "[email]",
+        "hint": "邮件原文"
+      }
+    ],
+    "followUp": "高频问题记进错词错句本。"
+  },
+  {
     "id": "p-exam-ielts-speaking",
     "title": "IELTS 口语模拟考",
     "skill": "ai-prompt",
@@ -272,12 +317,22 @@
   },
   {
     "id": "p-exam-toefl-writing",
-    "title": "TOEFL 写作评分",
+    "title": "TOEFL 写作评分（2026 新分制）",
     "skill": "ai-prompt",
     "category": "exam",
     "level": "B2",
-    "prompt": "Grade this TOEFL independent writing essay using the official 0-5 scoring rubric (Development, Organization, Language Use). Give a score for each dimension, then list the top 3 things to fix: \"[essay]\".",
-    "usage": "写完托福独立写作后自评，按官方评分维度而不是笼统的「写得不错」，找出最值得改的 3 处。"
+    "prompt": "Act as a TOEFL iBT writing rater. Here is the task: \"[task]\". Here is my response: \"[response]\". Using the official ETS scoring guide for this task type, estimate my score on the current 1-6 TOEFL band scale and the CEFR level it corresponds to. Explain the estimate in terms of task completion, development, organization, and language use, then list the top 3 things to fix. If you are not sure which official scoring guide applies to this task type, say so instead of guessing.",
+    "usage": "托福自 2026-01-21 起改为 1–6 分制（见 exams.md）。把题目和自己的答案一起发给 AI，让它按该题型的官方评分维度估分并指出最该改的 3 处。AI 估分只是粗略参考，以 ETS 官方评分指南和模考成绩为准。",
+    "variables": [
+      {
+        "name": "[task]",
+        "hint": "完整的题目要求（官方样题或模考题）"
+      },
+      {
+        "name": "[response]",
+        "hint": "你写的答案原文"
+      }
+    ]
   },
   {
     "id": "p-exam-band-diagnostic",
@@ -285,7 +340,7 @@
     "skill": "ai-prompt",
     "category": "exam",
     "level": "all",
-    "prompt": "Based on this piece of writing or speech transcript, estimate my rough CEFR level (A2-C1) and the equivalent IELTS band, and list 2 concrete things holding me back from the next level: \"[text]\".",
+    "prompt": "Based on this piece of writing or speech transcript, estimate my rough CEFR level (A2-C1), the equivalent IELTS band, and the equivalent band on the TOEFL iBT 1-6 scale, and list 2 concrete things holding me back from the next level: \"[text]\".",
     "usage": "不确定自己大概什么水平时用，AI 给的只是粗略参考，不代替正式测评，但能帮你判断该往哪个方向补短板。"
   },
   {
