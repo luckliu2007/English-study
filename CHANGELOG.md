@@ -4,6 +4,19 @@
 
 ## [Unreleased]
 
+## [2.6.0] - 2026-10-22 · 阅读题答案均衡、托福官方练习、AI 语音陪练
+
+### 新增
+
+- `content/reading.json` 新增 4 篇原创文章：B2《Why Remote Teams Write Everything Down》《Can You Trust an AI Summary?》，C1《The Silent Graveyard: Survivorship Bias》《The Paradox of Automation》
+- `docs/exams.md` 托福部分新增 ETS 官方样题（2026 年 1 月版）、TestReady 免费模考说明、官方 Practice Test 1
+- `docs/ai-english.md` 新增“实时语音陪练”：开场规则、工具自测对比表、发音被“听漏”和隐私两个局限
+
+### 修复
+
+- 阅读题正确答案原有 59%（47/79）集中在第 2 个选项，学习者靠猜即可得高分；在不改动题干和选项文字的前提下重新排列选项，现为 23 / 23 / 23 / 22
+- `scripts/validate_content.py` 新增全局答案分布检查（题目 ≥ 20 且同一位置占比 ≥ 40% 即报错），弥补原先只检查单篇 ≥ 4 题的盲区
+
 ## [2.5.0] - 2026-10-22 · 职场英语与考试提示词更新
 
 ### 新增

@@ -22,7 +22,9 @@
 | 资源 | 说明 |
 | --- | --- |
 | [TOEFL official](https://www.ets.org/toefl.html) | ETS 官方考试信息 |
-| [TOEFL TestReady](https://www.ets.org/toefl/test-takers/ibt/prepare.html) | 官方备考材料入口 |
+| [TOEFL TestReady / 官方备考](https://www.ets.org/toefl/test-takers/ibt/prepare.html) | ETS 官方备考入口：注册免费账号可做一套完整模考，带 AI 自动评分和四个部分的反馈；更多模考需付费 |
+| [官方样题（2026 年 1 月版）](https://www.ets.org/toefl/test-takers/ibt/prepare/sample-test-jan-2026-1.html) | 按 2026-01-21 起的新版考试编制的官方样题，先用它熟悉新题型 |
+| [官方练习题 PDF（Practice Test 1）](https://www.ets.org/content/dam/ets-india/pdfs/toefl/toefl-ibt-full-length-practice-test-1.pdf) | ETS 发布的完整练习题，与 2026-01-21 起的考试对齐；为纸面使用做了改编，不完全等同机考 |
 | [TST Prep](https://tstprep.com/) | 托福练习和备考策略（选用第三方材料时，确认已按 2026 新版题型和分制更新） |
 
 ## 大学英语四六级
@@ -50,7 +52,7 @@
 
 ## 备考建议
 
-1. 先确认目标考试的**最新形式和分制**（见本页顶部），再选备考材料。
+1. 先确认目标考试的**最新形式和分制**（见本页顶部），再选备考材料。托福考生先做官方样题熟悉新题型，再用 TestReady 免费模考定位弱项。
 2. 先做一次完整模拟，找出最弱项。
 3. 每周按题型复盘错题，不只看分数。
 4. 写作和口语要建立自己的素材库。
