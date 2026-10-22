@@ -11,3 +11,4 @@ mcxiaoxiao/openIELTS
 forrany/Awesome-Ollama-Server
 xiaoyang111222/cn-math-taxonomy
 SteveSuv/remix-words-funny
+Fangx-AI/geo-doctor
