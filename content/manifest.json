@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": "2026.08.06.1",
-  "generatedAt": "2026-10-22T06:25:11.609Z",
+  "generatedAt": "2026-10-22T06:30:25.562Z",
   "repo": "luckliu2007/English-study",
   "branch": "main",
   "files": {
@@ -18,7 +18,7 @@
       "count": 12
     },
     "prompts.json": {
-      "sha": "36eba31ff56e03f4604023714965716c70568e824480a722b70a48472d8a2e16",
+      "sha": "cb22df6f58e45672e3ddb59d5b17f940f765af4580d35f3a23b61984114c7879",
       "count": 30
     }
   }
