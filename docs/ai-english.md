@@ -86,6 +86,31 @@ same thing, then continue the role-play.
 
 对应 `p-review-weekly-quiz` + `p-review-spaced-schedule`：每周把积累的错句、错音、生词发给 AI 做测验，答错的项目再用间隔复习提示词算出下次复习日期，安排进 [复习间隔](adaptive-plan.md#复习间隔)。
 
+## 实时语音陪练
+
+语音对话最适合练**口语流利度**（F）和**听力反应**（L），可以在通勤、散步时练。主流 AI 助手都提供语音对话模式，例如 ChatGPT 语音、[Gemini Live](https://support.google.com/gemini/answer/15274899)、豆包语音通话（国内网络可直接用）。具体功能和开放地区以各家 App 为准。
+
+**开场先定规则**（直接说或打字发给它）：
+
+> Please speak slowly and use B1-level English. Ask me one question at a time. Don't interrupt me; after I finish, correct only the one or two mistakes that matter most, then continue.
+
+场景练习可直接用提示词库里的 `p-speaking-roleplay`（情景角色扮演）和 `p-speaking-meeting-roleplay`（职场会议）。
+
+**自己对比哪个工具更适合你**：各家能力更新很快，这里不给排名，只给对比方法。用同一段 5 分钟练习，在两三个工具上各跑一次，按下表 1–5 分打分：
+
+| 维度 | 看什么 |
+| --- | --- |
+| 按要求调节 | 能否稳定保持你要求的语速和难度 |
+| 纠错质量 | 是否只纠最重要的 1–2 处，纠得对不对 |
+| 对话自然度 | 能否被打断、回应延迟是否影响节奏 |
+| 复盘支持 | 结束后能否看到文字记录，方便整理错句 |
+| 可用性 | 你的网络环境下是否稳定、免费额度够不够 |
+
+**两个局限要知道**：
+
+1. **发音问题容易被“听漏”**：语音识别倾向于把含糊的发音识别成最可能的正确单词，所以 AI 往往发现不了你的发音错误。发音练习请用 [Echo-Loop](https://github.com/echo-loop/Echo-Loop)、[EchoType](https://github.com/Talljack/echo-type) 等带跟读打分的工具，或录音回听。
+2. **隐私**：语音内容会上传到服务商。练习时不要说真实的身份信息、公司机密或客户信息。
+
 ## 接入自适应计划
 
 - 每日任务中的「到期复习」和「弱项补偿」都可以让 AI 出题（`review` 分类），代替自己翻笔记。

@@ -63,6 +63,7 @@ def check_ids_unique(data, name: str):
 
 
 def check_answers(quiz_or_reading, name: str):
+    all_positions = []
     for item in quiz_or_reading:
         questions = item.get("questions", [])
         answer_positions = []
@@ -84,6 +85,17 @@ def check_answers(quiz_or_reading, name: str):
                     f"[{name}] {item.get('id')} 正确答案过度集中在下标 {most_common} "
                     f"({freq}/{len(answer_positions)}={ratio:.0%})，请打乱选项顺序"
                 )
+        all_positions.extend(answer_positions)
+    # 全局分布检查：单篇题目少（如阅读每篇 3 题）时上面的检查不生效，
+    # 但整个文件的答案仍可能集中在同一位置，学习者靠猜同一个选项就能拿高分
+    if len(all_positions) >= 20:
+        most_common, freq = Counter(all_positions).most_common(1)[0]
+        ratio = freq / len(all_positions)
+        if ratio >= 0.4:
+            errors.append(
+                f"[{name}] 全部题目的正确答案有 {ratio:.0%}（{freq}/{len(all_positions)}）集中在下标 {most_common}，"
+                f"请打乱选项顺序使分布均衡"
+            )
 
 
 def check_prompts(prompts, name: str):

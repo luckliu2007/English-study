@@ -276,22 +276,22 @@
       {
         "q": "What time does the writer wake up?",
         "options": [
-          "Six o'clock",
           "Seven o'clock",
+          "Six o'clock",
           "Eight o'clock",
           "Nine o'clock"
         ],
-        "answer": 1
+        "answer": 0
       },
       {
         "q": "How does the writer go to the bus stop?",
         "options": [
           "By car",
-          "By bike",
           "On foot",
+          "By bike",
           "By train"
         ],
-        "answer": 2
+        "answer": 1
       }
     ]
   },
@@ -328,31 +328,31 @@
         "q": "What colour is Mimi?",
         "options": [
           "Black and white",
-          "White and grey",
           "Brown",
+          "White and grey",
           "Orange"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "When is Mimi hungry?",
         "options": [
-          "In the morning",
+          "At midnight",
           "At noon",
           "In the evening",
-          "At midnight"
+          "In the morning"
         ],
-        "answer": 0
+        "answer": 3
       },
       {
         "q": "Where does Mimi like to sleep?",
         "options": [
-          "On the sofa",
-          "On the floor",
           "On the bed",
+          "On the floor",
+          "On the sofa",
           "In a box"
         ],
-        "answer": 2
+        "answer": 0
       }
     ]
   },
@@ -393,31 +393,31 @@
         "q": "How long was the train trip?",
         "options": [
           "Two hours",
-          "Three hours",
           "Five hours",
+          "Three hours",
           "Seven hours"
         ],
-        "answer": 2
+        "answer": 1
       },
       {
         "q": "What did the family do on the last day?",
         "options": [
           "They swam in the lake",
-          "They drank tea and played cards",
           "They took a train home",
+          "They drank tea and played cards",
           "They climbed the mountain"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "Where was the hotel?",
         "options": [
-          "Next to a lake",
+          "Near the airport",
           "In a big city",
           "On a mountain top",
-          "Near the airport"
+          "Next to a lake"
         ],
-        "answer": 0
+        "answer": 3
       }
     ]
   },
@@ -453,22 +453,22 @@
       {
         "q": "What should you add to the pan first?",
         "options": [
-          "Rice",
-          "Salt",
           "Garlic",
+          "Salt",
+          "Rice",
           "Water"
         ],
-        "answer": 2
+        "answer": 0
       },
       {
         "q": "According to the text, cooking at home is NOT:",
         "options": [
           "Cheaper",
-          "Healthier",
           "Difficult",
+          "Healthier",
           "Flexible"
         ],
-        "answer": 2
+        "answer": 1
       }
     ]
   },
@@ -505,31 +505,31 @@
         "q": "How were phones mainly used twenty years ago?",
         "options": [
           "To take photos",
-          "To make calls and send messages",
           "To study languages",
+          "To make calls and send messages",
           "To guide people in cities"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "What problem does the text mention?",
         "options": [
           "Phones are too expensive",
           "Phones cannot play music",
-          "It can be hard to focus or rest",
-          "Phones have no apps"
+          "Phones have no apps",
+          "It can be hard to focus or rest"
         ],
-        "answer": 2
+        "answer": 3
       },
       {
         "q": "What does the writer suggest at the end?",
         "options": [
-          "Stop using phones completely",
           "Find a balance with technology",
+          "Stop using phones completely",
           "Buy a newer phone",
           "Use phones only for calls"
         ],
-        "answer": 1
+        "answer": 0
       }
     ]
   },
@@ -625,11 +625,11 @@
         "q": "What is one benefit of remote work mentioned in the text?",
         "options": [
           "Higher office rent",
-          "More time for family and rest",
+          "Fewer job options",
           "Longer commutes",
-          "Fewer job options"
+          "More time for family and rest"
         ],
-        "answer": 1
+        "answer": 3
       },
       {
         "q": "What challenge does the text describe?",
@@ -645,11 +645,11 @@
         "q": "What are hybrid models meant to do?",
         "options": [
           "Remove all office work",
-          "Force everyone back to the office",
           "Combine the benefits of office and remote work",
+          "Force everyone back to the office",
           "Reduce salaries"
         ],
-        "answer": 2
+        "answer": 1
       }
     ]
   },
@@ -689,32 +689,32 @@
       {
         "q": "According to the text, festival food and clothing are:",
         "options": [
-          "Often full of meaning",
-          "Chosen at random",
           "Always imported",
+          "Chosen at random",
+          "Often full of meaning",
           "Never important"
         ],
-        "answer": 0
+        "answer": 2
       },
       {
         "q": "What do critics worry about?",
         "options": [
           "Festivals are too quiet",
           "Too few people attend",
-          "Commercial interests can weaken the original meaning",
-          "Festivals never change"
+          "Festivals never change",
+          "Commercial interests can weaken the original meaning"
         ],
-        "answer": 2
+        "answer": 3
       },
       {
         "q": "What does the writer say remains constant?",
         "options": [
-          "The exact rituals",
+          "The human desire to gather and remember",
           "The location of festivals",
           "The type of food",
-          "The human desire to gather and remember"
+          "The exact rituals"
         ],
-        "answer": 3
+        "answer": 0
       }
     ]
   },
@@ -754,32 +754,32 @@
       {
         "q": "How was sleep viewed in the past, according to the text?",
         "options": [
-          "As a passive state",
           "As the most active process",
+          "As a passive state",
           "As a form of exercise",
           "As a waste of research"
         ],
-        "answer": 0
+        "answer": 1
       },
       {
         "q": "What happens during deep sleep?",
         "options": [
           "The brain switches off completely",
-          "The body repairs tissue and consolidates memories",
           "People become more anxious",
+          "The body repairs tissue and consolidates memories",
           "Immunity is destroyed"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "What does the text say about tired people?",
         "options": [
           "They perform better",
           "They need no sleep",
-          "They often underestimate their own impairment",
-          "They rely on exercise instead"
+          "They rely on exercise instead",
+          "They often underestimate their own impairment"
         ],
-        "answer": 2
+        "answer": 3
       }
     ]
   },
@@ -819,12 +819,12 @@
       {
         "q": "What did twentieth-century urban planning prioritise?",
         "options": [
-          "Walking",
           "The automobile",
+          "Walking",
           "Public parks",
           "Rivers"
         ],
-        "answer": 1
+        "answer": 0
       },
       {
         "q": "Why are green roofs and urban forests introduced?",
@@ -839,12 +839,12 @@
       {
         "q": "What concern do critics raise?",
         "options": [
-          "Transformations can be costly and displace poorer residents",
-          "Cities become too quiet",
           "There are too many cars",
+          "Cities become too quiet",
+          "Transformations can be costly and displace poorer residents",
           "Wildlife disappears"
         ],
-        "answer": 0
+        "answer": 2
       }
     ]
   },
@@ -885,31 +885,31 @@
         "q": "What kind of debate does AI provoke, according to the text?",
         "options": [
           "Purely technical",
-          "As much philosophical as technological",
+          "Mainly artistic",
           "Only economic",
-          "Mainly artistic"
+          "As much philosophical as technological"
         ],
-        "answer": 1
+        "answer": 3
       },
       {
         "q": "What risk does research suggest about models trained on historical data?",
         "options": [
-          "They eliminate all bias",
-          "They only reproduce, never amplify, inequalities",
           "They may entrench and amplify existing inequalities",
+          "They only reproduce, never amplify, inequalities",
+          "They eliminate all bias",
           "They cannot make decisions"
         ],
-        "answer": 2
+        "answer": 0
       },
       {
         "q": "What do the most thoughtful commentators call for?",
         "options": [
           "Banning all AI",
-          "Blind enthusiasm for technology",
           "Transparency, human oversight, and legal frameworks",
+          "Blind enthusiasm for technology",
           "Ignoring the issue"
         ],
-        "answer": 2
+        "answer": 1
       }
     ]
   },
@@ -950,31 +950,31 @@
         "q": "Roughly how many of today's languages may fall silent this century?",
         "options": [
           "About a tenth",
-          "About half",
           "Almost none",
+          "About half",
           "All of them"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "How does the writer describe a language?",
         "options": [
           "A mere list of labels",
           "An outdated system",
-          "A distinctive cosmology encoding subtle distinctions",
-          "A commercial product"
+          "A commercial product",
+          "A distinctive cosmology encoding subtle distinctions"
         ],
-        "answer": 2
+        "answer": 3
       },
       {
         "q": "How is the effort to revitalise endangered languages increasingly seen?",
         "options": [
-          "As sentimental antiquarianism",
           "As a form of intellectual conservation",
+          "As sentimental antiquarianism",
           "As a waste of money",
           "As unnecessary"
         ],
-        "answer": 1
+        "answer": 0
       }
     ]
   },
@@ -1062,31 +1062,31 @@
         "q": "When do students meet at the English Corner?",
         "options": [
           "Every morning",
-          "Every Thursday afternoon",
+          "On weekends",
           "Every Friday evening",
-          "On weekends"
+          "Every Thursday afternoon"
         ],
-        "answer": 1
+        "answer": 3
       },
       {
         "q": "What did the teacher give each person?",
         "options": [
-          "A book",
-          "A prize",
           "A card with a question",
+          "A prize",
+          "A book",
           "A notebook"
         ],
-        "answer": 2
+        "answer": 0
       },
       {
         "q": "How did the writer feel at the end?",
         "options": [
           "Afraid",
-          "Bored",
           "Not afraid to speak",
+          "Bored",
           "Tired"
         ],
-        "answer": 2
+        "answer": 1
       }
     ]
   },
@@ -1123,21 +1123,21 @@
         "q": "Where does the teacher live?",
         "options": [
           "In Beijing",
-          "In London",
           "In five cities",
+          "In London",
           "Online"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "What problem does the writer mention?",
         "options": [
           "The class is too early",
           "There are too many students",
-          "The internet is sometimes slow",
-          "The videos are too long"
+          "The videos are too long",
+          "The internet is sometimes slow"
         ],
-        "answer": 2
+        "answer": 3
       }
     ]
   },
@@ -1173,12 +1173,12 @@
       {
         "q": "How much of the world’s food is never eaten?",
         "options": [
-          "About one tenth",
           "About one third",
+          "About one tenth",
           "About half",
           "Almost all"
         ],
-        "answer": 1
+        "answer": 0
       },
       {
         "q": "What does the text suggest families do?",
@@ -1194,11 +1194,11 @@
         "q": "Why can shops sell “ugly” vegetables?",
         "options": [
           "They are cheaper to grow",
-          "They taste the same as perfect ones",
           "They last longer",
+          "They taste the same as perfect ones",
           "They look funny"
         ],
-        "answer": 1
+        "answer": 2
       }
     ]
   },
@@ -1235,21 +1235,21 @@
         "q": "What do some libraries lend besides books?",
         "options": [
           "Cars",
-          "Tools and toys",
+          "Food",
           "Money",
-          "Food"
+          "Tools and toys"
         ],
-        "answer": 1
+        "answer": 3
       },
       {
         "q": "Who uses the library as a safe study space, according to the text?",
         "options": [
-          "Teachers",
-          "Librarians",
           "Students without quiet space at home",
+          "Librarians",
+          "Teachers",
           "Musicians"
         ],
-        "answer": 2
+        "answer": 0
       },
       {
         "q": "How has the librarian’s job changed?",
@@ -1296,31 +1296,31 @@
         "q": "What is urban farming?",
         "options": [
           "Growing food in the countryside",
-          "Growing food inside cities",
           "Selling food in cities",
+          "Growing food inside cities",
           "Importing food"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "What advantage do supporters mention?",
         "options": [
           "Cheaper seeds",
-          "Less transport pollution",
+          "Better weather",
           "More farmland",
-          "Better weather"
+          "Less transport pollution"
         ],
-        "answer": 1
+        "answer": 3
       },
       {
         "q": "What problem do critics raise?",
         "options": [
-          "The food tastes bad",
           "Lighting uses much electricity",
+          "The food tastes bad",
           "Cities are too crowded",
           "People dislike vegetables"
         ],
-        "answer": 1
+        "answer": 0
       }
     ]
   },
@@ -1367,21 +1367,21 @@
         "q": "Why does an interruption cost extra time?",
         "options": [
           "Phones are slow",
-          "The brain needs time to refocus",
           "Offices are noisy",
+          "The brain needs time to refocus",
           "Tasks are boring"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "Which method is recommended?",
         "options": [
           "Work without any breaks",
-          "Keep the phone in another room",
+          "Start with three-hour sessions",
           "Answer messages at once",
-          "Start with three-hour sessions"
+          "Keep the phone in another room"
         ],
-        "answer": 1
+        "answer": 3
       }
     ]
   },
@@ -1417,12 +1417,12 @@
       {
         "q": "What causes coral bleaching?",
         "options": [
-          "Pollution from ships",
           "Warming seas",
+          "Pollution from ships",
           "Too many fish",
           "Lack of sunlight"
         ],
-        "answer": 1
+        "answer": 0
       },
       {
         "q": "What are “super corals”?",
@@ -1479,21 +1479,21 @@
         "q": "What do recommendation algorithms predict?",
         "options": [
           "The weather",
-          "What will hold your attention",
+          "Your age",
           "Your location",
-          "Your age"
+          "What will hold your attention"
         ],
-        "answer": 1
+        "answer": 3
       },
       {
         "q": "Why do critics say our tastes narrow?",
         "options": [
-          "There is less content than before",
           "Systems show more of what we already like",
+          "There is less content than before",
           "People stop creating",
           "Songs are getting shorter"
         ],
-        "answer": 1
+        "answer": 0
       },
       {
         "q": "What does the writer suggest we do?",
@@ -1540,31 +1540,31 @@
         "q": "How has machine translation changed?",
         "options": [
           "It is funnier than before",
-          "It now handles routine documents accurately",
           "It has stopped improving",
+          "It now handles routine documents accurately",
           "It only works on menus"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "According to the text, high-level translation is:",
         "options": [
           "Word substitution",
-          "The negotiation of worlds",
+          "Always literal",
           "Copying grammar",
-          "Always literal"
+          "The negotiation of worlds"
         ],
-        "answer": 1
+        "answer": 3
       },
       {
         "q": "What should translators treat the machine as?",
         "options": [
-          "A master",
-          "An enemy",
           "An intern to be supervised",
+          "An enemy",
+          "A master",
           "A dictionary"
         ],
-        "answer": 2
+        "answer": 0
       }
     ]
   },
@@ -1601,31 +1601,31 @@
         "q": "What is being sold in the attention economy?",
         "options": [
           "Phones",
-          "Apps",
           "Your attention",
+          "Apps",
           "Advertisements themselves"
         ],
-        "answer": 2
+        "answer": 1
       },
       {
         "q": "Why are variable rewards effective?",
         "options": [
           "They are always pleasant",
-          "Their unpredictability hooks us",
           "They cost nothing",
+          "Their unpredictability hooks us",
           "They arrive on time"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "What is the writer’s practical question?",
         "options": [
           "Whether to pay for apps",
-          "Whether you choose what you pay with",
+          "Whether advertisers are honest",
           "Whether to buy a new phone",
-          "Whether advertisers are honest"
+          "Whether you choose what you pay with"
         ],
-        "answer": 1
+        "answer": 3
       }
     ]
   },
@@ -1661,12 +1661,12 @@
       {
         "q": "What chemical does enjoyable music release?",
         "options": [
-          "Insulin",
           "Dopamine",
+          "Insulin",
           "Adrenaline",
           "Caffeine"
         ],
-        "answer": 1
+        "answer": 0
       },
       {
         "q": "Why is instrumental music better for focused study?",
@@ -1682,11 +1682,11 @@
         "q": "How can singing help pronunciation?",
         "options": [
           "It makes you louder",
-          "It trains your mouth without embarrassment",
           "It improves your singing voice",
+          "It trains your mouth without embarrassment",
           "It teaches grammar"
         ],
-        "answer": 1
+        "answer": 2
       }
     ]
   },
@@ -1723,21 +1723,21 @@
         "q": "What happened to productivity in the trials?",
         "options": [
           "It fell sharply",
-          "It stayed level or rose",
+          "It was not measured",
           "It disappeared",
-          "It was not measured"
+          "It stayed level or rose"
         ],
-        "answer": 1
+        "answer": 3
       },
       {
         "q": "Why do workers focus more?",
         "options": [
-          "They are paid extra",
           "The shorter week pushes them to cut waste",
+          "They are paid extra",
           "They have no meetings",
           "Managers watch them"
         ],
-        "answer": 1
+        "answer": 0
       },
       {
         "q": "What assumption is challenged?",
@@ -1784,31 +1784,31 @@
         "q": "What do researchers conclude about polyglots’ gift?",
         "options": [
           "It is the main factor",
-          "Habits matter more than rare gifts",
           "It cannot be studied",
+          "Habits matter more than rare gifts",
           "It only helps children"
         ],
-        "answer": 1
+        "answer": 2
       },
       {
         "q": "What kind of input do they seek?",
         "options": [
           "Far above their level",
-          "Just above their level",
+          "Only textbooks",
           "Only easy material",
-          "Only textbooks"
+          "Just above their level"
         ],
-        "answer": 1
+        "answer": 3
       },
       {
         "q": "What role does pleasure play?",
         "options": [
-          "It distracts learners",
           "It anchors the language so discipline follows",
+          "It distracts learners",
           "It is unnecessary",
           "It replaces practice"
         ],
-        "answer": 1
+        "answer": 0
       }
     ]
   },
@@ -1866,10 +1866,10 @@
         "options": [
           "One on sale",
           "One made abroad",
-          "The one already in your wardrobe",
-          "A cotton one"
+          "A cotton one",
+          "The one already in your wardrobe"
         ],
-        "answer": 2
+        "answer": 3
       }
     ]
   },
@@ -1905,22 +1905,22 @@
       {
         "q": "What advantage does the writer value most?",
         "options": [
-          "The AI is free",
           "The AI never loses patience",
+          "The AI is free",
           "The AI tells stories",
           "The AI is human"
         ],
-        "answer": 1
+        "answer": 0
       },
       {
         "q": "What can the AI NOT do well, according to the text?",
         "options": [
           "Correct grammar",
-          "Remember weak points",
           "Share cultural stories like a teacher",
+          "Remember weak points",
           "Design exercises"
         ],
-        "answer": 2
+        "answer": 1
       },
       {
         "q": "How does the writer use AI and teacher together?",
@@ -1929,6 +1929,250 @@
           "Only uses the teacher",
           "AI for daily drills, teacher for subtle guidance",
           "Uses neither"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "r-article-write-it-down",
+    "title": "Why Remote Teams Write Everything Down",
+    "type": "article",
+    "skill": "reading",
+    "level": "B2",
+    "source": "English-study original",
+    "summary": "远程团队为什么要建立写作文化：会前备忘录、会后纪要与它带来的公平。",
+    "body": "When a team shares an office, a lot of information travels without anyone writing it down. You overhear a conversation, you notice that a colleague looks worried, you ask a quick question over coffee. When the same team works remotely, that invisible flow of information disappears. This is why the most effective remote teams develop a strong writing culture. In these teams, decisions are recorded in shared documents rather than lost in video calls. Before a meeting, someone circulates a short memo explaining the problem, the options and a recommendation, so people can think in advance instead of reacting on the spot. After the meeting, a brief summary lists what was agreed and who is responsible for each next step. Writing things down has benefits beyond remote work. A written proposal forces its author to clarify vague ideas, and it gives quieter colleagues, or those working in a second language, an equal chance to contribute. It also creates a record that new team members can read instead of interrupting others with the same questions. The cost is time: good writing is slow. But teams that invest in it usually find that they need fewer meetings, and the meetings they do hold are shorter and more focused.",
+    "wordCount": 206,
+    "glossary": [
+      {
+        "word": "overhear",
+        "meaning": "无意中听到"
+      },
+      {
+        "word": "circulate",
+        "meaning": "传阅，分发"
+      },
+      {
+        "word": "on the spot",
+        "meaning": "当场"
+      },
+      {
+        "word": "vague",
+        "meaning": "含糊的"
+      }
+    ],
+    "questions": [
+      {
+        "q": "What disappears when a team starts working remotely?",
+        "options": [
+          "Video calls",
+          "Responsibility for next steps",
+          "Shared documents",
+          "The informal flow of information"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "Why is a memo shared before the meeting?",
+        "options": [
+          "To let people think in advance",
+          "To replace the meeting entirely",
+          "To record who was absent",
+          "To check colleagues' grammar"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Which people does the writer say benefit from a writing culture?",
+        "options": [
+          "Only managers",
+          "Quieter colleagues and second-language speakers",
+          "People who dislike reading",
+          "Clients outside the company"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "r-article-ai-summary",
+    "title": "Can You Trust an AI Summary?",
+    "type": "article",
+    "skill": "reading",
+    "level": "B2",
+    "source": "English-study original",
+    "summary": "AI 摘要的常见遗漏和错误，以及什么时候必须回到原文。",
+    "body": "AI tools can now summarise a forty-page report in seconds, and many professionals use them every day. The summaries are usually fluent and well organised, which is exactly why they can be dangerous: a confident tone makes it easy to forget that the tool may have left out something important, or even added a detail that was never in the original. These errors are not random. Summaries tend to keep what is repeated and drop what is mentioned only once, even when that single mention is a crucial exception, such as a condition attached to a contract or a warning in the final paragraph of a study. Numbers are another weak spot: a percentage can be attached to the wrong group or rounded in a misleading way. None of this means you should stop using AI summaries. It means you should treat them as a map, not as the territory itself. Ask the tool to quote the exact sentences that support each key point, so you can check them against the source. For decisions that really matter, read the sections the summary relies on, and pay special attention to anything that sounds surprising. A good rule is simple: the more a wrong decision would cost, the more of the original you should read yourself.",
+    "wordCount": 215,
+    "glossary": [
+      {
+        "word": "fluent",
+        "meaning": "流畅的"
+      },
+      {
+        "word": "crucial",
+        "meaning": "关键的"
+      },
+      {
+        "word": "misleading",
+        "meaning": "误导性的"
+      },
+      {
+        "word": "territory",
+        "meaning": "领土；（此处）真实情况本身"
+      }
+    ],
+    "questions": [
+      {
+        "q": "Why does the writer say fluent summaries can be dangerous?",
+        "options": [
+          "They are always too long",
+          "They cannot handle numbers at all",
+          "Their confident tone can hide omissions and errors",
+          "They only work for contracts"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What kind of information is a summary most likely to drop?",
+        "options": [
+          "Points that are repeated many times",
+          "The title of the report",
+          "The author's name",
+          "An important point mentioned only once"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What does the writer recommend for high-stakes decisions?",
+        "options": [
+          "Read the relevant parts of the original yourself",
+          "Ask a second AI tool",
+          "Avoid AI tools completely",
+          "Only read the conclusion"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "r-article-survivorship-bias",
+    "title": "The Silent Graveyard: Survivorship Bias",
+    "type": "article",
+    "skill": "reading",
+    "level": "C1",
+    "source": "English-study original",
+    "summary": "幸存者偏差：从二战轰炸机到商业书与基金业绩，只看“活下来的样本”会得出错误结论。",
+    "body": "During the Second World War, military analysts examined bombers returning from missions and recorded where they had been hit. The obvious recommendation was to add armour where the bullet holes clustered. The statistician Abraham Wald argued the opposite: the planes that came back had, by definition, survived those hits. The places without holes were where the missing planes had been struck, and that was where the armour belonged. Wald's insight names a trap that remains remarkably easy to fall into. When we study only the cases that made it through some filter, such as successful companies, best-selling authors or funds that are still open, we mistake the filter for the cause. Business books dissect the habits of thriving firms without asking how many failed firms shared exactly the same habits. Investment funds that perform badly are often closed or merged, so the funds still advertising their long-term record look better than the average investor's actual experience. The remedy is not cynicism but a disciplined question: what does the full population look like, including the cases I cannot see? In practice, this means seeking out data on failures, asking how a sample was selected, and being suspicious of any story in which every observed example seems to confirm the lesson. The graveyard is silent, but it is usually far larger than the hall of fame.",
+    "wordCount": 226,
+    "glossary": [
+      {
+        "word": "cluster",
+        "meaning": "聚集"
+      },
+      {
+        "word": "by definition",
+        "meaning": "按定义，必然"
+      },
+      {
+        "word": "dissect",
+        "meaning": "剖析"
+      },
+      {
+        "word": "cynicism",
+        "meaning": "一概怀疑的态度"
+      }
+    ],
+    "questions": [
+      {
+        "q": "Why did Wald recommend armouring the areas without bullet holes?",
+        "options": [
+          "Those areas were easier to repair",
+          "Planes hit there were the ones that did not return",
+          "The military had extra armour for those areas",
+          "Bullets never reached those areas"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "According to the passage, why do surviving investment funds look better than investors' actual experience?",
+        "options": [
+          "They charge lower fees",
+          "They invest only in successful companies",
+          "Poorly performing funds are often closed or merged and drop out of the record",
+          "They are run by statisticians"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "What does the writer propose as the remedy?",
+        "options": [
+          "Ignoring successful examples entirely",
+          "Trusting only business books",
+          "Studying only failures",
+          "Asking what the whole population looks like, including unseen cases"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "id": "r-article-automation-paradox",
+    "title": "The Paradox of Automation",
+    "type": "article",
+    "skill": "reading",
+    "level": "C1",
+    "source": "English-study original",
+    "summary": "自动化悖论：系统越可靠，人越缺乏练习；AI 时代的办公室正在重演同样的问题。",
+    "body": "In 1983 the psychologist Lisanne Bainbridge published a short paper with a memorable title, \"Ironies of Automation\". Her argument was that the more reliable an automated system becomes, the harder the remaining human job gets. Operators are left to handle only the rare, unexpected situations the machine cannot manage, yet because the machine handles everything else, they get very little practice. When the crisis finally arrives, they must take over a system they have mostly watched rather than run. Four decades later, the same irony is reappearing in offices. AI assistants now draft emails, write code and summarise meetings. Most of the time the output is good enough, so people gradually stop doing these tasks themselves. The risk is not that the AI makes frequent mistakes, but that its mistakes become rarer and subtler while the human ability to notice them quietly erodes. Organisations that take this seriously do several things. They keep people involved in meaningful parts of the work rather than reducing them to rubber stamps. They deliberately practise the skills that automation has made rare, much as pilots train in simulators for failures they hope never to meet. And they design tools that show not just an answer but the reasoning and evidence behind it, so that checking is genuinely possible. Automation, in short, does not remove the need for human expertise; it changes when, and how urgently, that expertise is needed.",
+    "wordCount": 234,
+    "glossary": [
+      {
+        "word": "irony",
+        "meaning": "反讽，事与愿违"
+      },
+      {
+        "word": "erode",
+        "meaning": "侵蚀，逐渐削弱"
+      },
+      {
+        "word": "rubber stamp",
+        "meaning": "橡皮图章（只走形式的批准）"
+      },
+      {
+        "word": "deliberately",
+        "meaning": "刻意地"
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is the main irony Bainbridge described?",
+        "options": [
+          "Reliable automation leaves humans with rare, difficult tasks they seldom practise",
+          "Machines become more expensive as they improve",
+          "Operators refuse to use automated systems",
+          "Automation always fails during a crisis"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What does the writer see as the main risk of AI assistants at work?",
+        "options": [
+          "They make frequent, obvious errors",
+          "Their rarer, subtler errors go unnoticed as human skills erode",
+          "They are too slow to be useful",
+          "They cannot write code"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why does the writer mention pilots training in simulators?",
+        "options": [
+          "To show that flying is safer than office work",
+          "To argue that AI should replace pilots",
+          "As an example of deliberately practising skills that automation has made rare",
+          "To describe a new AI product"
         ],
         "answer": 2
       }
