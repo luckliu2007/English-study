@@ -4,6 +4,18 @@
 
 ## [Unreleased]
 
+## [2.5.0] - 2026-10-22 · 职场英语与考试提示词更新
+
+### 新增
+
+- `docs/workplace-english.md`：邮件、会议、演示、协商四个场景的高频句式、AI 练习方式、学习资源和 4 周练习计划
+- `content/prompts.json` 新增 2 条：`p-speaking-meeting-roleplay`（职场会议角色扮演）、`p-writing-email-polish`（商务邮件批改），共 30 条
+
+### 修复
+
+- `p-exam-toefl-writing`：原提示词按已于 2023 年取消的“独立写作”题型和旧评分标准打分，改为按题型的官方评分指南、在 2026 起的 1–6 分制下估分
+- `p-exam-band-diagnostic`：增加托福 1–6 分制换算
+
 ## [2.4.0] - 2026-10-21 · 全面规划升级
 
 ### 新增

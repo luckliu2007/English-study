@@ -28,6 +28,7 @@
 | 精选合集 | [awesome-lists.md](awesome-lists.md) |
 | 中国环境友好资源 | [china-friendly.md](china-friendly.md) |
 | 考试 | [exams.md](exams.md) |
+| 职场英语 | [workplace-english.md](workplace-english.md) |
 | 程序员英语 | [developer-english.md](developer-english.md) |
 | 工具 | [tools.md](tools.md) |
 
