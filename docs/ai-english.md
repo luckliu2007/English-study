@@ -16,6 +16,21 @@ AI 对话工具是目前最容易获得的英语陪练：无限耐心、随时�
 
 选择建议：国内网络优先用 DeepSeek / Kimi / 豆包 / 通义；能稳定访问海外服务再考虑 ChatGPT / Claude / Gemini。工具之间差别远小于「每天是否真的开口和动笔」。
 
+## 2025–2026 新功能：AI 的“学习模式”
+
+2025 年夏天，三家主流 AI 助手先后推出了专门的学习模式：不直接给答案，而是像老师一样提问、引导、出题。用来学英语，比普通对话更不容易“替你做完”。
+
+| 功能 | 是什么 | 学英语怎么用 | 来源 |
+| --- | --- | --- | --- |
+| ChatGPT 学习模式（Study Mode） | 2025-07 推出，用苏格拉底式提问引导思考 | 让它就一篇文章逐段提问检查理解，或针对你的错句一步步引导你自己改对 | [TechCrunch 报道](https://techcrunch.com/2025/08/06/google-takes-on-chatgpts-study-mode-with-new-guided-learning-tool-in-gemini/) |
+| Gemini 引导式学习（Guided Learning） | 2025-08 推出，基于 Google 面向教育的 LearnLM 模型，一步步讲解，可附图片、视频和小测验 | 学语法点时让它先出题再讲解；复习单元后让它生成小测验 | [Google 官方博客](https://blog.google/products-and-platforms/products/education/guided-learning/) |
+| Claude 学习模式（Learning mode） | 引导学生自己推理，而不是直接给答案 | 写作时让它只提问题、不改稿，逼自己想清楚论点和措辞 | [Anthropic 官方介绍](https://www.anthropic.com/news/introducing-claude-for-education) |
+| Google 翻译“练习”功能 | 按水平和目标生成听力、口语练习场景 | **目前面向西班牙语、法语、葡萄牙语使用者练英语**，中文用户是否可用以 App 为准 | [Google 官方博客](https://blog.google/products-and-platforms/products/translate/language-learning-live-translate/) |
+
+功能和开放范围变化很快，具体以各家 App 为准。国内网络环境下，可以把下面的提示词发给任何 AI 助手，模拟同样的“学习模式”：
+
+> Act as my English tutor in learning mode. Don't give me the answer directly. Ask me one question at a time, wait for my reply, give a hint if I'm stuck, and only show the correct version after I've tried twice.
+
 ## 基本原则
 
 1. 每次只练一个目标：一次对话只练口语、只改作文或只学词汇，不要混着来。

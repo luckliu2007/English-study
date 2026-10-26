@@ -4104,5 +4104,257 @@
       "可数",
       "文学"
     ]
+  },
+  {
+    "id": "v-agent",
+    "word": "agent",
+    "phonetic": "/ˈeɪdʒənt/",
+    "pos": "n.",
+    "meaning": "代理人；（AI）智能体",
+    "example": "An AI agent can book a meeting by checking everyone's calendar.",
+    "level": "B1",
+    "skill": "vocab",
+    "tags": [
+      "AI",
+      "科技"
+    ]
+  },
+  {
+    "id": "v-hallucination",
+    "word": "hallucination",
+    "phonetic": "/həˌluːsɪˈneɪʃn/",
+    "pos": "n.",
+    "meaning": "幻觉；（AI）编造不实信息",
+    "example": "Always check the sources, because a chatbot's hallucination can sound very convincing.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "AI",
+      "科技"
+    ]
+  },
+  {
+    "id": "v-prompt",
+    "word": "prompt",
+    "phonetic": "/prɒmpt/",
+    "pos": "n.",
+    "meaning": "提示；（AI）提示词",
+    "example": "Write a clear prompt that tells the model who the audience is.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "AI",
+      "科技"
+    ]
+  },
+  {
+    "id": "v-token",
+    "word": "token",
+    "phonetic": "/ˈtəʊkən/",
+    "pos": "n.",
+    "meaning": "标志；（AI）词元，模型处理文本的基本单位",
+    "example": "Longer documents use more tokens, so they cost more to process.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "AI",
+      "科技"
+    ]
+  },
+  {
+    "id": "v-inference",
+    "word": "inference",
+    "phonetic": "/ˈɪnfərəns/",
+    "pos": "n.",
+    "meaning": "推断；（AI）推理，即运行模型得到输出",
+    "example": "The model is cheap to train but expensive at inference time.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "AI",
+      "科技"
+    ]
+  },
+  {
+    "id": "v-latency",
+    "word": "latency",
+    "phonetic": "/ˈleɪtənsi/",
+    "pos": "n.",
+    "meaning": "延迟",
+    "example": "Low latency matters in a voice assistant, or the conversation feels unnatural.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "AI",
+      "科技"
+    ]
+  },
+  {
+    "id": "v-benchmark",
+    "word": "benchmark",
+    "phonetic": "/ˈbentʃmɑːk/",
+    "pos": "n.",
+    "meaning": "基准；基准测试",
+    "example": "A high score on a public benchmark does not guarantee good results on your own data.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "AI",
+      "科技"
+    ]
+  },
+  {
+    "id": "v-guardrail",
+    "word": "guardrail",
+    "phonetic": "/ˈɡɑːdreɪl/",
+    "pos": "n.",
+    "meaning": "护栏；（AI）安全约束",
+    "example": "The company added guardrails so the assistant cannot send emails without approval.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "AI",
+      "科技"
+    ]
+  },
+  {
+    "id": "v-alignment",
+    "word": "alignment",
+    "phonetic": "/əˈlaɪnmənt/",
+    "pos": "n.",
+    "meaning": "一致；（AI）对齐，使系统符合人的意图",
+    "example": "Researchers work on alignment so that AI systems follow human intentions.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "AI",
+      "科技"
+    ]
+  },
+  {
+    "id": "v-multimodal",
+    "word": "multimodal",
+    "phonetic": "/ˌmʌltiˈməʊdl/",
+    "pos": "adj.",
+    "meaning": "多模态的",
+    "example": "A multimodal model can understand both images and text.",
+    "level": "C2",
+    "skill": "vocab",
+    "tags": [
+      "AI",
+      "科技"
+    ]
+  },
+  {
+    "id": "v-fine-tune",
+    "word": "fine-tune",
+    "phonetic": "/ˌfaɪn ˈtjuːn/",
+    "pos": "v.",
+    "meaning": "微调",
+    "example": "We fine-tuned the model on our customer support conversations.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "AI",
+      "科技"
+    ]
+  },
+  {
+    "id": "v-deploy",
+    "word": "deploy",
+    "phonetic": "/dɪˈplɔɪ/",
+    "pos": "v.",
+    "meaning": "部署；调配",
+    "example": "The team plans to deploy the new system next month.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "AI",
+      "科技"
+    ]
+  },
+  {
+    "id": "v-bias",
+    "word": "bias",
+    "phonetic": "/ˈbaɪəs/",
+    "pos": "n.",
+    "meaning": "偏见；偏差",
+    "example": "Training data can introduce bias into a model's decisions.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "AI",
+      "科技"
+    ]
+  },
+  {
+    "id": "v-transparency",
+    "word": "transparency",
+    "phonetic": "/trænsˈpærənsi/",
+    "pos": "n.",
+    "meaning": "透明度",
+    "example": "Customers expect transparency about how their data is used.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "AI",
+      "科技"
+    ]
+  },
+  {
+    "id": "v-accountability",
+    "word": "accountability",
+    "phonetic": "/əˌkaʊntəˈbɪləti/",
+    "pos": "n.",
+    "meaning": "问责；责任",
+    "example": "Clear accountability means someone is responsible when an AI system makes a mistake.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "AI",
+      "科技"
+    ]
+  },
+  {
+    "id": "v-autonomous",
+    "word": "autonomous",
+    "phonetic": "/ɔːˈtɒnəməs/",
+    "pos": "adj.",
+    "meaning": "自主的",
+    "example": "Autonomous agents can complete tasks without step-by-step instructions.",
+    "level": "C1",
+    "skill": "vocab",
+    "tags": [
+      "AI",
+      "科技"
+    ]
+  },
+  {
+    "id": "v-workflow",
+    "word": "workflow",
+    "phonetic": "/ˈwɜːkfləʊ/",
+    "pos": "n.",
+    "meaning": "工作流程",
+    "example": "AI works best when it is built into an existing workflow.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "AI",
+      "科技"
+    ]
+  },
+  {
+    "id": "v-dataset",
+    "word": "dataset",
+    "phonetic": "/ˈdeɪtəset/",
+    "pos": "n.",
+    "meaning": "数据集",
+    "example": "The dataset includes ten thousand labelled customer reviews.",
+    "level": "B2",
+    "skill": "vocab",
+    "tags": [
+      "AI",
+      "科技"
+    ]
   }
 ]

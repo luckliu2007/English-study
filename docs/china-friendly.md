@@ -24,6 +24,13 @@
 | [earthworm](https://github.com/cuixueshe/earthworm) | 用连词成句练语序和表达，比单纯背词更接近输出 |
 | [everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 中文说明完整，适合建立朗读、复述、精读训练体系 |
 
+## 官方免费课程平台
+
+| 平台 | 用法 |
+| --- | --- |
+| [国家智慧教育公共服务平台](https://www.smartedu.cn/) | 教育部主办的国家平台，高等教育板块汇集大量高校在线课程，可在“智慧高教”中搜索“大学英语”或具体课程名；考试服务也覆盖四六级 |
+| [中国大学 MOOC](https://www.icourse163.org/) | 国内高校的大学英语、学术英语、英语写作和口语课程，大多可以免费学习 |
+
 ## 国内环境使用建议
 
 1. 听力资源优先选可下载、可单句循环、有文本的工具。

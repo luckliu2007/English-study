@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
   "version": "2026.08.06.1",
-  "generatedAt": "2026-10-22T07:23:27.764Z",
+  "generatedAt": "2026-10-26T15:39:23.568Z",
   "repo": "luckliu2007/English-study",
   "branch": "main",
   "files": {
     "vocabulary.json": {
-      "sha": "93aa567841ec38eaca63d60c5cf8941430fc18578b0f6e4d82102967f5cfbbf4",
-      "count": 304
+      "sha": "df0e74353d781905456d6ceaac0c061e112e05e4984ee15f679a9929fbccde07",
+      "count": 322
     },
     "reading.json": {
       "sha": "657386dcfb6406e1c487f6eb57d9996e90e2c996d014d32f89abfce53911429a",
       "count": 55
     },
     "quizzes.json": {
-      "sha": "d499c6d590675bed91a1807b6f7ad91f56e5eecbe26118f61b6324a97038950a",
-      "count": 12
+      "sha": "24e8966e6aa251ba832c18bdf7ac4481e9b8054d9f46afc357009a9557c3f1f1",
+      "count": 14
     },
     "prompts.json": {
       "sha": "cb22df6f58e45672e3ddb59d5b17f940f765af4580d35f3a23b61984114c7879",
