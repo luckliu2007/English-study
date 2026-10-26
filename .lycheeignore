@@ -14,6 +14,10 @@ https://.*\.britishcouncil\.org/.*
 https://www\.talkenglish\.com/.*
 https://www\.cambridge\.org/.*
 https://www\.coe\.int/.*
+# ETS：2026-10 起对检查工具报 HTTP/2 协议错误，HTTP/1.1 和浏览器访问正常
+https://www\.ets\.org/.*
+# English e-Reader：Cloudflare 防护下自动化请求超时；网络存档显示 2026-10-13 仍正常
+https://english-e-reader\.net/.*
 
 # Academic Phrasebank（曼彻斯特大学）：资源稳定、地址未变，但 2026-10 起频繁间歇性无法连接，
 # 为避免阻塞自动合并暂不检查；若长期不可用再考虑替换。

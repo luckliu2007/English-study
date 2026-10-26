@@ -36,6 +36,7 @@
 
 | 方法 | 页面 |
 | --- | --- |
+| 学习方法总览（按证据强度） | [learning-science.md](learning-science.md) |
 | 主动回忆法 | [active-recall.md](active-recall.md) |
 | 康奈尔笔记法 | [cornell-notes.md](cornell-notes.md) |
 | 考试焦虑应对 | [exam-anxiety.md](exam-anxiety.md) |

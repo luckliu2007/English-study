@@ -564,5 +564,121 @@
         "answer": 0
       }
     ]
+  },
+  {
+    "id": "q-ai-vocab-b2",
+    "title": "AI 时代高频词 · B2–C1",
+    "skill": "quiz",
+    "level": "B2",
+    "questions": [
+      {
+        "q": "模型“编造”出看似合理但不真实的信息，英文叫：",
+        "options": [
+          "hallucination",
+          "inference",
+          "latency",
+          "alignment"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "用公司自己的对话数据“微调”模型：We ___ the model on our data.",
+        "options": [
+          "deployed",
+          "fine-tuned",
+          "benchmarked",
+          "prompted"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "语音助手反应慢、对话不自然，主要问题是：",
+        "options": [
+          "bias",
+          "transparency",
+          "latency",
+          "dataset"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "“防止 AI 未经批准就发邮件的安全约束”最接近：",
+        "options": [
+          "workflow",
+          "token",
+          "benchmark",
+          "guardrail"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "A high score on a public ___ does not guarantee good results on your own data.",
+        "options": [
+          "benchmark",
+          "agent",
+          "prompt",
+          "bias"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "q-workplace-b1",
+    "title": "职场英语句式 · B1",
+    "skill": "quiz",
+    "level": "B1",
+    "questions": [
+      {
+        "q": "邮件里礼貌地请对方周五前确认，最自然的是：",
+        "options": [
+          "You must confirm on Friday.",
+          "Could you please confirm by Friday?",
+          "Confirm it Friday, OK?",
+          "Friday is when you confirm."
+        ],
+        "answer": 1
+      },
+      {
+        "q": "开会时想确认自己理解对了，可以说：",
+        "options": [
+          "I don't understand you.",
+          "Say it again.",
+          "Just to make sure I understand, you're saying...",
+          "What?"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "演示开场介绍要讲的内容：",
+        "options": [
+          "Let's begin with nothing.",
+          "I talk now.",
+          "Here is slide.",
+          "Today I'll walk you through three things."
+        ],
+        "answer": 3
+      },
+      {
+        "q": "协商时拒绝对方，但给出替代方案：",
+        "options": [
+          "That doesn't quite work for us, but how about...?",
+          "No.",
+          "We refuse.",
+          "Impossible, goodbye."
+        ],
+        "answer": 0
+      },
+      {
+        "q": "想把一个问题留到会后再单独谈：",
+        "options": [
+          "Stop talking about it.",
+          "Can we take it offline?",
+          "This question is bad.",
+          "Let's forget it forever."
+        ],
+        "answer": 1
+      }
+    ]
   }
 ]

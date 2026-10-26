@@ -4,6 +4,17 @@
 
 ## [Unreleased]
 
+## [2.7.0] - 2026-10-26 · AI 学习模式、权威词表、学习科学、AI 时代词汇
+
+### 新增
+
+- `docs/learning-science.md`：按证据强度整理学习方法（Dunlosky 等 2013 综述中评为高效的练习测试与分散练习、评为低效的总结 / 划线 / 重读；The Learning Scientists 六大策略），并对应到本仓库各方法页
+- `docs/ai-english.md` 新增“AI 的学习模式”：ChatGPT 学习模式、Gemini 引导式学习、Claude 学习模式、Google 翻译练习功能（注明目前面向西 / 法 / 葡语使用者），附通用的“学习模式”提示词
+- `docs/vocabulary-grammar.md` 重写：Oxford 3000/5000、NGSL 系列（含 NAWL、BSL、TSL、NGSL-Spoken）分级词表，Anki FSRS 与期望记忆率设置
+- `docs/exams.md` 新增 Duolingo English Test；`docs/china-friendly.md` 新增国家智慧教育公共服务平台、中国大学 MOOC
+- `content/vocabulary.json` 新增 18 个“AI 时代高频词”（agent、hallucination、prompt、token、inference、latency、benchmark、guardrail 等，标签 `AI`），共 322 词
+- `content/quizzes.json` 新增 `q-ai-vocab-b2`（AI 时代高频词）、`q-workplace-b1`（职场英语句式），共 14 组
+
 ## [2.6.0] - 2026-10-22 · 阅读题答案均衡、托福官方练习、AI 语音陪练
 
 ### 新增

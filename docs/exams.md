@@ -27,6 +27,12 @@
 | [官方练习题 PDF（Practice Test 1）](https://www.ets.org/content/dam/ets-india/pdfs/toefl/toefl-ibt-full-length-practice-test-1.pdf) | ETS 发布的完整练习题，与 2026-01-21 起的考试对齐；为纸面使用做了改编，不完全等同机考 |
 | [TST Prep](https://tstprep.com/) | 托福练习和备考策略（选用第三方材料时，确认已按 2026 新版题型和分制更新） |
 
+## Duolingo English Test（多邻国英语测试）
+
+| 资源 | 说明 |
+| --- | --- |
+| [Duolingo English Test 官网](https://englishtest.duolingo.com/) | 在线居家考试、成绩满分 160，已被大量海外院校接受。近年题型有多次调整（据备考机构报道，2025 年起新增 AI 互动口语等题型），报考前以官网最新说明为准，并确认目标院校是否接受 |
+
 ## 大学英语四六级
 
 | 资源 | 说明 |
