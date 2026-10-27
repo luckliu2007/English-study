@@ -4,6 +4,21 @@
 
 ## [Unreleased]
 
+## [2.8.0] - 2026-10-27 · 英语学习的研究证据、词汇量自测、考试动态
+
+### 新增
+
+- `docs/sla-evidence.md`：二语习得研究证据（2026-10-27 核实原文）。词汇覆盖率：阅读约 98%、听力约 95%（Hu & Nation 2000，Nation 2006，van Zeeland & Schmitt 2013，Laufer & Ravenhorst-Kalovski 2010）；元分析：泛读（Jeon & Day 2016）、间隔练习（Kim & Webb 2022）、口头纠错（Lyster & Saito 2010）、发音训练（Lee、Jang、Plonsky 2015）、视频输入（Sutton & Webb 2026）、AI 对话练口语（Hou & Min 2025）、生成式 AI 聊天机器人（Li、Wang、Yang 2025）；词汇量与材料难度工具（Paul Nation 词汇测试英汉双语版、Lextutor VocabProfile、《中国英语能力等级量表》）
+- `docs/listening.md` 新增“选材难度”（词汇覆盖率、《中国英语能力等级量表》的语速界定、视频类型）；`docs/vocabulary-grammar.md` 新增“先测：你认识多少词”；`docs/exams.md` 新增“能力标准”（《中国英语能力等级量表》、CEFR）
+- `templates/placement-test.md` 新增“词汇量与等级自评”
+- `content/reading.json` 新增 2 篇原创文章：A2《Easy Books Make Strong Readers》、B1《One New Word in Fifty》，以及导航条目 `r-sla-evidence`
+- `content/quizzes.json` 新增 `q-evidence-b1`（英语学习的研究证据），共 15 组；`content/prompts.json` 新增 `p-tutor-self-correction`（先提示、后纠正的反馈方式），共 31 条
+
+### 更新
+
+- `docs/exams.md`：雅思中国大陆考点已全部机考（UKVI 类 2026-07-01 起、普通雅思 2026-09-01 起）；四六级 2026 年下半年笔试、口试日期
+- `docs/reading.md`、`docs/speaking.md`、`docs/ai-english.md`、`docs/learning-science.md`、`docs/adaptive-plan.md`：选材规则、发音训练、AI 纠错方式与研究证据对应
+
 ## [2.7.0] - 2026-10-26 · AI 学习模式、权威词表、学习科学、AI 时代词汇
 
 ### 新增
