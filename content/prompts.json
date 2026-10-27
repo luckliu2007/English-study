@@ -380,6 +380,21 @@
     "followUp": "输出的能力分和弱项建议抄进周复盘模板，按自适应学习计划的升级规则调整下周任务"
   },
   {
+    "id": "p-tutor-self-correction",
+    "title": "先提示、后纠正的反馈方式",
+    "skill": "ai-prompt",
+    "category": "tutor-setup",
+    "level": "all",
+    "prompt": "For the rest of this conversation, please use hint-first feedback. When I make a mistake, don't correct it right away. Mark the sentence with ⚠️ and give me a short hint about the type of error (for example, \"check the verb tense\" or \"wrong preposition\"). Let me try to fix it myself. If my second try is still wrong, show the correct version and explain it in one sentence. In each reply, only flag the 1-2 errors that most affect understanding. My level is [level].",
+    "usage": "开始口语或写作练习前先发这一段，把 AI 的纠错方式改成“先提示、让你自己改”。研究发现这比直接给出正确说法效果更好（见 docs/sla-evidence.md）。自己改对的句子同样记进错词错句本。",
+    "variables": [
+      {
+        "name": "[level]",
+        "hint": "你的大致水平，例如 B1"
+      }
+    ]
+  },
+  {
     "id": "p-review-weekly-quiz",
     "title": "错题周测",
     "skill": "ai-prompt",

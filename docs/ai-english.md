@@ -39,10 +39,13 @@ AI 对话工具是目前最容易获得的英语陪练：无限耐心、随时�
 4. 对话结束后把错句和新表达搬进打卡记录或 Anki，不要留在聊天记录里。
 5. 不要让 AI 替你写：先自己写完，再让 AI 修改和讲解。
 6. 一次配置好人设，别每次对话都重新交代背景——见下面「配置长期 AI 导师人设」。
+7. 先提示，让自己改：研究发现，提示学习者自己纠正，比直接给出正确说法效果更好（见 [英语学习的研究证据](sla-evidence.md)）。可以这样要求 AI（也收录在提示词库 `p-tutor-self-correction`）：
+
+   > When I make a mistake, don't correct it right away. Mark the sentence with ⚠️ and give me a short hint (for example, "check the verb tense"). Let me try to fix it first, and show the correct version only after my second try.
 
 ## 结构化提示词库
 
-这个模块的核心不是本页的文字，而是 [`content/prompts.json`](../content/prompts.json)：30 条带 [JSON Schema](../content/schema/prompts.schema.json) 约束的 AI 提示词，和 `vocabulary.json` / `reading.json` / `quizzes.json` 走同一套校验和 CI（见 [结构化内容数据](../README.md#结构化内容数据)）。每条记录包含：
+这个模块的核心不是本页的文字，而是 [`content/prompts.json`](../content/prompts.json)：31 条带 [JSON Schema](../content/schema/prompts.schema.json) 约束的 AI 提示词，和 `vocabulary.json` / `reading.json` / `quizzes.json` 走同一套校验和 CI（见 [结构化内容数据](../README.md#结构化内容数据)）。每条记录包含：
 
 - `category`：对应 [自适应学习计划](adaptive-plan.md) 的六能力点 `L/P/F/V/G/W`，外加 `exam`（考试模拟）、`tutor-setup`（长期人设配置）、`review`（错题/周复盘）
 - `prompt`：英文提示词模板，`[方括号]` 是需要替换的变量，`variables` 字段逐个解释
@@ -142,6 +145,7 @@ AI 陪练最大的风险是「虚假掌握感」：跟 AI 对话时觉得自己�
 3. **对比录音**：口语练习定期录音，一个月后回听更早的录音，能听出差距才说明在进步，光凭感觉不准。
 4. **警惕 AI 的礼貌性鼓励**：AI 默认倾向于说"你做得不错"，主动要求它更严格（见下方注意事项）。
 5. **看输出量而不是对话轮数**：聊了很久但都是 AI 在说、你在附和，不算有效练习。
+6. **短期效果不等于长期掌握**：生成式 AI 学外语的元分析里，只持续 1–7 天的短期研究效果最大；判断自己是否进步，要按月对比测试结果（见 [英语学习的研究证据](sla-evidence.md)）。
 
 ## 注意事项
 

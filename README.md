@@ -35,6 +35,7 @@
 | 想找高质量 GitHub 英语资源 | [精选合集](docs/awesome-lists.md) |
 | 想直接用 GitHub 上的学习项目 | [GitHub 项目精选](docs/github-projects.md) |
 | 想在国内网络环境下稳定学习 | [中国环境友好资源](docs/china-friendly.md) |
+| 想知道哪些练法真的有效（要认识多少词、泛读和 AI 对话有没有用） | [英语学习的研究证据](docs/sla-evidence.md) |
 | 想每天打卡 | [学习打卡模板](templates/daily-check-in.md) |
 | 想整理错词错句 | [错词错句本](templates/error-log.md) |
 | 想按技能找资源，或想调整学习方法本身（记忆、专注、抗考试焦虑） | 看下面的分类导航 |
@@ -63,6 +64,7 @@
 | 方法 | 解决什么问题 |
 | --- | --- |
 | **[学习方法总览](docs/learning-science.md)** | **先看这页：哪些方法有研究证据（练习测试、间隔重复），哪些只是感觉有用（重读、划线）** |
+| **[英语学习的研究证据](docs/sla-evidence.md)** | **二语习得研究：认识多少词才读得懂、听得懂（98% / 95%），泛读、间隔复习、纠错、发音训练、看视频和 AI 对话各有多大效果；附词汇量自测和材料难度工具** |
 | [主动回忆法](docs/active-recall.md) | 用测试代替重复阅读，记得更牢 |
 | [康奈尔笔记法](docs/cornell-notes.md) | 听课/阅读时如何做结构化笔记 |
 | [考试焦虑应对](docs/exam-anxiety.md) | 考前紧张、发挥失常的调节方法 |
@@ -129,7 +131,7 @@
 | [`content/vocabulary.json`](content/vocabulary.json) | 分级词汇（CEFR A1–C2，含音标/例句/中文释义） | [schema](content/schema/vocabulary.schema.json) |
 | [`content/reading.json`](content/reading.json) | 分级阅读：`article`（原创英文短文，带生词表+理解题）与 `guide`（仓库文档导航） | [schema](content/schema/reading.schema.json) |
 | [`content/quizzes.json`](content/quizzes.json) | 测验题库（选项顺序随机，答案分布均衡） | [schema](content/schema/quizzes.schema.json) |
-| [`content/prompts.json`](content/prompts.json) | AI 提示词库：30 条按六能力点 + 考试 + 长期人设 + 错题复盘分类的英文提示词模板 | [schema](content/schema/prompts.schema.json) |
+| [`content/prompts.json`](content/prompts.json) | AI 提示词库：31 条按六能力点 + 考试 + 长期人设 + 错题复盘分类的英文提示词模板 | [schema](content/schema/prompts.schema.json) |
 | [`content/manifest.json`](content/manifest.json) | 同步契约（各文件 SHA256 + 条目数），由脚本自动生成 | — |
 
 本地校验与生成：

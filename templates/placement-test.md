@@ -71,7 +71,13 @@
 | 语法基本准确 |  |
 | 有具体例子 |  |
 
-## 6. 初始等级
+## 6. 词汇量与等级自评（可选，更准）
+
+- 词汇量：做一次 [Paul Nation 词汇量测试](https://www.wgtn.ac.nz/lals/resources/paul-nations-resources/vocabulary-tests)（有英汉双语版；词汇量不到 5,000 词时改做 Vocabulary Levels Test），记录结果：____ 词族
+- 等级自评：对照 [《中国英语能力等级量表》](https://www.beijing.gov.cn/zhengce/zhengcefagui/201905/W020190522506707139165.docx) 第 7 章的自我评价量表，听、读、说、写各自大约在第几级：听 __ 读 __ 说 __ 写 __
+- 怎么用这两个结果，见 [英语学习的研究证据](../docs/sla-evidence.md)
+
+## 7. 初始等级
 
 | 能力 | 分数 0-5 |
 | --- | --- |

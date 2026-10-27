@@ -245,6 +245,16 @@
     "body": "考试焦虑源于不确定感与灾难化想象。对策：① 模拟考——按真实时长限时做，降低陌生感；② 盒式呼吸（4-4-4-4）在考前 1 分钟平复；③ 把「我会考砸」重构为「我已按计划练过，正常发挥即可」。每周做一次低压力的常态化模拟测验，也能显著降低临场紧张。"
   },
   {
+    "id": "r-sla-evidence",
+    "title": "英语学习的研究证据",
+    "type": "guide",
+    "level": "B1",
+    "skill": "reading",
+    "source": "github:luckliu2007/English-study",
+    "summary": "要认识多少词才读得懂、泛读和纠错有没有用、看视频和 AI 对话能学到多少，附研究原文。",
+    "body": "阅读时认识约 98% 的词（每 50 个词最多 1 个生词）、听力约 95%，多数学习者才能不查词典读懂、听懂；不查词典读小说、报纸需要 8,000–9,000 个词族。元分析显示：泛读明显好于只做精读；间隔复习有中到大的效果；先提示学习者自己改，比直接给出正确说法更有效；坚持并带反馈的发音训练效果大；教育类视频比娱乐类视频更有助于学习；AI 对话对口语有中等效果，但短期实验的效果最大，要定期脱离 AI 自测。"
+  },
+  {
     "id": "r-article-my-morning",
     "title": "My Morning",
     "type": "article",
@@ -2173,6 +2183,128 @@
           "To argue that AI should replace pilots",
           "As an example of deliberately practising skills that automation has made rare",
           "To describe a new AI product"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "r-article-easy-books",
+    "title": "Easy Books Make Strong Readers",
+    "type": "article",
+    "skill": "reading",
+    "level": "A2",
+    "source": "English-study original",
+    "summary": "泛读入门：读几乎都认识的书，每天坚持，比啃难书进步更快。",
+    "body": "Mia is learning English. Last year she read only her textbook, and every page had many new words. She used her dictionary all the time, and reading felt slow and boring. Then her teacher gave her some easy books. “Choose a book where you know almost every word,” the teacher said. “If a page has more than five new words, choose an easier book.” Mia started to read for twenty minutes every evening. The stories were simple, but they were fun, and she finished one book every week. After six months, she could read faster, and she understood more words without the dictionary. Now she says, “Easy books did not make my English easy. They made it strong.”",
+    "wordCount": 118,
+    "glossary": [
+      {
+        "word": "textbook",
+        "meaning": "课本"
+      },
+      {
+        "word": "dictionary",
+        "meaning": "词典"
+      },
+      {
+        "word": "boring",
+        "meaning": "无聊的"
+      },
+      {
+        "word": "understood",
+        "meaning": "理解（understand 的过去式）"
+      }
+    ],
+    "questions": [
+      {
+        "q": "What was the problem with Mia's textbook?",
+        "options": [
+          "It was too expensive",
+          "It had no pictures",
+          "It was too short",
+          "Every page had many new words"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What did the teacher tell Mia to do?",
+        "options": [
+          "Choose a book where she knows almost every word",
+          "Choose the longest book",
+          "Read only her textbook",
+          "Use a dictionary for every word"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What changed after six months?",
+        "options": [
+          "She stopped reading",
+          "She bought a new dictionary",
+          "She read faster and needed the dictionary less",
+          "She read only on weekends"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "r-article-one-in-fifty",
+    "title": "One New Word in Fifty",
+    "type": "article",
+    "skill": "reading",
+    "level": "B1",
+    "source": "English-study original",
+    "summary": "词汇覆盖率研究：认识约 98% 的词才能轻松读懂，用“一页 5 个生词”给材料定难度。",
+    "body": "How many unknown words can a page have before reading stops being fun? Researchers have a surprisingly exact answer. In one well-known study, learners read a story in which some words had been replaced with nonsense words. When one word in twenty was unknown, only a small number of readers understood the story well. To understand it without a dictionary, most learners needed to know about 98 percent of the words — that is, no more than one new word in fifty. This number gives learners a simple test. Before you start a book, read one page and count the words you don't know. A typical page has about 250 words, so five unknown words is the limit. If you find more, the book is better for careful study than for relaxed reading. Listening is a little more forgiving: knowing around 95 percent of the words may be enough.",
+    "wordCount": 148,
+    "glossary": [
+      {
+        "word": "nonsense word",
+        "meaning": "无意义的假词"
+      },
+      {
+        "word": "unknown",
+        "meaning": "不认识的"
+      },
+      {
+        "word": "typical",
+        "meaning": "一般的，典型的"
+      },
+      {
+        "word": "forgiving",
+        "meaning": "宽容的（这里指要求较低）"
+      }
+    ],
+    "questions": [
+      {
+        "q": "In the study, what happened when one word in twenty was unknown?",
+        "options": [
+          "Every reader understood the story",
+          "The readers stopped reading",
+          "The readers used a dictionary",
+          "Only a few readers understood the story well"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "According to the text, what is the limit of unknown words on a page for relaxed reading?",
+        "options": [
+          "About one",
+          "About five",
+          "About twenty",
+          "About fifty"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What does the text say about listening?",
+        "options": [
+          "It needs more known words than reading",
+          "It needs exactly 98 percent",
+          "Knowing about 95 percent of the words may be enough",
+          "It cannot be measured"
         ],
         "answer": 2
       }

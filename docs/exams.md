@@ -5,8 +5,8 @@
 | 考试 | 变化 | 对备考的影响 | 官方来源 |
 | --- | --- | --- | --- |
 | TOEFL iBT | 2026-01-21 起成绩改为 **1–6 分制**（每档 0.5 分），总分和各单项都与 CEFR 等级对应（6 = C2，5–5.5 = C1，4–4.5 = B2）；过渡期内院校仍可能沿用旧的 0–120 分要求 | 看目标院校要求时先确认是哪种分制，用 ETS 官方换算表对照；网上 2025 年以前的“分数攻略”已不适用 | [ETS：成绩说明](https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html) · [ETS：分制更新与换算](https://www.ets.org/toefl/institutions/ibt/score-scale-update.html) |
-| IELTS | 官方宣布自 2026 年年中起**不再提供纸笔考试**，全面改为机考，具体时间各地不同；部分地区提供“写作手写”选项；机考可申请单科重考（One Skill Retake） | 备考时直接用机考模拟练习，熟悉电脑打字写作；报名前在当地考点确认是否还有纸笔考或手写写作选项 | [IELTS 官方公告（2026-03-05）](https://ielts.org/news-and-insights/updates-to-ielts-test-delivery) |
-| 大学英语四六级 | 报名、准考证、成绩查询和口试说明以官网公告为准 | 每次考试前看官网通知，不要依赖培训机构的“预测” | [全国大学英语四、六级考试网站](https://cet.neea.edu.cn/) |
+| IELTS | 官方宣布自 2026 年年中起**不再提供纸笔考试**，全面改为机考，具体时间各地不同（中国大陆：用于英国签证及移民的雅思 2026-07-01 起、普通雅思 2026-09-01 起已全部机考，题型、难度和评分标准不变）；部分地区提供“写作手写”选项；机考可申请单科重考（One Skill Retake） | 备考时直接用机考模拟练习，熟悉电脑打字写作；报名前在当地考点确认是否还有纸笔考或手写写作选项 | [IELTS 官方公告（2026-03-05）](https://ielts.org/news-and-insights/updates-to-ielts-test-delivery) · [新京报转述雅思官方消息（2026-05-14）](https://www.bjnews.com.cn/detail/1778750110168057.html) |
+| 大学英语四六级 | 报名、准考证、成绩查询和口试说明以官网公告为准；2026 年下半年笔试 12 月 12 日，口试 11 月 21–22 日 | 每次考试前看官网通知，不要依赖培训机构的“预测” | [全国大学英语四、六级考试网站](https://cet.neea.edu.cn/) |
 
 ## IELTS
 
@@ -45,6 +45,15 @@
 | --- | --- |
 | [Cambridge English Test Your English](https://www.cambridgeenglish.org/test-your-english/) | 快速判断大致英语水平 |
 | [EF SET](https://www.efset.org/) | 免费英语水平测试 |
+
+## 能力标准：先知道自己在哪一级
+
+| 标准 | 说明 |
+| --- | --- |
+| [《中国英语能力等级量表》](https://www.beijing.gov.cn/zhengce/zhengcefagui/201905/W020190522506707139165.docx) | 教育部、国家语委 2018 年发布的国家语言文字规范（GF 0018-2018），把英语能力分为 9 级、3 个阶段，附“我能……”形式的自我评价量表。教育部考试中心和英国文化教育协会 2019 年发布了雅思、Aptis 与该量表的[对接研究](https://www.britishcouncil.org/research-insight/china-standards-english-linking-uk-exams) |
+| CEFR（欧洲语言共同参考框架） | A1–C2 六级，托福 2026 新分制、雅思等成绩都可对应到 CEFR；能力描述可在 [CEFR descriptors search](https://www.coe.int/en/web/common-european-framework-reference-languages/cefr-descriptors-search) 查 |
+
+词汇量自测和材料难度判断见 [英语学习的研究证据](sla-evidence.md)。
 
 ## 国内备考辅助
 
