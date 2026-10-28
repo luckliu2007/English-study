@@ -22,3 +22,8 @@ https://english-e-reader\.net/.*
 # Academic Phrasebank（曼彻斯特大学）：资源稳定、地址未变，但 2026-10 起频繁间歇性无法连接，
 # 为避免阻塞自动合并暂不检查；若长期不可用再考虑替换。
 ^https://www\.phrasebank\.manchester\.ac\.uk/
+
+# 新京报：海外网络（含 GitHub Actions）访问常超时，国内可正常访问（2026-10-27 CI 超时）
+^https?://www\.bjnews\.com\.cn/
+# 夏威夷大学 NFLRC（Reading in a Foreign Language 期刊页面）：2026-10-27 CI 中间歇性超时，本机访问正常
+^https?://(www\.)?nflrc\.hawaii\.edu/
