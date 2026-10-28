@@ -252,7 +252,7 @@
     "skill": "reading",
     "source": "github:luckliu2007/English-study",
     "summary": "要认识多少词才读得懂、泛读和纠错有没有用、看视频和 AI 对话能学到多少，附研究原文。",
-    "body": "阅读时认识约 98% 的词（每 50 个词最多 1 个生词）、听力约 95%，多数学习者才能不查词典读懂、听懂；不查词典读小说、报纸需要 8,000–9,000 个词族。元分析显示：泛读明显好于只做精读；间隔复习有中到大的效果；先提示学习者自己改，比直接给出正确说法更有效；坚持并带反馈的发音训练效果大；教育类视频比娱乐类视频更有助于学习；AI 对话对口语有中等效果，但短期实验的效果最大，要定期脱离 AI 自测。"
+    "body": "经典研究估计，阅读时认识约 98% 的词（每 50 个词最多 1 个生词）、听力约 95%，多数学习者才能不查词典读懂、听懂（2025 年的重复实验显示 90%–98% 之间差别不显著，宜当作经验线）；不查词典读小说、报纸需要 8,000–9,000 个词族。元分析显示：泛读明显好于只做精读；间隔复习有中到大的效果；先提示学习者自己改，比直接给出正确说法更有效；坚持并带反馈的发音训练效果大；教育类视频比娱乐类视频更有助于学习；AI 对话对口语有中等效果，但短期实验的效果最大，要定期脱离 AI 自测。"
   },
   {
     "id": "r-article-my-morning",
@@ -2257,8 +2257,8 @@
     "level": "B1",
     "source": "English-study original",
     "summary": "词汇覆盖率研究：认识约 98% 的词才能轻松读懂，用“一页 5 个生词”给材料定难度。",
-    "body": "How many unknown words can a page have before reading stops being fun? Researchers have a surprisingly exact answer. In one well-known study, learners read a story in which some words had been replaced with nonsense words. When one word in twenty was unknown, only a small number of readers understood the story well. To understand it without a dictionary, most learners needed to know about 98 percent of the words — that is, no more than one new word in fifty. This number gives learners a simple test. Before you start a book, read one page and count the words you don't know. A typical page has about 250 words, so five unknown words is the limit. If you find more, the book is better for careful study than for relaxed reading. Listening is a little more forgiving: knowing around 95 percent of the words may be enough.",
-    "wordCount": 148,
+    "body": "How many unknown words can a page have before reading stops being fun? One famous study gave a clear answer. In one well-known study, learners read a story in which some words had been replaced with nonsense words. When one word in twenty was unknown, only a small number of readers understood the story well. To understand it without a dictionary, most learners needed to know about 98 percent of the words — that is, no more than one new word in fifty. This number gives learners a simple test. Before you start a book, read one page and count the words you don't know. A typical page has about 250 words, so five unknown words is the limit. If you find more, the book is better for careful study than for relaxed reading. Listening is a little more forgiving: knowing around 95 percent of the words may be enough. A newer study in 2025 found that the differences between 90, 95 and 98 percent were smaller than expected, so treat the number as a useful guide, not a strict rule.",
+    "wordCount": 180,
     "glossary": [
       {
         "word": "nonsense word",

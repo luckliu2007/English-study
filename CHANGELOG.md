@@ -4,6 +4,18 @@
 
 ## [Unreleased]
 
+## [2.8.1] - 2026-10-28 · 词汇覆盖率的最新证据、链接检查修复
+
+### 更新
+
+- `docs/sla-evidence.md`、`docs/reading.md`：补充 Webb、Pellicer-Sánchez、Wang（2025，Reading in a Foreign Language 37(1)）对 Hu & Nation（2000）的部分重复实验——90%、95%、98% 覆盖率三组的理解得分没有显著差别，覆盖率只能解释约 11% 的理解差异；98% 改为“经验线”的表述
+- `content/reading.json`：《One New Word in Fifty》补充一句 2025 年新研究的提醒；导航条目 `r-sla-evidence` 同步；`content/quizzes.json` 的 `q-evidence-b1` 第 1 题注明是经典研究的估计
+
+### 修复
+
+- Laufer & Ravenhorst-Kalovski（2010）改链到期刊页面（原 hdl.handle.net 链接在 CI 中出现重定向循环）
+- `.lycheeignore`：新增新京报和夏威夷大学 NFLRC（期刊页面）两个在 GitHub Actions 中间歇性超时、本机访问正常的站点
+
 ## [2.8.0] - 2026-10-27 · 英语学习的研究证据、词汇量自测、考试动态
 
 ### 新增
