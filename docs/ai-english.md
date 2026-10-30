@@ -106,7 +106,7 @@ same thing, then continue the role-play.
 
 ## 实时语音陪练
 
-语音对话最适合练**口语流利度**（F）和**听力反应**（L），可以在通勤、散步时练。主流 AI 助手都提供语音对话模式，例如 ChatGPT 语音、[Gemini Live](https://support.google.com/gemini/answer/15274899)、豆包语音通话（国内网络可直接用）。具体功能和开放地区以各家 App 为准。
+语音对话最适合练**口语流利度**（F）和**听力反应**（L），可以在通勤、散步时练。主流 AI 助手都提供语音对话模式，例如 ChatGPT 语音、[Gemini Live](https://support.google.com/gemini/answer/15274899)、豆包语音通话（国内网络可直接用）。具体功能和开放地区以各家 App 为准。研究支持这种练法：2026 年的一项元分析汇总 19 项研究、2,643 人，用能语音对话的大模型聊天机器人练习，对二语学习成绩的总体效果为 0.68（见 [英语学习的研究证据](sla-evidence.md)）。
 
 **开场先定规则**（直接说或打字发给它）：
 

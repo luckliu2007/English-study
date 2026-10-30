@@ -12,3 +12,5 @@ forrany/Awesome-Ollama-Server
 xiaoyang111222/cn-math-taxonomy
 SteveSuv/remix-words-funny
 Fangx-AI/geo-doctor
+# 2026-10-30：README 自述释义、例句、插画由生成式 AI 生成且尚未逐条人工审校；作者完成人工审校后可移出，重新评估（见 ROADMAP 持续跟踪）
+designfuchen/word-atlas
