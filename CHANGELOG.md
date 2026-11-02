@@ -4,6 +4,12 @@
 
 ## [Unreleased]
 
+## [2.8.3] - 2026-11-02 · 生成式 AI 学外语的综合元分析
+
+### 新增
+
+- `docs/sla-evidence.md`：Saarela、Gunasekara、Kumarage（2026，Discover Computing）元分析——51 项研究、175 个独立效应量，生成式 AI 工具对语言水平和情感–认知方面有显著的大效应，非正式学习场景、产出技能上更强
+
 ## [2.8.2] - 2026-10-30 · 语音 AI 陪练的新证据
 
 ### 新增
