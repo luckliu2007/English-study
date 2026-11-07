@@ -14,3 +14,5 @@ SteveSuv/remix-words-funny
 Fangx-AI/geo-doctor
 # 2026-10-30：README 自述释义、例句、插画由生成式 AI 生成且尚未逐条人工审校；作者完成人工审校后可移出，重新评估（见 ROADMAP 持续跟踪）
 designfuchen/word-atlas
+# 2026-11-07：data/word_chinese 中的释义与例句未说明来源、像是生成式 AI 写的且未声明人工审校，数据许可只写“请自行确认各来源条款”；作者补充数据来源和审校说明后可移出，重新评估
+orionsheep/wordlink
