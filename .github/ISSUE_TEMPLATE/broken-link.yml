@@ -1,7 +1,7 @@
 name: 🔗 报告失效链接 / Report a broken link
 description: 某个资源链接已经打不开或内容已下线
 title: "[失效链接] "
-labels: ["broken-link"]
+labels: ["bug"]
 body:
   - type: input
     id: file

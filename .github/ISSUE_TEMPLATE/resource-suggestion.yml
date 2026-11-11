@@ -1,7 +1,7 @@
 name: 📚 推荐新资源 / Suggest a resource
 description: 推荐一个值得收录的英语学习资源
 title: "[资源推荐] "
-labels: ["resource"]
+labels: ["enhancement"]
 body:
   - type: input
     id: name

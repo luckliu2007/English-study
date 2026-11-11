@@ -6,6 +6,9 @@
 
 ### 变更
 
+- 2026-11-11 `CODE_OF_CONDUCT.md`：升级到贡献者公约 3.0 官方中文译文；举报方式改为 GitHub 的举报功能（原文写的“通过 Issues 私信”无法实现）
+- 2026-11-11 `.github/ISSUE_TEMPLATE/`：新增内容勘误表单；表单改用仓库已有的标签（原来的 `resource`、`broken-link` 标签不存在，提交时不会生效）；去掉指向未开启的 Discussions 的链接
+- 2026-11-11 `.github/workflows/content-check.yml` 显式声明只读权限；新增 `.github/dependabot.yml`，每月检查一次 Actions 新版本
 - 2026-11-08 `.github/radar-ignore.txt`：雷达候选 wordlink 暂不收录（词条释义来源未说明，抽查有错误），写明可重新评估的条件
 
 ## [2.8.3] - 2026-11-02 · 生成式 AI 学外语的综合元分析

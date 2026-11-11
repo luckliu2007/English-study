@@ -150,6 +150,7 @@ CI（[`content-check.yml`](.github/workflows/content-check.yml)）会在每次 p
 
 - 提交 [资源推荐 issue](https://github.com/luckliu2007/English-study/issues/new?template=resource-suggestion.yml)
 - 提交 [失效链接报告 issue](https://github.com/luckliu2007/English-study/issues/new?template=broken-link.yml)
+- 研究数字或考试信息有误：提交 [内容勘误 issue](https://github.com/luckliu2007/English-study/issues/new?template=content-error.yml)，附原文链接
 - 直接发 Pull Request：普通资源条目按 [贡献指南](CONTRIBUTING.md) 的格式补充到对应分类；`content/*.json` 的改动同样遵循 CONTRIBUTING.md 里“贡献结构化内容”一节的规则
 
 每条资源尽量写清楚：适合什么水平、解决什么问题、是否免费。
