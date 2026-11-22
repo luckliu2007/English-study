@@ -16,3 +16,11 @@ Fangx-AI/geo-doctor
 designfuchen/word-atlas
 # 2026-11-08：词条释义与例句来源未说明，抽查疑似生成式 AI 撰写且有错误（如 ab 释为“v. 做仰卧起坐”）；作者说明数据来源并完成人工审校后可移出重新评估
 orionsheep/wordlink
+Thiago-code-lab/aws-certified-ai-practitioner-brasil
+# 2026-11-22：四六级 / 考研真题合集，题目、音频和 PDF 未获授权再分发（cet-practice 的 LICENSE-NOTICE 自述如此），属“版权来源不清晰的材料”
+o-Sakurajimamai-o/cet-practice
+0609x/CET46-Resources
+# 2026-11-22：改装小爱音箱的儿童英语陪聊，创建仅一周、需改装硬件，不适合推荐给一般学习者
+rolazd/xiaoai-doubao
+# 2026-11-22：自托管 AI 语言学习平台，课程内容由大模型生成，部署需要 Docker 和 GPU 或云端语音 API；有人工审校的课程或面向中文使用者的托管版后可重新评估
+artcc/freelingo
