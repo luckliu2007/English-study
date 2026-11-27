@@ -16,6 +16,7 @@
 | [British Council IELTS](https://takeielts.britishcouncil.org/) | 备考说明、样题和建议 |
 | [IELTS Liz](https://ieltsliz.com/) | 雅思技巧、写作和口语材料 |
 | [IELTS Simon](https://ielts-simon.com/) | 雅思写作思路和范文分析 |
+| [OpenExam Hub](https://openexamhub.org) | 免费学习规划工具，把官方雅思公开材料排成每日计划，并附带只在浏览器运行的 CLB/NCLC 换算器（生成计划需免费注册） |
 
 ## TOEFL
 
